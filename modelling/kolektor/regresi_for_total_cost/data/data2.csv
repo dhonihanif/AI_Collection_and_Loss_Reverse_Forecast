@@ -1,1001 +1,1001 @@
 ,avg_bill_methods,debtor_volume_handled,bill_amount_collected,total_actual,total_cost,success_rate,time_to_collect,collector_gender,collector_marital_status,collector_age
-0,sms or WA,13,46800000,123100000,99948,38.0,1,laki-laki,Menikah,45
-1,sms or WA,10,52400000,58300000,72633,90.0,1,perempuan,Cerai mati,32
-2,sms or WA,13,21300000,127900000,79992,17.0,2,laki-laki,Cerai hidup,62
-3,sms or WA,12,47600000,78400000,83538,61.0,1,perempuan,Cerai mati,55
-4,sms or WA,19,16700000,31600000,133245,53.0,0,perempuan,Menikah,53
-5,sms or WA,15,30100000,55300000,155290,54.0,0,laki-laki,Belum menikah,33
-6,sms or WA,8,22900000,69200000,69023,33.0,1,perempuan,Cerai hidup,34
-7,sms or WA,3,17200000,20400000,29013,84.0,4,laki-laki,Belum menikah,38
-8,sms or WA,12,48300000,94000000,74121,51.0,4,perempuan,Menikah,54
-9,sms or WA,6,2700000,16800000,54021,16.0,1,laki-laki,Cerai hidup,43
-10,sms or WA,12,18000000,62400000,90359,28.999999999999996,0,perempuan,Menikah,46
-11,sms or WA,15,6400000,8200000,151487,78.0,1,laki-laki,Menikah,34
-12,sms or WA,14,17100000,128200000,111020,13.0,2,laki-laki,Menikah,32
-13,sms or WA,13,22200000,59400000,77676,37.0,3,laki-laki,Menikah,48
-14,sms or WA,7,15800000,18700000,59494,84.0,0,laki-laki,Cerai hidup,58
-15,sms or WA,11,15100000,49700000,113991,30.0,3,perempuan,Belum menikah,59
-16,sms or WA,12,89700000,119400000,111062,75.0,3,perempuan,Cerai mati,35
-17,sms or WA,7,27000000,53000000,55047,51.0,2,perempuan,Cerai mati,55
-18,sms or WA,3,6400000,23100000,18175,28.000000000000004,2,perempuan,Menikah,52
-19,sms or WA,1,2600000,3900000,6804,67.0,1,laki-laki,Menikah,34
-20,sms or WA,5,10700000,35500000,25391,30.0,1,perempuan,Cerai mati,30
-21,sms or WA,5,26300000,28700000,45339,92.0,3,perempuan,Cerai mati,50
-22,sms or WA,18,16400000,31200000,171905,53.0,1,perempuan,Cerai mati,54
-23,sms or WA,5,18800000,32700000,47859,56.99999999999999,3,laki-laki,Cerai mati,24
-24,sms or WA,14,30800000,39100000,111458,79.0,4,laki-laki,Cerai hidup,25
-25,sms or WA,17,32500000,41900000,85594,78.0,4,perempuan,Cerai mati,57
-26,sms or WA,3,2000000,2700000,21459,74.0,2,laki-laki,Belum menikah,38
-27,sms or WA,12,46100000,107100000,63219,43.0,4,perempuan,Belum menikah,62
-28,sms or WA,15,11000000,11300000,102718,97.0,4,laki-laki,Belum menikah,38
-29,sms or WA,14,8400000,90200000,102696,9.0,0,perempuan,Cerai hidup,34
-30,sms or WA,2,1700000,9700000,10341,18.0,2,perempuan,Cerai hidup,36
-31,sms or WA,15,27600000,33300000,144430,83.0,1,perempuan,Belum menikah,33
-32,sms or WA,16,7000000,23500000,110824,30.0,4,perempuan,Menikah,59
-33,sms or WA,1,500000,9100000,5529,5.0,2,perempuan,Cerai mati,37
-34,sms or WA,2,3200000,3500000,20922,91.0,2,laki-laki,Cerai hidup,26
-35,sms or WA,15,27800000,67600000,114592,41.0,0,perempuan,Menikah,44
-36,sms or WA,17,44100000,65300000,99988,68.0,2,perempuan,Menikah,54
-37,sms or WA,11,65600000,96500000,56261,68.0,4,laki-laki,Belum menikah,27
-38,sms or WA,11,47400000,72300000,67374,66.0,0,perempuan,Cerai hidup,23
-39,sms or WA,19,55400000,61100000,182331,91.0,0,perempuan,Cerai hidup,42
-40,sms or WA,10,55700000,65300000,97212,85.0,1,perempuan,Belum menikah,23
-41,sms or WA,9,34500000,35600000,96370,97.0,1,laki-laki,Cerai hidup,50
-42,sms or WA,1,2100000,3600000,9420,57.99999999999999,4,perempuan,Cerai hidup,24
-43,sms or WA,13,26400000,28500000,84719,93.0,2,laki-laki,Menikah,24
-44,sms or WA,5,13400000,29900000,33309,45.0,1,laki-laki,Cerai hidup,33
-45,sms or WA,3,7600000,16300000,30875,47.0,3,perempuan,Cerai hidup,41
-46,sms or WA,3,1400000,14400000,19172,10.0,4,perempuan,Menikah,55
-47,sms or WA,16,21700000,40600000,106279,53.0,2,perempuan,Cerai hidup,33
-48,sms or WA,6,14100000,52700000,65514,27.0,2,laki-laki,Cerai hidup,33
-49,sms or WA,10,14400000,68800000,84268,21.0,4,perempuan,Menikah,49
-50,sms or WA,15,26300000,37700000,105607,70.0,2,laki-laki,Menikah,56
-51,sms or WA,14,35500000,49200000,108880,72.0,4,laki-laki,Cerai mati,47
-52,sms or WA,4,10900000,23000000,42319,47.0,1,perempuan,Cerai mati,54
-53,sms or WA,5,4500000,7800000,56725,57.99999999999999,1,laki-laki,Cerai mati,45
-54,sms or WA,3,2600000,6300000,16668,41.0,3,perempuan,Cerai hidup,29
-55,sms or WA,15,16000000,24700000,99652,65.0,4,perempuan,Belum menikah,37
-56,sms or WA,10,56900000,89900000,70627,63.0,0,laki-laki,Cerai mati,37
-57,sms or WA,15,57100000,135800000,120808,42.0,3,laki-laki,Belum menikah,53
-58,sms or WA,15,6800000,25900000,104938,26.0,4,laki-laki,Belum menikah,63
-59,sms or WA,15,79700000,134400000,139777,59.0,1,laki-laki,Belum menikah,57
-60,sms or WA,13,68900000,94000000,114515,73.0,1,laki-laki,Cerai mati,41
-61,sms or WA,13,90400000,103400000,135361,87.0,3,perempuan,Cerai hidup,51
-62,sms or WA,3,4300000,22700000,26732,19.0,2,laki-laki,Menikah,51
-63,sms or WA,15,70600000,128100000,104003,55.00000000000001,2,laki-laki,Belum menikah,47
-64,sms or WA,11,46100000,75800000,58888,61.0,3,perempuan,Cerai hidup,33
-65,sms or WA,14,42300000,60100000,115839,70.0,3,perempuan,Menikah,59
-66,sms or WA,9,16100000,51500000,47441,31.0,0,laki-laki,Belum menikah,35
-67,sms or WA,7,4800000,10600000,37511,45.0,3,laki-laki,Belum menikah,29
-68,sms or WA,3,7900000,10400000,16266,76.0,0,laki-laki,Menikah,46
-69,sms or WA,5,12500000,32700000,26690,38.0,3,perempuan,Cerai mati,38
-70,sms or WA,18,111600000,171700000,181782,65.0,0,laki-laki,Belum menikah,36
-71,sms or WA,9,19600000,71600000,91046,27.0,4,perempuan,Cerai hidup,55
-72,sms or WA,11,16100000,20100000,66686,80.0,2,perempuan,Belum menikah,37
-73,sms or WA,3,1400000,16100000,20632,9.0,0,laki-laki,Cerai mati,49
-74,sms or WA,3,2600000,5400000,18522,48.0,1,perempuan,Cerai hidup,35
-75,sms or WA,2,1100000,1300000,28041,85.0,4,perempuan,Menikah,46
-76,sms or WA,8,70500000,73600000,73679,96.0,0,laki-laki,Cerai mati,40
-77,sms or WA,1,1300000,1300000,13690,100.0,1,perempuan,Belum menikah,40
-78,sms or WA,11,27000000,50500000,115375,53.0,0,laki-laki,Cerai hidup,35
-79,sms or WA,17,14400000,17700000,133103,81.0,4,laki-laki,Menikah,49
-80,sms or WA,16,34300000,124200000,139347,28.000000000000004,2,perempuan,Belum menikah,30
-81,sms or WA,9,34500000,48300000,67246,71.0,2,perempuan,Menikah,56
-82,sms or WA,13,39800000,107800000,68567,37.0,1,perempuan,Belum menikah,25
-83,sms or WA,4,16300000,18500000,22776,88.0,1,perempuan,Cerai mati,35
-84,sms or WA,12,71400000,108300000,83535,66.0,2,laki-laki,Cerai hidup,50
-85,sms or WA,5,11300000,15300000,53229,74.0,0,perempuan,Menikah,23
-86,sms or WA,13,13900000,69200000,103894,20.0,1,perempuan,Cerai mati,57
-87,sms or WA,10,34400000,37200000,67538,92.0,4,laki-laki,Menikah,49
-88,sms or WA,17,22500000,89100000,169479,25.0,2,perempuan,Cerai mati,38
-89,sms or WA,12,43400000,68300000,122115,64.0,2,perempuan,Belum menikah,23
-90,sms or WA,3,10300000,27600000,23052,37.0,0,laki-laki,Cerai hidup,53
-91,sms or WA,2,3400000,10400000,19868,33.0,1,laki-laki,Menikah,54
-92,sms or WA,5,12000000,16400000,38913,73.0,0,laki-laki,Cerai mati,38
-93,sms or WA,7,18500000,22500000,39088,82.0,0,perempuan,Menikah,40
-94,sms or WA,4,25200000,29900000,26349,84.0,2,laki-laki,Cerai mati,41
-95,sms or WA,1,9400000,9700000,6890,97.0,3,perempuan,Belum menikah,55
-96,sms or WA,10,11100000,41900000,87124,26.0,3,laki-laki,Cerai hidup,63
-97,sms or WA,14,18000000,20800000,75312,87.0,1,perempuan,Cerai hidup,44
-98,sms or WA,1,4400000,5400000,15005,81.0,1,laki-laki,Menikah,60
-99,sms or WA,11,52700000,55200000,96686,95.0,3,laki-laki,Menikah,24
-100,sms or WA,18,95500000,136500000,144841,70.0,4,laki-laki,Cerai mati,26
-101,sms or WA,11,5000000,7300000,116263,68.0,1,perempuan,Belum menikah,56
-102,sms or WA,4,6500000,8900000,48058,73.0,2,laki-laki,Menikah,48
-103,sms or WA,8,33600000,50200000,42685,67.0,0,perempuan,Belum menikah,39
-104,sms or WA,5,28300000,49500000,53489,56.99999999999999,3,laki-laki,Cerai hidup,40
-105,sms or WA,11,4800000,98100000,100206,5.0,3,laki-laki,Cerai mati,55
-106,sms or WA,19,69600000,125800000,179042,55.00000000000001,1,perempuan,Menikah,56
-107,sms or WA,5,13100000,43100000,45750,30.0,2,perempuan,Cerai hidup,62
-108,sms or WA,5,22300000,32300000,46563,69.0,3,laki-laki,Cerai hidup,38
-109,sms or WA,6,15100000,27400000,30311,55.00000000000001,1,perempuan,Belum menikah,40
-110,sms or WA,17,51400000,80000000,112426,64.0,1,perempuan,Menikah,29
-111,sms or WA,2,9000000,11100000,20628,81.0,4,laki-laki,Menikah,48
-112,sms or WA,10,9900000,37900000,64428,26.0,0,laki-laki,Cerai hidup,29
-113,sms or WA,16,103900000,134700000,97907,77.0,2,laki-laki,Cerai hidup,48
-114,sms or WA,7,21500000,65900000,61803,33.0,2,laki-laki,Menikah,28
-115,sms or WA,13,51000000,67100000,103166,76.0,4,perempuan,Menikah,43
-116,sms or WA,11,8000000,13600000,74159,59.0,3,laki-laki,Cerai mati,54
-117,sms or WA,7,3800000,7600000,66330,50.0,0,laki-laki,Menikah,50
-118,sms or WA,13,51300000,61300000,100287,84.0,1,perempuan,Menikah,42
-119,sms or WA,3,15700000,21200000,17352,74.0,3,laki-laki,Menikah,27
-120,sms or WA,12,23800000,36200000,67354,66.0,0,perempuan,Belum menikah,42
-121,sms or WA,9,51700000,61300000,70428,84.0,4,perempuan,Cerai mati,49
-122,sms or WA,1,800000,4000000,15026,20.0,0,perempuan,Cerai hidup,54
-123,sms or WA,2,16100000,18000000,24003,89.0,2,perempuan,Belum menikah,61
-124,sms or WA,14,10600000,110400000,88128,10.0,3,perempuan,Cerai mati,41
-125,sms or WA,18,81500000,102300000,116433,80.0,4,perempuan,Cerai mati,41
-126,sms or WA,17,11400000,12200000,119097,93.0,1,laki-laki,Cerai mati,63
-127,sms or WA,15,57600000,77600000,92448,74.0,3,perempuan,Cerai hidup,53
-128,sms or WA,10,11900000,18400000,79430,65.0,0,perempuan,Belum menikah,59
-129,sms or WA,4,9500000,32500000,31114,28.999999999999996,3,perempuan,Belum menikah,31
-130,sms or WA,2,1300000,1400000,29197,93.0,1,perempuan,Cerai hidup,23
-131,sms or WA,8,36400000,39800000,59903,91.0,2,perempuan,Cerai mati,34
-132,sms or WA,6,18200000,22000000,63530,83.0,0,laki-laki,Cerai hidup,62
-133,sms or WA,2,2600000,5800000,20382,45.0,2,laki-laki,Menikah,55
-134,sms or WA,10,20100000,22100000,86756,91.0,4,perempuan,Belum menikah,48
-135,sms or WA,7,4300000,4900000,44763,88.0,0,laki-laki,Menikah,30
-136,sms or WA,18,90500000,120900000,147142,75.0,0,laki-laki,Belum menikah,25
-137,sms or WA,17,10300000,12200000,98146,84.0,4,perempuan,Belum menikah,39
-138,sms or WA,3,12500000,24400000,19431,51.0,2,laki-laki,Cerai mati,32
-139,sms or WA,9,52000000,75200000,59955,69.0,2,perempuan,Cerai mati,61
-140,sms or WA,13,88800000,107500000,138006,83.0,1,perempuan,Cerai mati,60
-141,sms or WA,13,101200000,107000000,123651,95.0,0,perempuan,Cerai hidup,44
-142,sms or WA,7,3300000,25700000,62401,13.0,4,laki-laki,Cerai mati,23
-143,sms or WA,15,21300000,26800000,135700,79.0,3,laki-laki,Cerai hidup,34
-144,sms or WA,3,2300000,8900000,39222,26.0,2,perempuan,Menikah,38
-145,sms or WA,5,6400000,7900000,29420,81.0,3,laki-laki,Cerai hidup,26
-146,sms or WA,6,11200000,32500000,66821,34.0,0,laki-laki,Cerai hidup,46
-147,sms or WA,18,30100000,63700000,118882,47.0,4,perempuan,Menikah,54
-148,sms or WA,5,35500000,38400000,56158,92.0,1,laki-laki,Cerai mati,60
-149,sms or WA,8,20700000,70700000,83703,28.999999999999996,0,laki-laki,Menikah,46
-150,sms or WA,9,10100000,75500000,46856,13.0,3,laki-laki,Belum menikah,42
-151,sms or WA,16,42600000,62200000,150413,68.0,4,laki-laki,Cerai hidup,24
-152,sms or WA,6,10100000,37000000,39724,27.0,0,laki-laki,Menikah,29
-153,sms or WA,9,18100000,24300000,57299,74.0,3,laki-laki,Cerai hidup,35
-154,sms or WA,1,6200000,6400000,15399,97.0,2,perempuan,Belum menikah,37
-155,sms or WA,4,3500000,35900000,21979,10.0,1,laki-laki,Cerai mati,26
-156,sms or WA,18,29600000,93500000,165200,32.0,4,laki-laki,Cerai hidup,25
-157,sms or WA,9,4600000,5400000,93330,85.0,2,perempuan,Cerai hidup,52
-158,sms or WA,10,27300000,68000000,109553,40.0,2,laki-laki,Belum menikah,41
-159,sms or WA,11,36500000,48500000,93215,75.0,1,perempuan,Belum menikah,55
-160,sms or WA,11,50800000,70900000,61554,72.0,4,perempuan,Belum menikah,52
-161,sms or WA,18,39200000,58000000,169001,68.0,1,laki-laki,Cerai mati,39
-162,sms or WA,6,9300000,15700000,41444,59.0,2,laki-laki,Menikah,61
-163,sms or WA,17,31500000,38200000,163990,82.0,3,laki-laki,Menikah,60
-164,sms or WA,1,3900000,9400000,19297,41.0,2,laki-laki,Cerai mati,32
-165,sms or WA,5,17700000,27200000,49653,65.0,0,perempuan,Cerai hidup,62
-166,sms or WA,9,17800000,50900000,68536,35.0,3,perempuan,Menikah,59
-167,sms or WA,2,3300000,9300000,23256,35.0,1,laki-laki,Menikah,25
-168,sms or WA,1,1600000,3000000,9300,53.0,1,perempuan,Belum menikah,31
-169,sms or WA,15,53400000,85300000,144585,63.0,4,laki-laki,Belum menikah,41
-170,sms or WA,7,17200000,39000000,41630,44.0,1,laki-laki,Cerai hidup,40
-171,sms or WA,2,3900000,8900000,16291,44.0,1,laki-laki,Cerai mati,52
-172,sms or WA,19,53000000,76300000,199596,69.0,4,perempuan,Cerai mati,36
-173,sms or WA,3,8200000,22900000,26694,36.0,2,laki-laki,Menikah,60
-174,sms or WA,7,13100000,35600000,68664,37.0,3,laki-laki,Menikah,63
-175,sms or WA,5,26800000,41200000,27552,65.0,0,laki-laki,Menikah,25
-176,sms or WA,6,8700000,14400000,58152,60.0,0,perempuan,Belum menikah,30
-177,sms or WA,11,19800000,30300000,109811,65.0,0,laki-laki,Menikah,62
-178,sms or WA,4,1700000,13000000,44506,13.0,3,laki-laki,Belum menikah,53
-179,sms or WA,18,107800000,150100000,118219,72.0,1,laki-laki,Menikah,48
-180,sms or WA,19,20100000,56300000,140448,36.0,2,perempuan,Menikah,52
-181,sms or WA,9,6600000,6800000,96434,97.0,2,laki-laki,Cerai hidup,45
-182,sms or WA,12,66500000,85400000,127057,78.0,0,perempuan,Belum menikah,51
-183,sms or WA,4,34500000,38200000,28941,90.0,1,laki-laki,Cerai mati,30
-184,sms or WA,9,18000000,35600000,46640,51.0,4,perempuan,Menikah,50
-185,sms or WA,14,88100000,90500000,124383,97.0,1,laki-laki,Cerai hidup,59
-186,sms or WA,11,54000000,81100000,82298,67.0,0,laki-laki,Cerai hidup,38
-187,sms or WA,18,163900000,176500000,103302,93.0,3,laki-laki,Belum menikah,25
-188,sms or WA,1,4300000,5900000,7940,73.0,2,perempuan,Menikah,38
-189,sms or WA,9,6200000,27300000,76396,23.0,4,laki-laki,Menikah,44
-190,sms or WA,17,63700000,70000000,144651,91.0,3,perempuan,Menikah,32
-191,sms or WA,16,140200000,148500000,141015,94.0,4,perempuan,Cerai mati,57
-192,sms or WA,13,49500000,92700000,92059,53.0,0,laki-laki,Cerai mati,40
-193,sms or WA,6,16200000,21400000,50951,76.0,0,perempuan,Cerai hidup,55
-194,sms or WA,11,30400000,56300000,110860,54.0,2,laki-laki,Menikah,35
-195,sms or WA,9,65800000,76100000,90771,86.0,3,laki-laki,Menikah,44
-196,sms or WA,3,20400000,24900000,36636,82.0,2,perempuan,Belum menikah,63
-197,sms or WA,7,7400000,23300000,78567,32.0,0,perempuan,Belum menikah,61
-198,sms or WA,13,44200000,83100000,135393,53.0,3,perempuan,Belum menikah,63
-199,sms or WA,17,16400000,26000000,133812,63.0,0,perempuan,Cerai hidup,55
-200,sms or WA,16,29300000,53400000,122336,55.00000000000001,3,laki-laki,Menikah,26
-201,sms or WA,10,48000000,74000000,66770,65.0,2,perempuan,Menikah,33
-202,sms or WA,11,49700000,98300000,65103,51.0,3,perempuan,Cerai mati,60
-203,sms or WA,16,38400000,110100000,152730,35.0,0,perempuan,Cerai hidup,53
-204,sms or WA,3,1200000,2200000,26217,55.00000000000001,1,laki-laki,Cerai hidup,25
-205,sms or WA,14,17300000,32700000,97672,53.0,1,laki-laki,Cerai hidup,35
-206,sms or WA,16,28400000,109800000,92255,26.0,0,laki-laki,Cerai mati,56
-207,sms or WA,15,106500000,120600000,75752,88.0,4,perempuan,Menikah,24
-208,sms or WA,2,4400000,19200000,25972,23.0,2,laki-laki,Menikah,42
-209,sms or WA,9,4200000,44900000,72034,9.0,2,laki-laki,Cerai mati,25
-210,sms or WA,16,85800000,97300000,141630,88.0,1,laki-laki,Menikah,41
-211,sms or WA,13,31400000,129100000,110264,24.0,1,perempuan,Cerai hidup,54
-212,sms or WA,17,105800000,142600000,85246,74.0,4,perempuan,Cerai mati,32
-213,sms or WA,10,7600000,18400000,62919,41.0,3,laki-laki,Belum menikah,51
-214,sms or WA,18,19100000,88400000,184697,22.0,0,laki-laki,Cerai mati,23
-215,sms or WA,19,55300000,79900000,181123,69.0,1,laki-laki,Belum menikah,37
-216,sms or WA,5,2700000,6300000,45937,43.0,0,laki-laki,Belum menikah,59
-217,sms or WA,3,14900000,18800000,25768,79.0,3,perempuan,Cerai hidup,26
-218,sms or WA,9,21000000,27600000,76945,76.0,2,laki-laki,Belum menikah,38
-219,sms or WA,1,700000,1800000,13668,39.0,4,perempuan,Cerai mati,37
-220,sms or WA,13,23200000,25400000,88675,91.0,0,perempuan,Menikah,25
-221,sms or WA,14,23100000,78900000,91483,28.999999999999996,4,laki-laki,Cerai hidup,46
-222,sms or WA,6,11300000,23900000,36879,47.0,0,perempuan,Cerai mati,42
-223,sms or WA,11,8300000,75800000,98113,11.0,1,laki-laki,Cerai mati,39
-224,sms or WA,10,10800000,13000000,77989,83.0,1,laki-laki,Menikah,50
-225,sms or WA,5,5000000,13500000,28855,37.0,4,laki-laki,Cerai hidup,59
-226,sms or WA,13,7400000,10300000,131216,72.0,1,perempuan,Menikah,37
-227,sms or WA,17,11300000,36100000,110228,31.0,1,laki-laki,Cerai mati,62
-228,sms or WA,16,68400000,135200000,110994,51.0,2,perempuan,Belum menikah,29
-229,sms or WA,12,74300000,94600000,103903,79.0,0,perempuan,Menikah,63
-230,sms or WA,17,24500000,33200000,163679,74.0,0,perempuan,Belum menikah,56
-231,sms or WA,15,13700000,33200000,79298,41.0,2,laki-laki,Menikah,29
-232,sms or WA,1,900000,3300000,19101,27.0,1,perempuan,Cerai mati,28
-233,sms or WA,13,15600000,105300000,125285,15.0,0,laki-laki,Cerai mati,32
-234,sms or WA,11,54500000,59400000,108552,92.0,1,perempuan,Cerai mati,28
-235,sms or WA,8,38400000,49100000,47972,78.0,2,laki-laki,Menikah,29
-236,sms or WA,19,27600000,83300000,192629,33.0,0,laki-laki,Cerai mati,43
-237,sms or WA,8,6000000,9800000,85574,61.0,0,laki-laki,Menikah,57
-238,sms or WA,9,44800000,71700000,83818,62.0,2,laki-laki,Cerai hidup,49
-239,sms or WA,13,56000000,68300000,105731,82.0,4,perempuan,Belum menikah,52
-240,sms or WA,7,29300000,32500000,59493,90.0,3,laki-laki,Cerai hidup,42
-241,sms or WA,2,5100000,10500000,18685,49.0,3,perempuan,Belum menikah,50
-242,sms or WA,9,46100000,52500000,50924,88.0,4,perempuan,Menikah,35
-243,sms or WA,2,11200000,19200000,16308,57.99999999999999,4,perempuan,Cerai mati,60
-244,sms or WA,4,12700000,23900000,30865,53.0,3,laki-laki,Belum menikah,62
-245,sms or WA,9,5300000,5500000,97710,96.0,0,laki-laki,Belum menikah,60
-246,sms or WA,9,24700000,84700000,72272,28.999999999999996,0,perempuan,Menikah,58
-247,sms or WA,8,36500000,55400000,68458,66.0,1,laki-laki,Belum menikah,58
-248,sms or WA,10,12600000,48900000,69900,26.0,3,perempuan,Cerai mati,25
-249,sms or WA,15,29400000,58100000,88690,51.0,2,perempuan,Menikah,35
-250,sms or WA,3,1500000,22200000,39823,7.000000000000001,2,perempuan,Belum menikah,26
-251,sms or WA,8,14900000,71900000,43982,21.0,3,perempuan,Menikah,37
-252,sms or WA,9,9100000,14600000,82446,62.0,3,laki-laki,Cerai mati,52
-253,sms or WA,10,19800000,50600000,78572,39.0,3,perempuan,Cerai mati,57
-254,sms or WA,12,47900000,100800000,81380,48.0,1,perempuan,Cerai mati,47
-255,sms or WA,2,4300000,4500000,18229,96.0,2,laki-laki,Cerai mati,29
-256,sms or WA,1,1400000,1400000,6561,100.0,1,laki-laki,Cerai mati,53
-257,sms or WA,8,29600000,75400000,45893,39.0,0,perempuan,Cerai hidup,55
-258,sms or WA,9,48300000,78300000,71874,62.0,4,perempuan,Cerai hidup,30
-259,sms or WA,7,18800000,62900000,39164,30.0,0,perempuan,Cerai hidup,41
-260,sms or WA,15,83000000,90900000,142066,91.0,4,laki-laki,Menikah,63
-261,sms or WA,6,3800000,16400000,53064,23.0,0,laki-laki,Cerai mati,26
-262,sms or WA,7,17100000,65000000,45616,26.0,0,perempuan,Menikah,39
-263,sms or WA,3,7300000,11500000,21289,63.0,0,perempuan,Cerai mati,63
-264,sms or WA,16,10200000,17600000,108049,57.99999999999999,1,perempuan,Cerai mati,50
-265,sms or WA,16,48900000,97200000,94198,50.0,3,laki-laki,Belum menikah,35
-266,sms or WA,2,4900000,6900000,27797,71.0,3,perempuan,Cerai hidup,30
-267,sms or WA,6,28000000,52600000,67024,53.0,4,laki-laki,Menikah,62
-268,sms or WA,16,85900000,129600000,110063,66.0,0,perempuan,Cerai hidup,55
-269,sms or WA,14,68500000,125600000,115987,55.00000000000001,1,laki-laki,Cerai mati,50
-270,sms or WA,4,8800000,36000000,26185,24.0,4,laki-laki,Belum menikah,35
-271,sms or WA,3,10600000,14600000,39779,73.0,4,perempuan,Menikah,36
-272,sms or WA,18,23800000,55000000,141195,43.0,4,perempuan,Menikah,33
-273,sms or WA,1,2600000,3500000,11497,74.0,4,laki-laki,Menikah,48
-274,sms or WA,1,1900000,2600000,18843,73.0,0,laki-laki,Belum menikah,52
-275,sms or WA,2,4700000,7100000,11612,66.0,3,laki-laki,Menikah,25
-276,sms or WA,3,4600000,17300000,16355,27.0,1,perempuan,Menikah,25
-277,sms or WA,7,20300000,22100000,69536,92.0,4,laki-laki,Belum menikah,54
-278,sms or WA,8,3600000,5000000,66512,72.0,0,perempuan,Menikah,60
-279,sms or WA,9,7800000,71200000,97403,11.0,3,perempuan,Cerai hidup,52
-280,sms or WA,10,14200000,18000000,89249,79.0,3,perempuan,Menikah,60
-281,sms or WA,17,7700000,19800000,121076,39.0,4,perempuan,Menikah,35
-282,sms or WA,12,47300000,69800000,108282,68.0,2,laki-laki,Belum menikah,57
-283,sms or WA,15,26600000,149500000,132620,18.0,3,perempuan,Belum menikah,41
-284,sms or WA,12,83000000,84300000,111877,98.0,4,laki-laki,Cerai mati,62
-285,sms or WA,8,14000000,55800000,50695,25.0,1,perempuan,Menikah,44
-286,sms or WA,5,4100000,7700000,58845,53.0,0,perempuan,Belum menikah,39
-287,sms or WA,17,11500000,60000000,169306,19.0,0,laki-laki,Cerai hidup,58
-288,sms or WA,14,91300000,91700000,149365,100.0,3,perempuan,Cerai mati,23
-289,sms or WA,16,35900000,60000000,105948,60.0,4,laki-laki,Cerai mati,34
-290,sms or WA,4,9700000,11000000,49837,88.0,2,laki-laki,Cerai mati,30
-291,sms or WA,13,31400000,34800000,135078,90.0,0,laki-laki,Belum menikah,29
-292,sms or WA,4,12600000,20200000,42111,62.0,3,laki-laki,Cerai mati,36
-293,sms or WA,6,26000000,42300000,35609,61.0,3,laki-laki,Menikah,31
-294,sms or WA,1,1300000,4200000,18775,31.0,0,laki-laki,Menikah,25
-295,sms or WA,4,26200000,35100000,34956,75.0,4,perempuan,Cerai mati,27
-296,sms or WA,8,7300000,29900000,43654,24.0,2,perempuan,Belum menikah,41
-297,sms or WA,14,76100000,94000000,89522,81.0,3,perempuan,Cerai mati,61
-298,sms or WA,16,19700000,24600000,146598,80.0,0,perempuan,Cerai mati,35
-299,sms or WA,3,2600000,9400000,16697,28.000000000000004,0,perempuan,Cerai hidup,52
-300,surat panggilan,37,27500000,209000000,706617,13.0,9,laki-laki,Cerai hidup,57
-301,surat panggilan,27,62000000,160000000,340870,39.0,6,perempuan,Belum menikah,42
-302,surat panggilan,25,105000000,194000000,490926,54.0,6,perempuan,Belum menikah,26
-303,surat panggilan,26,137000000,277500000,446112,49.0,8,perempuan,Cerai mati,61
-304,surat panggilan,26,90000000,267500000,329899,34.0,9,perempuan,Cerai hidup,62
-305,surat panggilan,21,79000000,158500000,275204,50.0,7,laki-laki,Menikah,57
-306,surat panggilan,39,138000000,164000000,769508,84.0,7,perempuan,Menikah,49
-307,surat panggilan,36,117000000,189500000,697467,62.0,6,perempuan,Menikah,42
-308,surat panggilan,21,62000000,155000000,260803,40.0,6,laki-laki,Belum menikah,60
-309,surat panggilan,34,201000000,242000000,394444,83.0,8,perempuan,Belum menikah,52
-310,surat panggilan,22,18000000,38000000,305464,47.0,9,laki-laki,Menikah,39
-311,surat panggilan,32,134500000,224500000,438725,60.0,9,laki-laki,Cerai mati,30
-312,surat panggilan,21,66000000,281500000,418243,23.0,6,perempuan,Cerai mati,49
-313,surat panggilan,21,197500000,226500000,227472,87.0,6,laki-laki,Menikah,39
-314,surat panggilan,23,15000000,83500000,268436,18.0,7,perempuan,Belum menikah,41
-315,surat panggilan,25,57000000,329000000,496023,17.0,9,perempuan,Cerai mati,45
-316,surat panggilan,35,120000000,446000000,584037,27.0,7,perempuan,Menikah,27
-317,surat panggilan,32,86000000,89500000,358425,96.0,6,laki-laki,Cerai hidup,33
-318,surat panggilan,33,212500000,275500000,639094,77.0,6,laki-laki,Menikah,55
-319,surat panggilan,27,74000000,75000000,464791,99.0,6,laki-laki,Cerai hidup,44
-320,surat panggilan,36,238500000,288000000,479742,83.0,9,laki-laki,Belum menikah,40
-321,surat panggilan,27,30000000,197500000,294022,15.0,6,laki-laki,Menikah,47
-322,surat panggilan,22,185000000,250500000,380155,74.0,7,perempuan,Cerai hidup,46
-323,surat panggilan,33,328000000,378500000,498542,87.0,8,perempuan,Belum menikah,53
-324,surat panggilan,35,426500000,499000000,442356,85.0,9,perempuan,Belum menikah,30
-325,surat panggilan,37,367000000,513000000,718985,72.0,9,laki-laki,Cerai mati,26
-326,surat panggilan,24,12000000,189500000,383876,6.0,6,perempuan,Cerai hidup,27
-327,surat panggilan,30,79500000,115500000,557608,69.0,6,perempuan,Cerai mati,55
-328,surat panggilan,35,58000000,194500000,398898,30.0,8,perempuan,Menikah,42
-329,surat panggilan,37,250000000,371500000,532232,67.0,7,perempuan,Menikah,36
-330,surat panggilan,34,241500000,369000000,465067,65.0,7,laki-laki,Cerai hidup,39
-331,surat panggilan,21,33500000,61500000,342703,54.0,6,perempuan,Cerai hidup,43
-332,surat panggilan,28,23500000,286500000,505323,8.0,6,perempuan,Belum menikah,55
-333,surat panggilan,31,24000000,386500000,320512,6.0,8,laki-laki,Cerai hidup,36
-334,surat panggilan,27,110500000,254500000,421892,43.0,6,perempuan,Menikah,48
-335,surat panggilan,36,157500000,357000000,520289,44.0,9,perempuan,Cerai mati,42
-336,surat panggilan,34,250000000,359500000,518203,70.0,6,laki-laki,Belum menikah,59
-337,surat panggilan,29,107000000,284000000,545548,38.0,6,laki-laki,Belum menikah,36
-338,surat panggilan,37,338500000,402000000,417064,84.0,8,perempuan,Belum menikah,42
-339,surat panggilan,21,203500000,282000000,390601,72.0,6,laki-laki,Belum menikah,50
-340,surat panggilan,37,210000000,338000000,746887,62.0,7,perempuan,Belum menikah,45
-341,surat panggilan,37,145500000,220000000,758334,66.0,9,perempuan,Cerai hidup,25
-342,surat panggilan,21,32500000,119000000,283182,27.0,6,perempuan,Menikah,49
-343,surat panggilan,28,92000000,124000000,464732,74.0,9,laki-laki,Belum menikah,63
-344,surat panggilan,36,113000000,265000000,435746,43.0,9,laki-laki,Belum menikah,49
-345,surat panggilan,23,297000000,319500000,389784,93.0,9,perempuan,Belum menikah,46
-346,surat panggilan,37,48500000,65500000,505560,74.0,6,laki-laki,Cerai hidup,53
-347,surat panggilan,27,138500000,277000000,522545,50.0,8,perempuan,Cerai mati,33
-348,surat panggilan,25,19000000,151500000,345933,13.0,6,laki-laki,Belum menikah,23
-349,surat panggilan,31,78000000,147500000,406356,53.0,8,perempuan,Cerai hidup,38
-350,surat panggilan,27,24500000,40500000,524773,60.0,8,perempuan,Cerai mati,45
-351,surat panggilan,22,286000000,318500000,338090,90.0,6,laki-laki,Menikah,62
-352,surat panggilan,28,37500000,48000000,367459,78.0,8,perempuan,Cerai hidup,38
-353,surat panggilan,31,49500000,423000000,333834,12.0,9,perempuan,Belum menikah,41
-354,surat panggilan,24,15000000,68000000,386821,22.0,6,perempuan,Belum menikah,27
-355,surat panggilan,23,19500000,219000000,283575,9.0,7,perempuan,Belum menikah,26
-356,surat panggilan,37,122500000,487500000,470170,25.0,9,perempuan,Cerai mati,49
-357,surat panggilan,33,129000000,452000000,527669,28.999999999999996,9,perempuan,Cerai mati,30
-358,surat panggilan,23,34500000,112000000,410188,31.0,8,perempuan,Menikah,25
-359,surat panggilan,30,179000000,405500000,353157,44.0,6,laki-laki,Belum menikah,34
-360,surat panggilan,29,54500000,98500000,340527,55.00000000000001,7,laki-laki,Belum menikah,43
-361,surat panggilan,20,67000000,202500000,347106,33.0,6,laki-laki,Menikah,59
-362,surat panggilan,31,45000000,307000000,429443,15.0,6,perempuan,Cerai mati,45
-363,surat panggilan,36,94000000,480500000,416711,20.0,8,perempuan,Belum menikah,25
-364,surat panggilan,33,179000000,457500000,431898,39.0,6,perempuan,Cerai hidup,29
-365,surat panggilan,33,45500000,103500000,573993,44.0,9,laki-laki,Belum menikah,43
-366,surat panggilan,34,297000000,336500000,577746,88.0,6,laki-laki,Menikah,37
-367,surat panggilan,35,223500000,497500000,565461,45.0,9,perempuan,Belum menikah,27
-368,surat panggilan,34,66000000,195500000,624719,34.0,9,laki-laki,Belum menikah,44
-369,surat panggilan,39,358000000,512500000,563424,70.0,9,laki-laki,Cerai mati,27
-370,surat panggilan,30,306500000,440500000,312561,70.0,8,perempuan,Belum menikah,32
-371,surat panggilan,29,231000000,357500000,446718,65.0,6,perempuan,Belum menikah,41
-372,surat panggilan,28,100000000,117500000,523295,85.0,6,laki-laki,Cerai hidup,61
-373,surat panggilan,39,391000000,393000000,785759,99.0,7,laki-laki,Cerai hidup,28
-374,surat panggilan,36,171000000,175500000,620613,97.0,9,perempuan,Cerai mati,25
-375,surat panggilan,27,138500000,165500000,541478,84.0,7,perempuan,Belum menikah,30
-376,surat panggilan,35,373000000,442000000,385165,84.0,9,laki-laki,Cerai mati,59
-377,surat panggilan,39,326000000,430000000,473383,76.0,9,laki-laki,Cerai mati,54
-378,surat panggilan,36,272500000,507500000,607022,54.0,8,perempuan,Menikah,33
-379,surat panggilan,33,260000000,445000000,509247,57.99999999999999,6,laki-laki,Belum menikah,45
-380,surat panggilan,28,201500000,221500000,315312,91.0,6,laki-laki,Cerai mati,47
-381,surat panggilan,20,72500000,184500000,343412,39.0,6,perempuan,Belum menikah,59
-382,surat panggilan,22,275000000,315500000,320448,87.0,8,laki-laki,Cerai hidup,47
-383,surat panggilan,35,243000000,452500000,507538,54.0,8,laki-laki,Menikah,60
-384,surat panggilan,20,69000000,160500000,318232,43.0,9,laki-laki,Cerai mati,53
-385,surat panggilan,34,155000000,333500000,658454,46.0,8,laki-laki,Cerai mati,29
-386,surat panggilan,30,65500000,273000000,566272,24.0,9,laki-laki,Menikah,34
-387,surat panggilan,35,118000000,331500000,407730,36.0,9,perempuan,Belum menikah,23
-388,surat panggilan,36,341500000,364500000,470675,94.0,6,laki-laki,Cerai hidup,27
-389,surat panggilan,23,64000000,124000000,284478,52.0,9,laki-laki,Menikah,24
-390,surat panggilan,29,278000000,414000000,347918,67.0,6,perempuan,Cerai hidup,40
-391,surat panggilan,33,144000000,429000000,384469,34.0,7,perempuan,Cerai hidup,63
-392,surat panggilan,39,266000000,561500000,467683,47.0,8,perempuan,Belum menikah,25
-393,surat panggilan,39,40500000,129000000,645576,31.0,9,laki-laki,Menikah,32
-394,surat panggilan,36,146500000,178500000,543609,82.0,6,perempuan,Belum menikah,61
-395,surat panggilan,39,48000000,139000000,701245,35.0,9,laki-laki,Cerai hidup,46
-396,surat panggilan,22,63000000,105000000,358048,60.0,9,perempuan,Cerai hidup,61
-397,surat panggilan,39,327000000,577500000,737212,56.99999999999999,7,perempuan,Belum menikah,30
-398,surat panggilan,20,74000000,262500000,410419,28.000000000000004,9,laki-laki,Cerai mati,31
-399,surat panggilan,36,407000000,492500000,512376,83.0,6,laki-laki,Belum menikah,55
-400,surat panggilan,33,91500000,138500000,366929,66.0,8,laki-laki,Cerai mati,45
-401,surat panggilan,27,86000000,236000000,383799,36.0,8,perempuan,Belum menikah,23
-402,surat panggilan,34,147000000,199500000,444834,74.0,7,laki-laki,Belum menikah,46
-403,surat panggilan,22,122000000,145500000,285418,84.0,8,perempuan,Cerai hidup,37
-404,surat panggilan,29,51500000,72000000,448793,72.0,7,perempuan,Menikah,30
-405,surat panggilan,38,505000000,519500000,719876,97.0,8,perempuan,Belum menikah,31
-406,surat panggilan,20,16500000,81000000,252588,20.0,6,laki-laki,Cerai hidup,31
-407,surat panggilan,33,321000000,362000000,424586,89.0,8,perempuan,Belum menikah,59
-408,surat panggilan,36,60000000,172500000,532352,35.0,9,laki-laki,Cerai mati,37
-409,surat panggilan,36,88500000,146000000,480111,61.0,7,perempuan,Cerai mati,46
-410,surat panggilan,28,31000000,121000000,441607,26.0,8,perempuan,Cerai hidup,33
-411,surat panggilan,36,393000000,535000000,409128,73.0,9,perempuan,Menikah,30
-412,surat panggilan,24,19500000,81500000,267256,24.0,6,laki-laki,Cerai mati,62
-413,surat panggilan,20,183000000,193000000,204840,95.0,9,perempuan,Menikah,50
-414,surat panggilan,20,107500000,112000000,209285,96.0,7,perempuan,Menikah,61
-415,surat panggilan,36,47000000,68000000,438764,69.0,9,perempuan,Cerai hidup,39
-416,surat panggilan,31,117500000,228500000,497226,51.0,6,perempuan,Cerai mati,48
-417,surat panggilan,33,27500000,492500000,469218,6.0,8,perempuan,Menikah,27
-418,surat panggilan,33,69500000,181500000,342882,38.0,6,laki-laki,Menikah,53
-419,surat panggilan,22,29500000,49500000,315483,60.0,6,perempuan,Menikah,43
-420,surat panggilan,34,140500000,240500000,674412,57.99999999999999,6,perempuan,Cerai hidup,37
-421,surat panggilan,37,134500000,195000000,385733,69.0,7,laki-laki,Belum menikah,42
-422,surat panggilan,31,158500000,189500000,481383,84.0,7,perempuan,Belum menikah,61
-423,surat panggilan,21,101500000,236000000,353660,43.0,8,laki-laki,Menikah,34
-424,surat panggilan,34,82500000,439000000,615808,19.0,8,laki-laki,Cerai hidup,48
-425,surat panggilan,21,101000000,226000000,282389,45.0,9,laki-laki,Menikah,33
-426,surat panggilan,31,37500000,120000000,633577,31.0,7,laki-laki,Cerai mati,45
-427,surat panggilan,29,31500000,72000000,349072,44.0,9,laki-laki,Cerai mati,30
-428,surat panggilan,21,167000000,275500000,435586,61.0,9,laki-laki,Cerai mati,33
-429,surat panggilan,22,64000000,68000000,222576,94.0,8,laki-laki,Belum menikah,52
-430,surat panggilan,32,87500000,218500000,464065,40.0,7,perempuan,Cerai hidup,46
-431,surat panggilan,30,87500000,96000000,363803,91.0,7,perempuan,Menikah,25
-432,surat panggilan,32,108500000,240500000,326329,45.0,8,perempuan,Menikah,43
-433,surat panggilan,21,27500000,56000000,239950,49.0,6,perempuan,Menikah,26
-434,surat panggilan,31,133000000,153500000,487648,87.0,8,perempuan,Belum menikah,53
-435,surat panggilan,29,384500000,386500000,416268,99.0,8,laki-laki,Cerai hidup,51
-436,surat panggilan,23,35000000,69000000,316099,51.0,7,perempuan,Cerai hidup,25
-437,surat panggilan,31,70500000,90000000,568203,78.0,6,laki-laki,Menikah,56
-438,surat panggilan,38,192500000,357000000,447850,54.0,7,laki-laki,Cerai hidup,41
-439,surat panggilan,39,115000000,228500000,495456,50.0,9,perempuan,Cerai mati,49
-440,surat panggilan,31,409000000,456500000,593951,90.0,9,perempuan,Cerai mati,28
-441,surat panggilan,23,64500000,240500000,273059,27.0,8,laki-laki,Menikah,57
-442,surat panggilan,29,27500000,44500000,328312,62.0,7,laki-laki,Menikah,56
-443,surat panggilan,35,102500000,198500000,542799,52.0,8,laki-laki,Cerai mati,24
-444,surat panggilan,32,26000000,41500000,575849,63.0,8,laki-laki,Belum menikah,49
-445,surat panggilan,37,102000000,154500000,462173,66.0,6,laki-laki,Cerai hidup,47
-446,surat panggilan,30,22000000,97000000,498798,23.0,8,laki-laki,Cerai hidup,38
-447,surat panggilan,27,95500000,169500000,399586,56.00000000000001,6,laki-laki,Cerai mati,63
-448,surat panggilan,33,41500000,167500000,613153,25.0,7,perempuan,Cerai hidup,55
-449,surat panggilan,23,71000000,100500000,357224,71.0,7,laki-laki,Menikah,52
-450,surat panggilan,31,27000000,134000000,623656,20.0,9,laki-laki,Cerai hidup,25
-451,surat panggilan,32,201000000,383500000,417139,52.0,8,laki-laki,Cerai hidup,57
-452,surat panggilan,23,73500000,133500000,346932,55.00000000000001,7,perempuan,Belum menikah,47
-453,surat panggilan,26,24500000,117000000,487753,21.0,8,perempuan,Menikah,28
-454,surat panggilan,20,236000000,251500000,331218,94.0,9,laki-laki,Cerai mati,40
-455,surat panggilan,20,84500000,200000000,395340,42.0,7,perempuan,Belum menikah,51
-456,surat panggilan,24,62500000,81000000,439045,77.0,7,laki-laki,Belum menikah,44
-457,surat panggilan,20,17000000,171500000,205012,10.0,6,perempuan,Menikah,25
-458,surat panggilan,37,303000000,360500000,630960,84.0,7,laki-laki,Belum menikah,48
-459,surat panggilan,28,113000000,212000000,380615,53.0,9,laki-laki,Belum menikah,48
-460,surat panggilan,36,190000000,192000000,535526,99.0,8,laki-laki,Menikah,23
-461,surat panggilan,36,65500000,177000000,395501,37.0,6,perempuan,Cerai hidup,29
-462,surat panggilan,29,66500000,366000000,359898,18.0,9,perempuan,Belum menikah,62
-463,surat panggilan,26,201000000,292000000,499111,69.0,7,perempuan,Menikah,25
-464,surat panggilan,22,70000000,197000000,298303,36.0,6,perempuan,Belum menikah,50
-465,surat panggilan,37,200000000,371000000,684385,54.0,6,perempuan,Cerai hidup,31
-466,surat panggilan,34,324500000,406500000,689984,80.0,7,perempuan,Cerai mati,59
-467,surat panggilan,28,71500000,225000000,419320,32.0,6,perempuan,Cerai hidup,37
-468,surat panggilan,28,50500000,121500000,458562,42.0,7,perempuan,Cerai hidup,53
-469,surat panggilan,20,68000000,177500000,321106,38.0,6,perempuan,Cerai hidup,43
-470,surat panggilan,31,118000000,460500000,448238,26.0,8,perempuan,Menikah,44
-471,surat panggilan,37,71000000,79500000,636506,89.0,8,perempuan,Belum menikah,42
-472,surat panggilan,30,139000000,438500000,479555,32.0,9,perempuan,Cerai hidup,60
-473,surat panggilan,39,244000000,337000000,585337,72.0,7,perempuan,Cerai mati,62
-474,surat panggilan,25,280000000,333000000,402262,84.0,8,laki-laki,Menikah,35
-475,surat panggilan,37,160500000,259500000,386947,62.0,7,laki-laki,Menikah,32
-476,surat panggilan,28,304000000,412500000,579950,74.0,9,laki-laki,Belum menikah,32
-477,surat panggilan,37,200000000,310500000,410367,64.0,7,perempuan,Cerai hidup,57
-478,surat panggilan,38,59500000,445000000,590408,13.0,7,laki-laki,Belum menikah,39
-479,surat panggilan,39,55500000,120500000,631462,46.0,7,laki-laki,Belum menikah,51
-480,surat panggilan,29,79500000,242000000,533011,33.0,7,laki-laki,Belum menikah,24
-481,surat panggilan,39,23500000,39500000,744346,59.0,7,perempuan,Cerai hidup,53
-482,surat panggilan,35,206000000,336000000,353811,61.0,6,laki-laki,Cerai hidup,23
-483,surat panggilan,25,286000000,317000000,382874,90.0,7,laki-laki,Cerai mati,48
-484,surat panggilan,38,373000000,504500000,469198,74.0,9,laki-laki,Cerai mati,40
-485,surat panggilan,23,274000000,304000000,313581,90.0,7,laki-laki,Cerai hidup,24
-486,surat panggilan,36,158000000,486000000,500105,33.0,9,laki-laki,Cerai hidup,44
-487,surat panggilan,35,288500000,315000000,550785,92.0,7,perempuan,Cerai mati,53
-488,surat panggilan,29,226000000,408000000,430666,55.00000000000001,9,perempuan,Belum menikah,58
-489,surat panggilan,34,23500000,47000000,646343,50.0,6,perempuan,Cerai mati,30
-490,surat panggilan,38,291000000,560500000,504506,52.0,6,laki-laki,Belum menikah,40
-491,surat panggilan,30,18500000,41000000,372213,45.0,7,perempuan,Cerai mati,33
-492,surat panggilan,20,75500000,196000000,226516,39.0,7,laki-laki,Menikah,31
-493,surat panggilan,33,321000000,330000000,599821,97.0,7,perempuan,Belum menikah,49
-494,surat panggilan,34,85000000,396000000,520686,21.0,7,laki-laki,Cerai hidup,26
-495,surat panggilan,30,101000000,351000000,532112,28.999999999999996,8,laki-laki,Cerai mati,54
-496,surat panggilan,31,70000000,91000000,315653,77.0,6,perempuan,Cerai hidup,63
-497,surat panggilan,33,224000000,228000000,600933,98.0,6,laki-laki,Menikah,45
-498,surat panggilan,35,276000000,328500000,463465,84.0,6,perempuan,Belum menikah,56
-499,surat panggilan,39,216000000,498500000,701504,43.0,9,laki-laki,Menikah,37
-500,surat panggilan,37,41500000,100500000,591982,41.0,8,laki-laki,Belum menikah,53
-501,surat panggilan,39,248000000,430000000,632326,57.99999999999999,9,perempuan,Menikah,56
-502,surat panggilan,30,148000000,153000000,337659,97.0,9,perempuan,Cerai mati,27
-503,surat panggilan,24,24000000,29500000,485733,81.0,6,laki-laki,Belum menikah,26
-504,surat panggilan,39,50000000,545000000,488117,9.0,9,laki-laki,Cerai hidup,52
-505,surat panggilan,33,207500000,276000000,476581,75.0,8,perempuan,Cerai hidup,39
-506,surat panggilan,33,406000000,486000000,341920,84.0,7,laki-laki,Cerai hidup,53
-507,surat panggilan,30,113000000,383000000,300866,30.0,7,perempuan,Belum menikah,54
-508,surat panggilan,37,63500000,371500000,491055,17.0,7,laki-laki,Cerai hidup,49
-509,surat panggilan,22,188000000,235500000,306055,80.0,6,perempuan,Cerai hidup,41
-510,surat panggilan,26,14500000,32000000,419106,45.0,6,perempuan,Cerai hidup,62
-511,surat panggilan,22,58500000,141500000,337385,41.0,7,perempuan,Belum menikah,43
-512,surat panggilan,27,20000000,150000000,450078,13.0,7,perempuan,Cerai mati,59
-513,surat panggilan,33,152500000,204500000,602555,75.0,9,perempuan,Belum menikah,39
-514,surat panggilan,24,275000000,356000000,277212,77.0,8,laki-laki,Cerai mati,59
-515,surat panggilan,34,394500000,487000000,432542,81.0,7,laki-laki,Belum menikah,49
-516,surat panggilan,37,39500000,74000000,485344,53.0,8,perempuan,Belum menikah,53
-517,surat panggilan,37,40500000,468000000,688480,9.0,6,perempuan,Cerai hidup,31
-518,surat panggilan,31,51000000,191000000,347666,27.0,7,perempuan,Cerai hidup,37
-519,surat panggilan,38,75000000,230000000,485313,33.0,8,laki-laki,Belum menikah,41
-520,surat panggilan,30,174500000,248500000,565000,70.0,7,perempuan,Cerai mati,52
-521,surat panggilan,20,117500000,276500000,222164,42.0,8,perempuan,Cerai hidup,36
-522,surat panggilan,31,19000000,105500000,344142,18.0,8,laki-laki,Cerai mati,27
-523,surat panggilan,26,278000000,375500000,278334,74.0,7,perempuan,Menikah,24
-524,surat panggilan,21,84000000,177500000,416912,47.0,6,laki-laki,Belum menikah,31
-525,surat panggilan,39,372000000,498500000,661833,75.0,7,laki-laki,Menikah,34
-526,surat panggilan,37,239500000,255000000,418201,94.0,8,perempuan,Cerai hidup,45
-527,surat panggilan,21,161500000,240000000,254709,67.0,9,perempuan,Belum menikah,40
-528,surat panggilan,33,217500000,318000000,547407,68.0,9,laki-laki,Cerai hidup,59
-529,surat panggilan,37,336000000,372500000,610585,90.0,6,perempuan,Menikah,32
-530,surat panggilan,23,198000000,308000000,333237,64.0,7,laki-laki,Belum menikah,31
-531,surat panggilan,22,110500000,153500000,459028,72.0,8,laki-laki,Cerai mati,58
-532,surat panggilan,31,364500000,402000000,630524,91.0,9,laki-laki,Menikah,29
-533,surat panggilan,25,48000000,120000000,400937,40.0,9,perempuan,Cerai hidup,23
-534,surat panggilan,36,103000000,362500000,644101,28.000000000000004,7,perempuan,Menikah,33
-535,surat panggilan,38,74500000,316500000,693942,24.0,7,perempuan,Cerai hidup,59
-536,surat panggilan,36,299000000,451000000,386516,66.0,8,perempuan,Belum menikah,50
-537,surat panggilan,20,255500000,276500000,380523,92.0,7,laki-laki,Cerai mati,35
-538,surat panggilan,37,125000000,458000000,454254,27.0,6,perempuan,Menikah,36
-539,surat panggilan,23,49000000,56000000,364202,88.0,8,perempuan,Cerai mati,26
-540,surat panggilan,24,40500000,58000000,389610,70.0,8,perempuan,Cerai mati,59
-541,surat panggilan,22,19000000,235000000,249496,8.0,8,perempuan,Belum menikah,48
-542,surat panggilan,28,23500000,73000000,524370,32.0,7,laki-laki,Menikah,23
-543,surat panggilan,26,130000000,238500000,425195,55.00000000000001,9,laki-laki,Cerai mati,54
-544,surat panggilan,36,41500000,55500000,411699,75.0,7,perempuan,Cerai hidup,49
-545,surat panggilan,38,81000000,177000000,428447,46.0,8,laki-laki,Cerai mati,40
-546,surat panggilan,21,126500000,218500000,376210,57.99999999999999,9,laki-laki,Menikah,55
-547,surat panggilan,35,103500000,377500000,447677,27.0,6,laki-laki,Cerai hidup,25
-548,surat panggilan,21,42000000,204000000,286308,21.0,6,laki-laki,Cerai mati,34
-549,surat panggilan,35,24500000,94500000,409636,26.0,9,laki-laki,Cerai mati,50
-550,panggilan,43,110000000,144500000,1238195,76.0,11,perempuan,Cerai mati,51
-551,panggilan,34,68000000,323000000,785846,21.0,14,laki-laki,Belum menikah,42
-552,panggilan,41,150000000,736500000,1626696,20.0,11,laki-laki,Menikah,32
-553,panggilan,45,203000000,579500000,1697191,35.0,13,laki-laki,Menikah,43
-554,panggilan,38,48000000,396000000,921345,12.0,12,perempuan,Belum menikah,62
-555,panggilan,48,60000000,114000000,1640653,53.0,14,laki-laki,Belum menikah,31
-556,panggilan,33,60000000,100500000,698485,60.0,11,perempuan,Cerai hidup,61
-557,panggilan,38,413000000,541000000,1003967,76.0,12,perempuan,Cerai hidup,47
-558,panggilan,34,252000000,566000000,1270344,45.0,12,laki-laki,Cerai hidup,53
-559,panggilan,39,248000000,585500000,1082744,42.0,13,laki-laki,Menikah,32
-560,panggilan,39,96000000,378500000,993993,25.0,12,laki-laki,Cerai mati,59
-561,panggilan,30,428000000,539000000,1213046,79.0,14,perempuan,Cerai hidup,56
-562,panggilan,37,495000000,567500000,966993,87.0,12,perempuan,Belum menikah,44
-563,panggilan,35,38000000,246500000,890410,15.0,14,laki-laki,Cerai hidup,29
-564,panggilan,36,201000000,317000000,924698,63.0,13,perempuan,Menikah,40
-565,panggilan,38,242000000,642000000,1301390,38.0,11,laki-laki,Cerai mati,53
-566,panggilan,33,362000000,471500000,1064224,77.0,11,perempuan,Cerai hidup,58
-567,panggilan,47,364000000,582500000,1762752,62.0,14,laki-laki,Belum menikah,57
-568,panggilan,32,55000000,230000000,812054,24.0,14,perempuan,Belum menikah,54
-569,panggilan,33,68000000,89500000,1194823,76.0,12,laki-laki,Menikah,28
-570,panggilan,42,233000000,461000000,1133574,51.0,14,laki-laki,Belum menikah,46
-571,panggilan,41,607000000,810500000,1103397,75.0,12,perempuan,Belum menikah,60
-572,panggilan,35,236000000,635500000,950171,37.0,13,laki-laki,Menikah,53
-573,panggilan,35,602000000,602500000,1286057,100.0,11,laki-laki,Belum menikah,41
-574,panggilan,48,270000000,733000000,1309720,37.0,14,laki-laki,Cerai mati,25
-575,panggilan,41,159000000,290500000,1146749,55.00000000000001,13,laki-laki,Cerai mati,26
-576,panggilan,48,454000000,822000000,1499272,55.00000000000001,14,perempuan,Belum menikah,60
-577,panggilan,41,417000000,427500000,1482324,98.0,12,perempuan,Cerai mati,43
-578,panggilan,46,153000000,865000000,1781414,18.0,11,perempuan,Belum menikah,61
-579,panggilan,45,146000000,896500000,1094537,16.0,11,laki-laki,Belum menikah,45
-580,panggilan,39,286000000,518500000,1164502,55.00000000000001,11,laki-laki,Cerai hidup,40
-581,panggilan,48,285000000,307000000,1935944,93.0,13,perempuan,Menikah,55
-582,panggilan,39,502000000,587500000,1546291,85.0,11,perempuan,Belum menikah,24
-583,panggilan,47,167000000,365500000,1776739,46.0,11,perempuan,Menikah,30
-584,panggilan,40,57000000,416000000,1120910,14.000000000000002,14,perempuan,Cerai mati,29
-585,panggilan,38,106000000,251000000,940091,42.0,11,laki-laki,Menikah,52
-586,panggilan,43,94000000,97500000,904398,96.0,13,laki-laki,Cerai mati,26
-587,panggilan,42,309000000,404000000,1008174,76.0,14,laki-laki,Menikah,23
-588,panggilan,45,288000000,813500000,1130784,35.0,13,laki-laki,Cerai hidup,58
-589,panggilan,40,63000000,114000000,1450332,55.00000000000001,11,perempuan,Cerai mati,36
-590,panggilan,46,97000000,134000000,1144263,72.0,12,laki-laki,Belum menikah,39
-591,panggilan,44,576000000,708000000,997581,81.0,13,laki-laki,Belum menikah,48
-592,panggilan,43,606000000,795500000,1049302,76.0,13,perempuan,Cerai mati,62
-593,panggilan,35,91000000,607500000,1054470,15.0,12,perempuan,Menikah,59
-594,panggilan,46,252000000,597000000,1481720,42.0,12,perempuan,Cerai mati,41
-595,panggilan,40,326000000,388000000,1359861,84.0,12,perempuan,Cerai mati,63
-596,panggilan,46,315000000,855000000,1521296,37.0,13,perempuan,Menikah,26
-597,panggilan,30,110000000,577000000,661805,19.0,14,perempuan,Cerai mati,36
-598,panggilan,45,76000000,191500000,1556191,40.0,14,perempuan,Cerai mati,24
-599,panggilan,48,66000000,700000000,1324496,9.0,14,laki-laki,Cerai mati,61
-600,panggilan,39,332000000,515500000,1057119,64.0,12,perempuan,Cerai hidup,55
-601,panggilan,39,392000000,556500000,1392120,70.0,11,perempuan,Cerai hidup,50
-602,panggilan,40,499000000,758000000,1543494,66.0,14,perempuan,Cerai mati,24
-603,panggilan,30,46000000,334000000,906585,14.000000000000002,14,perempuan,Cerai mati,33
-604,panggilan,35,577000000,607500000,1344255,95.0,11,perempuan,Belum menikah,33
-605,panggilan,49,350000000,422500000,1059120,83.0,12,perempuan,Cerai hidup,29
-606,panggilan,34,96000000,678000000,1148813,14.000000000000002,11,perempuan,Cerai mati,23
-607,panggilan,42,251000000,469000000,1157338,54.0,13,perempuan,Cerai mati,30
-608,panggilan,31,130000000,287500000,828591,45.0,12,perempuan,Belum menikah,34
-609,panggilan,31,122000000,152500000,768489,80.0,13,perempuan,Cerai mati,34
-610,panggilan,49,123000000,583500000,1340768,21.0,12,perempuan,Cerai hidup,57
-611,panggilan,35,151000000,436500000,746412,35.0,14,perempuan,Belum menikah,36
-612,panggilan,48,558000000,761000000,1812539,73.0,13,perempuan,Menikah,50
-613,panggilan,42,150000000,819000000,1473576,18.0,11,laki-laki,Belum menikah,31
-614,panggilan,32,230000000,304000000,1043970,76.0,11,perempuan,Belum menikah,24
-615,panggilan,30,184000000,377000000,714050,49.0,11,perempuan,Menikah,44
-616,panggilan,39,137000000,245500000,829933,56.00000000000001,12,perempuan,Cerai hidup,57
-617,panggilan,45,221000000,288500000,1422192,77.0,14,perempuan,Menikah,32
-618,panggilan,30,447000000,497000000,1219707,90.0,14,laki-laki,Belum menikah,46
-619,panggilan,35,427000000,432500000,798570,99.0,13,perempuan,Cerai hidup,63
-620,panggilan,42,206000000,211000000,1682826,98.0,12,perempuan,Cerai hidup,48
-621,panggilan,49,300000000,905500000,1650570,33.0,11,laki-laki,Cerai mati,52
-622,panggilan,38,238000000,243000000,1482764,98.0,14,laki-laki,Menikah,37
-623,panggilan,43,383000000,764500000,1096746,50.0,14,perempuan,Menikah,40
-624,panggilan,48,467000000,649000000,1628687,72.0,14,perempuan,Menikah,28
-625,panggilan,33,309000000,323500000,973410,96.0,11,laki-laki,Cerai mati,50
-626,panggilan,45,129000000,821500000,1169067,16.0,13,laki-laki,Cerai mati,54
-627,panggilan,48,62000000,118000000,1392695,53.0,14,laki-laki,Cerai mati,48
-628,panggilan,40,65000000,488000000,1623370,13.0,11,laki-laki,Cerai hidup,40
-629,panggilan,47,66000000,338500000,1700221,19.0,14,perempuan,Cerai hidup,38
-630,panggilan,43,141000000,527500000,893639,27.0,13,laki-laki,Menikah,28
-631,panggilan,41,719000000,776500000,1314399,93.0,11,laki-laki,Cerai mati,61
-632,panggilan,49,257000000,636500000,1066149,40.0,14,laki-laki,Belum menikah,29
-633,panggilan,39,41000000,665500000,915901,6.0,14,perempuan,Belum menikah,23
-634,panggilan,37,147000000,471500000,998748,31.0,14,laki-laki,Cerai hidup,46
-635,panggilan,30,122000000,332000000,628591,37.0,12,perempuan,Cerai mati,45
-636,panggilan,44,185000000,726000000,892584,25.0,12,laki-laki,Belum menikah,54
-637,panggilan,49,282000000,648500000,1156405,43.0,12,perempuan,Belum menikah,59
-638,panggilan,37,480000000,560500000,1340571,86.0,12,laki-laki,Cerai hidup,57
-639,panggilan,31,175000000,194500000,878217,90.0,14,perempuan,Belum menikah,63
-640,panggilan,40,132000000,452000000,1201513,28.999999999999996,13,perempuan,Belum menikah,36
-641,panggilan,48,132000000,142000000,1498908,93.0,13,perempuan,Menikah,36
-642,panggilan,44,66000000,94000000,1648507,70.0,12,perempuan,Menikah,58
-643,panggilan,34,67000000,569000000,1274706,12.0,12,laki-laki,Menikah,32
-644,panggilan,46,374000000,488000000,940167,77.0,11,perempuan,Cerai mati,47
-645,panggilan,43,367000000,600500000,1568100,61.0,14,perempuan,Belum menikah,25
-646,panggilan,48,116000000,863000000,1833755,13.0,12,perempuan,Cerai mati,54
-647,panggilan,49,132000000,283500000,1641294,47.0,11,perempuan,Menikah,53
-648,panggilan,48,222000000,222000000,1855586,100.0,14,perempuan,Belum menikah,46
-649,panggilan,39,190000000,283500000,1419405,67.0,11,laki-laki,Menikah,47
-650,panggilan,34,322000000,525000000,1263196,61.0,13,laki-laki,Belum menikah,24
-651,panggilan,31,229000000,398500000,749705,56.99999999999999,14,laki-laki,Cerai hidup,26
-652,panggilan,43,246000000,500500000,1407675,49.0,11,laki-laki,Cerai hidup,34
-653,panggilan,45,326000000,777500000,1149051,42.0,14,laki-laki,Menikah,37
-654,panggilan,42,77000000,355000000,1049095,22.0,12,perempuan,Cerai mati,55
-655,panggilan,47,216000000,353500000,1755726,61.0,13,laki-laki,Cerai hidup,32
-656,panggilan,34,130000000,408000000,1396247,32.0,14,perempuan,Menikah,49
-657,panggilan,42,64000000,117000000,1248832,55.00000000000001,12,laki-laki,Cerai hidup,46
-658,panggilan,41,442000000,473500000,914155,93.0,13,laki-laki,Cerai mati,40
-659,panggilan,42,353000000,376000000,962755,94.0,11,laki-laki,Cerai mati,27
-660,panggilan,48,160000000,422000000,1520056,38.0,12,perempuan,Cerai mati,47
-661,panggilan,47,119000000,718500000,1101751,17.0,14,laki-laki,Menikah,40
-662,panggilan,45,122000000,588500000,1523996,21.0,11,laki-laki,Cerai mati,43
-663,panggilan,38,71000000,104000000,1126369,68.0,14,perempuan,Menikah,62
-664,panggilan,34,279000000,555000000,804518,50.0,12,perempuan,Cerai hidup,37
-665,panggilan,32,191000000,285000000,1038703,67.0,13,perempuan,Menikah,38
-666,panggilan,39,164000000,231500000,1501021,71.0,11,laki-laki,Cerai hidup,34
-667,panggilan,38,141000000,149000000,1009563,95.0,11,laki-laki,Menikah,56
-668,panggilan,30,127000000,401000000,711946,32.0,14,perempuan,Menikah,41
-669,panggilan,42,331000000,565000000,1417725,59.0,12,laki-laki,Belum menikah,25
-670,panggilan,41,57000000,679500000,1583353,8.0,13,laki-laki,Cerai hidup,42
-671,panggilan,38,330000000,380000000,1374362,87.0,14,laki-laki,Cerai hidup,43
-672,panggilan,38,54000000,67000000,1503422,81.0,12,perempuan,Cerai hidup,33
-673,panggilan,35,207000000,496500000,1021109,42.0,14,perempuan,Cerai hidup,29
-674,panggilan,47,60000000,438500000,1397862,14.000000000000002,12,laki-laki,Belum menikah,29
-675,panggilan,36,36000000,536000000,1271058,7.000000000000001,12,perempuan,Cerai mati,38
-676,panggilan,32,35000000,49000000,864524,71.0,11,perempuan,Cerai hidup,32
-677,panggilan,30,79000000,399000000,806706,20.0,11,laki-laki,Cerai mati,40
-678,panggilan,36,282000000,327000000,1291163,86.0,13,perempuan,Cerai hidup,45
-679,panggilan,34,85000000,378000000,1088688,22.0,11,laki-laki,Cerai hidup,57
-680,panggilan,31,52000000,113500000,1189821,46.0,14,perempuan,Belum menikah,24
-681,panggilan,38,161000000,221000000,1198012,73.0,11,perempuan,Cerai mati,52
-682,panggilan,30,155000000,312000000,1036732,50.0,14,laki-laki,Cerai hidup,52
-683,panggilan,33,422000000,586500000,1162707,72.0,11,perempuan,Cerai mati,59
-684,panggilan,42,251000000,625000000,1595723,40.0,14,laki-laki,Belum menikah,27
-685,panggilan,34,34000000,474000000,1231750,7.000000000000001,11,perempuan,Menikah,58
-686,panggilan,41,299000000,544500000,1310201,55.00000000000001,12,perempuan,Belum menikah,62
-687,panggilan,31,53000000,617500000,754166,9.0,13,perempuan,Belum menikah,50
-688,panggilan,32,209000000,577000000,1123270,36.0,12,perempuan,Belum menikah,38
-689,panggilan,34,62000000,200000000,1070566,31.0,11,perempuan,Belum menikah,28
-690,panggilan,41,103000000,492500000,1011674,21.0,12,laki-laki,Cerai mati,41
-691,panggilan,35,76000000,94500000,1029119,80.0,12,laki-laki,Cerai mati,60
-692,panggilan,47,434000000,629500000,1827101,69.0,12,laki-laki,Cerai mati,29
-693,panggilan,49,335000000,336500000,1221218,100.0,12,laki-laki,Menikah,37
-694,panggilan,37,46000000,360500000,1272832,13.0,14,perempuan,Cerai mati,46
-695,panggilan,49,65000000,76500000,1245584,85.0,11,perempuan,Cerai hidup,31
-696,panggilan,47,296000000,445500000,1330480,66.0,14,perempuan,Cerai mati,43
-697,panggilan,39,79000000,361500000,1542121,22.0,12,laki-laki,Cerai hidup,52
-698,panggilan,30,159000000,174000000,851174,91.0,14,laki-laki,Menikah,54
-699,panggilan,49,662000000,889500000,1920804,74.0,14,perempuan,Belum menikah,53
-700,panggilan,49,562000000,625500000,1430402,90.0,13,perempuan,Menikah,30
-701,panggilan,46,191000000,491000000,1542695,39.0,13,perempuan,Menikah,62
-702,panggilan,39,169000000,426500000,1584168,40.0,11,perempuan,Menikah,23
-703,panggilan,41,133000000,725500000,1025946,18.0,13,laki-laki,Menikah,61
-704,panggilan,47,293000000,573500000,998606,51.0,12,perempuan,Belum menikah,28
-705,panggilan,39,401000000,555500000,1123338,72.0,13,laki-laki,Cerai hidup,39
-706,panggilan,33,41000000,81500000,693941,50.0,11,perempuan,Cerai mati,55
-707,panggilan,35,105000000,392500000,824279,27.0,13,perempuan,Cerai hidup,30
-708,panggilan,44,532000000,872000000,1600460,61.0,12,laki-laki,Menikah,61
-709,panggilan,32,385000000,612000000,1270769,63.0,12,perempuan,Menikah,61
-710,panggilan,36,99000000,433000000,1285100,23.0,14,perempuan,Cerai hidup,54
-711,panggilan,45,194000000,371500000,1125295,52.0,12,laki-laki,Menikah,59
-712,panggilan,33,51000000,81500000,1044854,63.0,11,laki-laki,Menikah,52
-713,panggilan,35,104000000,513500000,1218108,20.0,13,perempuan,Menikah,26
-714,panggilan,31,49000000,104500000,822346,47.0,13,perempuan,Menikah,62
-715,panggilan,35,250000000,689500000,1336307,36.0,13,laki-laki,Belum menikah,39
-716,panggilan,38,290000000,587000000,764705,49.0,13,perempuan,Cerai hidup,30
-717,panggilan,43,379000000,412500000,1664323,92.0,12,perempuan,Menikah,33
-718,panggilan,38,296000000,300000000,855562,99.0,13,laki-laki,Cerai hidup,59
-719,panggilan,34,68000000,131000000,1324214,52.0,11,laki-laki,Cerai hidup,48
-720,panggilan,36,81000000,690000000,1302676,12.0,13,laki-laki,Cerai mati,34
-721,panggilan,37,388000000,590500000,775640,66.0,13,perempuan,Cerai hidup,51
-722,panggilan,39,138000000,282500000,1096048,49.0,12,laki-laki,Cerai mati,34
-723,panggilan,47,90000000,419500000,1492091,21.0,11,perempuan,Menikah,38
-724,panggilan,32,282000000,282000000,890760,100.0,13,perempuan,Cerai mati,42
-725,panggilan,46,106000000,171000000,1503432,62.0,13,perempuan,Cerai mati,27
-726,panggilan,49,765000000,799500000,1149623,96.0,14,perempuan,Cerai hidup,32
-727,panggilan,40,288000000,538000000,1327613,54.0,14,laki-laki,Belum menikah,32
-728,panggilan,30,135000000,299000000,1125728,45.0,12,laki-laki,Cerai mati,40
-729,panggilan,48,194000000,202000000,1708347,96.0,13,perempuan,Menikah,30
-730,panggilan,40,185000000,653000000,1459440,28.000000000000004,12,laki-laki,Cerai mati,47
-731,panggilan,30,108000000,375000000,819928,28.999999999999996,11,perempuan,Menikah,44
-732,panggilan,36,38000000,71000000,1291787,54.0,13,perempuan,Cerai mati,59
-733,panggilan,37,139000000,250500000,1500900,55.00000000000001,12,laki-laki,Cerai mati,34
-734,panggilan,46,112000000,165000000,1618933,68.0,14,laki-laki,Cerai hidup,58
-735,panggilan,46,255000000,571000000,1843679,45.0,14,perempuan,Cerai hidup,26
-736,panggilan,33,103000000,267500000,867527,39.0,11,perempuan,Cerai mati,59
-737,panggilan,32,52000000,263000000,1021683,20.0,11,laki-laki,Menikah,47
-738,panggilan,31,251000000,345500000,821818,73.0,12,perempuan,Cerai hidup,26
-739,panggilan,45,120000000,434500000,1162056,28.000000000000004,13,perempuan,Menikah,25
-740,panggilan,32,250000000,391000000,876648,64.0,13,perempuan,Cerai hidup,59
-741,panggilan,34,239000000,350000000,1275626,68.0,13,perempuan,Cerai mati,40
-742,panggilan,34,164000000,240000000,924059,68.0,12,perempuan,Menikah,57
-743,panggilan,32,168000000,557000000,1135999,30.0,13,laki-laki,Cerai mati,36
-744,panggilan,40,351000000,429000000,972190,82.0,12,perempuan,Cerai mati,29
-745,panggilan,33,81000000,82500000,1329505,98.0,14,perempuan,Menikah,43
-746,panggilan,48,595000000,622000000,1923884,96.0,11,laki-laki,Belum menikah,42
-747,panggilan,44,379000000,716000000,1122750,53.0,12,laki-laki,Belum menikah,53
-748,panggilan,34,48000000,334000000,857620,14.000000000000002,12,laki-laki,Cerai hidup,35
-749,panggilan,36,169000000,512000000,969471,33.0,13,perempuan,Menikah,58
-750,panggilan,39,123000000,474500000,1292175,26.0,12,perempuan,Belum menikah,31
-751,panggilan,39,437000000,716500000,1432800,61.0,13,perempuan,Cerai hidup,32
-752,panggilan,48,257000000,584000000,1645184,44.0,12,perempuan,Cerai mati,41
-753,panggilan,40,53000000,309000000,1592729,17.0,11,perempuan,Cerai mati,47
-754,panggilan,44,133000000,409000000,1789445,33.0,11,perempuan,Cerai hidup,55
-755,panggilan,42,194000000,591000000,1710795,33.0,13,laki-laki,Cerai mati,48
-756,panggilan,32,148000000,176000000,1054938,84.0,14,perempuan,Cerai hidup,40
-757,panggilan,41,516000000,549500000,1154501,94.0,11,laki-laki,Belum menikah,53
-758,panggilan,31,210000000,248500000,822970,85.0,12,laki-laki,Cerai mati,40
-759,panggilan,46,103000000,411000000,1295391,25.0,14,laki-laki,Cerai hidup,63
-760,panggilan,46,93000000,202000000,1228245,46.0,13,perempuan,Belum menikah,62
-761,panggilan,31,151000000,194500000,944137,78.0,14,perempuan,Menikah,60
-762,panggilan,49,398000000,575500000,1862854,69.0,14,perempuan,Menikah,54
-763,panggilan,30,213000000,257000000,1064538,83.0,14,laki-laki,Cerai hidup,44
-764,panggilan,43,66000000,131500000,1666095,50.0,13,perempuan,Cerai hidup,37
-765,panggilan,35,257000000,291500000,1411568,88.0,14,laki-laki,Menikah,51
-766,panggilan,34,356000000,554000000,860569,64.0,14,laki-laki,Menikah,57
-767,panggilan,36,325000000,559000000,1253647,57.99999999999999,14,perempuan,Belum menikah,37
-768,panggilan,49,254000000,535500000,1945122,47.0,13,laki-laki,Belum menikah,43
-769,panggilan,40,122000000,145000000,800765,84.0,13,laki-laki,Cerai mati,24
-770,panggilan,45,52000000,318500000,1425266,16.0,11,perempuan,Belum menikah,45
-771,panggilan,32,81000000,403000000,909354,20.0,13,laki-laki,Menikah,52
-772,panggilan,31,214000000,425500000,789020,50.0,12,laki-laki,Cerai hidup,63
-773,panggilan,35,595000000,661500000,1352755,90.0,14,perempuan,Belum menikah,47
-774,panggilan,36,96000000,114000000,1173168,84.0,13,perempuan,Menikah,50
-775,panggilan,33,61000000,68500000,670291,89.0,14,perempuan,Menikah,36
-776,panggilan,30,234000000,260000000,801830,90.0,12,perempuan,Cerai hidup,41
-777,panggilan,48,424000000,645000000,1448294,66.0,11,laki-laki,Cerai hidup,23
-778,panggilan,41,234000000,580500000,1138363,40.0,12,laki-laki,Menikah,51
-779,panggilan,33,225000000,263500000,829623,85.0,12,perempuan,Cerai hidup,36
-780,panggilan,42,90000000,97000000,1401572,93.0,14,perempuan,Belum menikah,33
-781,panggilan,40,281000000,413000000,1392382,68.0,11,perempuan,Belum menikah,51
-782,panggilan,43,150000000,185500000,1360676,81.0,13,laki-laki,Cerai hidup,28
-783,panggilan,32,43000000,60000000,766611,72.0,12,laki-laki,Cerai hidup,44
-784,panggilan,41,370000000,499500000,927876,74.0,13,laki-laki,Belum menikah,56
-785,panggilan,40,85000000,165000000,881181,52.0,14,laki-laki,Belum menikah,42
-786,panggilan,34,106000000,617000000,795538,17.0,11,laki-laki,Cerai mati,42
-787,panggilan,31,409000000,434500000,1268867,94.0,12,laki-laki,Cerai hidup,31
-788,panggilan,39,661000000,725500000,1172075,91.0,13,perempuan,Menikah,62
-789,panggilan,34,533000000,659000000,1089596,81.0,11,perempuan,Cerai hidup,61
-790,panggilan,37,116000000,148500000,928304,78.0,13,laki-laki,Cerai hidup,39
-791,panggilan,40,604000000,751000000,1589802,80.0,11,laki-laki,Menikah,34
-792,panggilan,32,81000000,231000000,745097,35.0,12,laki-laki,Cerai mati,46
-793,panggilan,33,178000000,273500000,692134,65.0,14,laki-laki,Cerai hidup,34
-794,panggilan,46,132000000,653000000,1000767,20.0,13,laki-laki,Belum menikah,62
-795,panggilan,30,144000000,192000000,975253,75.0,11,laki-laki,Cerai hidup,44
-796,panggilan,34,117000000,554000000,1053566,21.0,11,perempuan,Cerai hidup,63
-797,panggilan,38,461000000,613000000,1210491,75.0,13,laki-laki,Cerai mati,36
-798,panggilan,33,117000000,214500000,677169,55.00000000000001,13,laki-laki,Menikah,50
-799,panggilan,39,590000000,771500000,1452347,76.0,12,laki-laki,Cerai mati,27
-800,datang ke tempat,58,554000000,812000000,3534796,68.0,11,perempuan,Cerai hidup,60
-801,datang ke tempat,42,146000000,946500000,1750747,15.0,11,perempuan,Cerai hidup,30
-802,datang ke tempat,52,430000000,446000000,2410524,96.0,12,perempuan,Belum menikah,43
-803,datang ke tempat,49,576000000,1329500000,2161498,43.0,12,laki-laki,Cerai mati,39
-804,datang ke tempat,59,258000000,551500000,2657117,47.0,14,laki-laki,Belum menikah,23
-805,datang ke tempat,57,938000000,1048500000,3418733,89.0,13,laki-laki,Belum menikah,51
-806,datang ke tempat,56,522000000,1427500000,3194142,37.0,11,perempuan,Belum menikah,35
-807,datang ke tempat,56,908000000,1846000000,3233825,49.0,14,perempuan,Belum menikah,29
-808,datang ke tempat,52,538000000,1679000000,2242900,32.0,13,laki-laki,Menikah,62
-809,datang ke tempat,43,1074000000,1218500000,1780561,88.0,11,perempuan,Menikah,40
-810,datang ke tempat,41,406000000,574000000,1832708,71.0,12,laki-laki,Menikah,43
-811,datang ke tempat,58,432000000,825500000,2578620,52.0,11,laki-laki,Menikah,54
-812,datang ke tempat,41,318000000,1076500000,1870898,30.0,14,laki-laki,Cerai mati,34
-813,datang ke tempat,55,798000000,1014500000,3296094,79.0,14,laki-laki,Menikah,52
-814,datang ke tempat,47,1006000000,1010500000,2471266,100.0,11,laki-laki,Menikah,29
-815,datang ke tempat,42,974000000,991500000,1964768,98.0,11,perempuan,Menikah,25
-816,datang ke tempat,40,110000000,117500000,1649602,94.0,13,perempuan,Cerai mati,53
-817,datang ke tempat,54,824000000,972000000,2689251,85.0,12,laki-laki,Cerai mati,41
-818,datang ke tempat,49,788000000,1173500000,2508836,67.0,14,laki-laki,Cerai hidup,60
-819,datang ke tempat,47,356000000,862000000,2230261,41.0,12,laki-laki,Cerai hidup,55
-820,datang ke tempat,46,744000000,986000000,1880383,75.0,14,laki-laki,Cerai mati,39
-821,datang ke tempat,56,226000000,368500000,2687397,61.0,12,laki-laki,Cerai hidup,25
-822,datang ke tempat,54,142000000,274500000,2808703,52.0,14,laki-laki,Cerai hidup,49
-823,datang ke tempat,54,408000000,1026000000,3089712,40.0,13,laki-laki,Cerai hidup,34
-824,datang ke tempat,45,374000000,1453500000,1956968,26.0,13,perempuan,Menikah,60
-825,datang ke tempat,54,110000000,366000000,2559786,30.0,13,laki-laki,Cerai hidup,40
-826,datang ke tempat,59,704000000,1078000000,2693576,65.0,12,perempuan,Cerai mati,34
-827,datang ke tempat,41,522000000,1280500000,1813493,41.0,12,laki-laki,Cerai hidup,55
-828,datang ke tempat,56,230000000,517000000,3095006,44.0,12,perempuan,Belum menikah,44
-829,datang ke tempat,52,728000000,1011500000,2393614,72.0,11,laki-laki,Cerai mati,62
-830,datang ke tempat,46,820000000,1128500000,2604096,73.0,13,perempuan,Cerai mati,49
-831,datang ke tempat,56,596000000,1091500000,3257600,55.00000000000001,13,laki-laki,Belum menikah,30
-832,datang ke tempat,51,214000000,819000000,3000682,26.0,13,perempuan,Cerai hidup,56
-833,datang ke tempat,47,498000000,1226500000,2416355,41.0,13,perempuan,Belum menikah,41
-834,datang ke tempat,46,796000000,1592000000,2214515,50.0,14,perempuan,Cerai mati,48
-835,datang ke tempat,43,814000000,1071500000,2024515,76.0,13,laki-laki,Cerai mati,62
-836,datang ke tempat,53,1366000000,1793500000,3079604,76.0,13,laki-laki,Menikah,50
-837,datang ke tempat,51,366000000,465000000,2827876,79.0,11,laki-laki,Menikah,32
-838,datang ke tempat,54,162000000,163500000,2929244,99.0,13,laki-laki,Belum menikah,49
-839,datang ke tempat,46,682000000,1109000000,2608726,61.0,11,perempuan,Cerai hidup,48
-840,datang ke tempat,43,214000000,1481000000,1757221,14.000000000000002,13,perempuan,Cerai mati,55
-841,datang ke tempat,40,140000000,365000000,2128272,38.0,14,perempuan,Cerai mati,54
-842,datang ke tempat,41,740000000,1073500000,1916433,69.0,12,laki-laki,Cerai mati,59
-843,datang ke tempat,56,390000000,754000000,3058770,52.0,14,perempuan,Menikah,47
-844,datang ke tempat,50,110000000,566500000,2870541,19.0,14,laki-laki,Menikah,55
-845,datang ke tempat,53,1418000000,1666000000,3122461,85.0,13,laki-laki,Menikah,62
-846,datang ke tempat,47,158000000,602500000,2686321,26.0,12,perempuan,Belum menikah,56
-847,datang ke tempat,46,142000000,968000000,2688146,15.0,14,laki-laki,Cerai hidup,43
-848,datang ke tempat,50,792000000,1495000000,2736763,53.0,11,laki-laki,Menikah,48
-849,datang ke tempat,51,1480000000,1729500000,2817236,86.0,14,perempuan,Belum menikah,38
-850,datang ke tempat,55,140000000,140000000,2937721,100.0,14,perempuan,Cerai mati,39
-851,datang ke tempat,56,398000000,404500000,3322443,98.0,14,perempuan,Cerai hidup,54
-852,datang ke tempat,52,844000000,1275500000,2560826,66.0,13,perempuan,Belum menikah,49
-853,datang ke tempat,56,1344000000,1433500000,3334840,94.0,11,perempuan,Cerai hidup,56
-854,datang ke tempat,56,428000000,1951000000,2493536,22.0,13,perempuan,Menikah,31
-855,datang ke tempat,41,176000000,301000000,2054591,57.99999999999999,13,perempuan,Cerai mati,37
-856,datang ke tempat,55,164000000,225500000,2930538,73.0,11,perempuan,Belum menikah,54
-857,datang ke tempat,49,1026000000,1280000000,2829919,80.0,11,perempuan,Cerai mati,62
-858,datang ke tempat,48,236000000,600000000,2280198,39.0,11,laki-laki,Belum menikah,60
-859,datang ke tempat,47,100000000,116500000,2705716,86.0,12,perempuan,Cerai mati,56
-860,datang ke tempat,48,98000000,106500000,2597356,92.0,12,laki-laki,Cerai hidup,30
-861,datang ke tempat,40,172000000,477500000,2157927,36.0,14,laki-laki,Cerai mati,55
-862,datang ke tempat,54,340000000,801000000,2585374,42.0,11,laki-laki,Cerai mati,43
-863,datang ke tempat,52,888000000,980000000,3115256,91.0,11,laki-laki,Belum menikah,55
-864,datang ke tempat,51,216000000,999000000,2785996,22.0,12,laki-laki,Belum menikah,62
-865,datang ke tempat,56,1380000000,1456000000,2602583,95.0,14,perempuan,Belum menikah,43
-866,datang ke tempat,52,116000000,447500000,2455156,26.0,12,perempuan,Cerai hidup,39
-867,datang ke tempat,47,294000000,664000000,2840041,44.0,14,laki-laki,Belum menikah,52
-868,datang ke tempat,58,540000000,1332500000,3000360,41.0,12,perempuan,Menikah,40
-869,datang ke tempat,51,324000000,415500000,2673058,78.0,13,laki-laki,Cerai mati,48
-870,datang ke tempat,54,246000000,1111500000,3060901,22.0,13,laki-laki,Menikah,36
-871,datang ke tempat,50,846000000,1333000000,2115946,63.0,11,laki-laki,Cerai hidup,44
-872,datang ke tempat,47,130000000,566500000,2096236,23.0,13,perempuan,Menikah,39
-873,datang ke tempat,41,864000000,979000000,2164096,88.0,11,laki-laki,Cerai mati,44
-874,datang ke tempat,45,378000000,523500000,2196731,72.0,12,laki-laki,Belum menikah,39
-875,datang ke tempat,55,1698000000,1877000000,3096517,90.0,12,laki-laki,Cerai mati,52
-876,datang ke tempat,53,622000000,697000000,2441069,89.0,11,perempuan,Cerai mati,49
-877,datang ke tempat,53,108000000,253000000,2402954,43.0,12,laki-laki,Menikah,59
-878,datang ke tempat,43,312000000,546500000,2176517,56.99999999999999,12,perempuan,Menikah,32
-879,datang ke tempat,44,170000000,1432000000,1845989,12.0,12,laki-laki,Menikah,61
-880,datang ke tempat,53,656000000,1117000000,2240831,59.0,14,laki-laki,Menikah,30
-881,datang ke tempat,50,1060000000,1117000000,2033629,95.0,11,laki-laki,Belum menikah,28
-882,datang ke tempat,52,1582000000,1781000000,2340547,89.0,12,perempuan,Cerai mati,54
-883,datang ke tempat,53,126000000,191500000,2498868,66.0,13,laki-laki,Cerai mati,62
-884,datang ke tempat,50,304000000,409000000,2806262,74.0,14,perempuan,Cerai mati,36
-885,datang ke tempat,47,564000000,1300000000,2716600,43.0,14,laki-laki,Menikah,24
-886,datang ke tempat,48,284000000,954000000,2512861,30.0,11,laki-laki,Cerai hidup,23
-887,datang ke tempat,57,454000000,1494000000,3353662,30.0,12,laki-laki,Cerai mati,55
-888,datang ke tempat,42,1028000000,1066500000,2265125,96.0,11,laki-laki,Cerai mati,42
-889,datang ke tempat,46,734000000,869000000,2561359,84.0,14,perempuan,Cerai mati,51
-890,datang ke tempat,55,432000000,434000000,3101673,100.0,13,perempuan,Belum menikah,53
-891,datang ke tempat,41,162000000,1325500000,2159360,12.0,13,perempuan,Cerai hidup,63
-892,datang ke tempat,43,564000000,1295000000,2004465,44.0,14,laki-laki,Cerai mati,59
-893,datang ke tempat,58,366000000,984500000,2598803,37.0,11,perempuan,Cerai mati,42
-894,datang ke tempat,55,632000000,830000000,2891267,76.0,14,perempuan,Belum menikah,62
-895,datang ke tempat,56,806000000,884500000,2609495,91.0,11,laki-laki,Cerai mati,53
-896,datang ke tempat,41,114000000,251500000,2486463,45.0,14,perempuan,Belum menikah,30
-897,datang ke tempat,49,108000000,386000000,2646630,28.000000000000004,11,perempuan,Belum menikah,61
-898,datang ke tempat,55,1552000000,1748000000,3060854,89.0,14,perempuan,Cerai hidup,50
-899,datang ke tempat,47,104000000,163000000,2857550,64.0,13,perempuan,Cerai mati,51
-900,datang ke tempat,44,1274000000,1397500000,2220207,91.0,13,laki-laki,Belum menikah,24
-901,datang ke tempat,44,116000000,158500000,2566790,73.0,11,laki-laki,Menikah,27
-902,datang ke tempat,47,316000000,340000000,2656631,93.0,12,laki-laki,Belum menikah,35
-903,datang ke tempat,47,922000000,937000000,2794679,98.0,12,perempuan,Cerai hidup,59
-904,datang ke tempat,51,182000000,325500000,2282498,56.00000000000001,12,perempuan,Cerai hidup,39
-905,datang ke tempat,55,650000000,876500000,3176849,74.0,13,perempuan,Cerai mati,45
-906,datang ke tempat,49,818000000,923000000,2944472,89.0,12,laki-laki,Cerai hidup,38
-907,datang ke tempat,44,602000000,1129000000,2593762,53.0,11,perempuan,Belum menikah,59
-908,datang ke tempat,43,492000000,600500000,2169502,82.0,11,laki-laki,Cerai mati,30
-909,datang ke tempat,50,654000000,721000000,2468296,91.0,11,laki-laki,Cerai hidup,60
-910,datang ke tempat,48,472000000,1203000000,2230651,39.0,14,laki-laki,Cerai mati,48
-911,datang ke tempat,53,1180000000,1472500000,2633445,80.0,12,perempuan,Cerai hidup,31
-912,datang ke tempat,43,674000000,684500000,2092610,98.0,14,laki-laki,Belum menikah,36
-913,datang ke tempat,54,142000000,328500000,2336284,43.0,12,laki-laki,Cerai hidup,59
-914,datang ke tempat,51,544000000,1612500000,2084676,34.0,12,perempuan,Menikah,50
-915,datang ke tempat,53,218000000,254500000,2208985,86.0,13,perempuan,Cerai hidup,46
-916,datang ke tempat,57,166000000,828000000,2590943,20.0,14,laki-laki,Menikah,55
-917,datang ke tempat,42,86000000,225000000,2184340,38.0,14,laki-laki,Cerai mati,61
-918,datang ke tempat,45,364000000,546000000,2532771,67.0,13,laki-laki,Cerai mati,36
-919,datang ke tempat,57,328000000,363000000,2641475,90.0,12,perempuan,Belum menikah,56
-920,datang ke tempat,42,100000000,706500000,2094618,14.000000000000002,11,laki-laki,Belum menikah,47
-921,datang ke tempat,54,108000000,561000000,2218151,19.0,14,laki-laki,Cerai mati,57
-922,datang ke tempat,45,186000000,780000000,1934322,24.0,11,laki-laki,Belum menikah,45
-923,datang ke tempat,57,602000000,748500000,3316533,80.0,13,laki-laki,Menikah,50
-924,datang ke tempat,54,490000000,1077000000,3049300,45.0,12,laki-laki,Menikah,60
-925,datang ke tempat,47,318000000,578500000,2459153,55.00000000000001,14,perempuan,Cerai mati,57
-926,datang ke tempat,49,964000000,986000000,2753252,98.0,13,laki-laki,Cerai mati,45
-927,datang ke tempat,40,418000000,1133000000,2202798,37.0,14,perempuan,Belum menikah,56
-928,datang ke tempat,41,270000000,1190500000,2407592,23.0,14,perempuan,Menikah,49
-929,datang ke tempat,41,126000000,214000000,1711325,59.0,14,perempuan,Belum menikah,29
-930,datang ke tempat,44,832000000,1181500000,2040550,70.0,13,perempuan,Cerai mati,44
-931,datang ke tempat,58,1584000000,1701500000,3025987,93.0,14,laki-laki,Menikah,48
-932,datang ke tempat,56,578000000,721000000,2408743,80.0,11,perempuan,Belum menikah,46
-933,datang ke tempat,52,126000000,270500000,2757871,47.0,14,laki-laki,Belum menikah,48
-934,datang ke tempat,46,400000000,722000000,2793855,55.00000000000001,11,laki-laki,Cerai hidup,54
-935,datang ke tempat,55,856000000,1458500000,2595960,59.0,11,laki-laki,Cerai mati,53
-936,datang ke tempat,41,540000000,898000000,2329079,60.0,11,perempuan,Belum menikah,32
-937,datang ke tempat,45,114000000,225000000,1919930,51.0,12,perempuan,Belum menikah,51
-938,datang ke tempat,54,656000000,795000000,2772153,83.0,14,laki-laki,Cerai hidup,27
-939,datang ke tempat,48,952000000,1359000000,2585380,70.0,14,laki-laki,Belum menikah,38
-940,datang ke tempat,52,756000000,756500000,2282115,100.0,12,perempuan,Cerai mati,31
-941,datang ke tempat,49,338000000,537500000,2524622,63.0,13,laki-laki,Cerai hidup,28
-942,datang ke tempat,44,520000000,665500000,2011525,78.0,13,perempuan,Belum menikah,29
-943,datang ke tempat,59,668000000,1141000000,3391607,59.0,14,laki-laki,Cerai mati,53
-944,datang ke tempat,56,568000000,589000000,2597935,96.0,11,perempuan,Menikah,54
-945,datang ke tempat,44,574000000,1456000000,1885229,39.0,14,perempuan,Cerai hidup,44
-946,datang ke tempat,59,1050000000,1213000000,3252273,87.0,12,perempuan,Cerai mati,60
-947,datang ke tempat,41,126000000,479500000,2054050,26.0,12,laki-laki,Belum menikah,59
-948,datang ke tempat,46,324000000,669500000,1919426,48.0,12,perempuan,Menikah,36
-949,datang ke tempat,49,790000000,897500000,2216191,88.0,13,laki-laki,Belum menikah,28
-950,datang ke tempat,53,438000000,1528000000,2912007,28.999999999999996,13,perempuan,Menikah,52
-951,datang ke tempat,50,354000000,368500000,2490136,96.0,11,perempuan,Cerai mati,23
-952,datang ke tempat,53,228000000,236500000,2985384,96.0,13,perempuan,Cerai hidup,28
-953,datang ke tempat,40,220000000,249500000,2227404,88.0,14,perempuan,Menikah,37
-954,datang ke tempat,46,264000000,324500000,2379814,81.0,14,laki-laki,Cerai mati,62
-955,datang ke tempat,44,110000000,547000000,1817270,20.0,11,perempuan,Cerai mati,46
-956,datang ke tempat,48,562000000,1324500000,2242097,42.0,13,laki-laki,Belum menikah,51
-957,datang ke tempat,52,1500000000,1713500000,2898527,88.0,12,perempuan,Menikah,50
-958,datang ke tempat,59,546000000,1511500000,2652688,36.0,13,perempuan,Cerai hidup,39
-959,datang ke tempat,45,300000000,327000000,2110031,92.0,11,laki-laki,Menikah,51
-960,datang ke tempat,55,1120000000,1374500000,2374404,81.0,11,laki-laki,Menikah,49
-961,datang ke tempat,49,372000000,651500000,2924408,56.99999999999999,14,perempuan,Menikah,52
-962,datang ke tempat,46,164000000,1590500000,2302463,10.0,14,laki-laki,Menikah,26
-963,datang ke tempat,42,84000000,157500000,2573070,53.0,12,perempuan,Belum menikah,38
-964,datang ke tempat,59,600000000,1487500000,2743311,40.0,13,perempuan,Belum menikah,57
-965,datang ke tempat,48,216000000,510000000,1972296,42.0,12,laki-laki,Menikah,50
-966,datang ke tempat,42,154000000,1093500000,2438429,14.000000000000002,14,perempuan,Menikah,48
-967,datang ke tempat,44,118000000,823000000,1983829,14.000000000000002,14,laki-laki,Cerai hidup,43
-968,datang ke tempat,42,96000000,115500000,2143854,83.0,11,perempuan,Cerai hidup,40
-969,datang ke tempat,44,672000000,695500000,2697011,97.0,12,laki-laki,Menikah,46
-970,datang ke tempat,43,868000000,1278500000,2601684,68.0,12,laki-laki,Cerai hidup,49
-971,datang ke tempat,53,490000000,563500000,2651121,87.0,12,laki-laki,Cerai mati,53
-972,datang ke tempat,59,146000000,163000000,2817909,90.0,13,perempuan,Belum menikah,23
-973,datang ke tempat,57,562000000,1632000000,3078231,34.0,13,perempuan,Belum menikah,60
-974,datang ke tempat,55,506000000,1880000000,3087373,27.0,11,perempuan,Menikah,62
-975,datang ke tempat,56,1780000000,1817500000,2465552,98.0,12,perempuan,Menikah,36
-976,datang ke tempat,43,456000000,689000000,1773044,66.0,11,laki-laki,Cerai hidup,49
-977,datang ke tempat,52,422000000,644000000,2630644,66.0,14,perempuan,Menikah,46
-978,datang ke tempat,50,302000000,316000000,2781383,96.0,12,perempuan,Cerai hidup,44
-979,datang ke tempat,48,114000000,234000000,2608734,49.0,12,perempuan,Belum menikah,40
-980,datang ke tempat,54,308000000,1752000000,3251022,18.0,13,perempuan,Cerai hidup,25
-981,datang ke tempat,45,218000000,529500000,2076695,41.0,14,laki-laki,Belum menikah,39
-982,datang ke tempat,57,282000000,1554000000,2403923,18.0,11,perempuan,Cerai hidup,33
-983,datang ke tempat,52,1290000000,1691000000,2303511,76.0,14,perempuan,Belum menikah,25
-984,datang ke tempat,56,308000000,431500000,2270447,71.0,11,perempuan,Belum menikah,62
-985,datang ke tempat,41,330000000,491500000,2512402,67.0,11,laki-laki,Cerai mati,24
-986,datang ke tempat,59,388000000,1345000000,3231525,28.999999999999996,12,perempuan,Cerai mati,30
-987,datang ke tempat,47,398000000,593500000,2740868,67.0,11,laki-laki,Cerai hidup,41
-988,datang ke tempat,42,198000000,957000000,2304037,21.0,14,perempuan,Cerai hidup,36
-989,datang ke tempat,57,1034000000,1636500000,3405718,63.0,14,perempuan,Belum menikah,33
-990,datang ke tempat,53,544000000,1475500000,2626278,37.0,13,laki-laki,Belum menikah,34
-991,datang ke tempat,41,618000000,806500000,2374113,77.0,11,laki-laki,Menikah,39
-992,datang ke tempat,50,926000000,1178500000,3039399,79.0,13,perempuan,Belum menikah,52
-993,datang ke tempat,45,382000000,835500000,2232626,46.0,12,perempuan,Belum menikah,32
-994,datang ke tempat,59,452000000,788500000,3350127,56.99999999999999,11,laki-laki,Cerai hidup,52
-995,datang ke tempat,40,140000000,201500000,2449470,69.0,12,perempuan,Menikah,43
-996,datang ke tempat,54,118000000,1086000000,3231895,11.0,12,laki-laki,Cerai mati,60
-997,datang ke tempat,49,400000000,450500000,2461237,89.0,11,perempuan,Cerai hidup,37
-998,datang ke tempat,48,444000000,531000000,2616219,84.0,11,laki-laki,Cerai mati,59
-999,datang ke tempat,52,666000000,767000000,2872578,87.0,12,laki-laki,Menikah,39
+0,sms or WA,10,61600000,67200000,72549,92.0,0,laki-laki,Menikah,45
+1,sms or WA,15,32800000,140200000,86235,23.0,3,perempuan,Cerai mati,32
+2,sms or WA,10,38400000,55300000,99363,69.0,1,laki-laki,Cerai hidup,62
+3,sms or WA,9,32500000,57400000,76118,56.99999999999999,1,perempuan,Cerai mati,55
+4,sms or WA,6,21000000,25400000,61461,83.0,4,perempuan,Menikah,53
+5,sms or WA,7,12800000,37200000,71842,34.0,4,laki-laki,Belum menikah,33
+6,sms or WA,5,4100000,41100000,48652,10.0,1,perempuan,Cerai hidup,34
+7,sms or WA,8,35500000,37700000,50586,94.0,3,laki-laki,Belum menikah,38
+8,sms or WA,7,22400000,41700000,62241,54.0,3,perempuan,Menikah,54
+9,sms or WA,9,48300000,65200000,82064,74.0,0,laki-laki,Cerai hidup,43
+10,sms or WA,14,11300000,14500000,113156,78.0,1,perempuan,Menikah,46
+11,sms or WA,10,60400000,83200000,59618,73.0,1,laki-laki,Menikah,34
+12,sms or WA,11,25700000,31500000,114280,82.0,4,laki-laki,Menikah,32
+13,sms or WA,14,39800000,110000000,88610,36.0,2,laki-laki,Menikah,48
+14,sms or WA,10,20000000,24800000,90662,81.0,1,laki-laki,Cerai hidup,58
+15,sms or WA,14,43300000,62900000,73975,69.0,4,perempuan,Belum menikah,59
+16,sms or WA,1,900000,1100000,14250,82.0,3,perempuan,Cerai mati,35
+17,sms or WA,15,8400000,16400000,77875,51.0,2,perempuan,Cerai mati,55
+18,sms or WA,12,8200000,52700000,60258,16.0,0,perempuan,Menikah,52
+19,sms or WA,1,3900000,8000000,19496,49.0,4,laki-laki,Menikah,34
+20,sms or WA,9,22500000,58300000,66113,39.0,4,perempuan,Cerai mati,30
+21,sms or WA,3,18200000,27800000,32372,65.0,1,perempuan,Cerai mati,50
+22,sms or WA,17,38500000,169600000,169652,23.0,2,perempuan,Cerai mati,54
+23,sms or WA,17,52100000,153600000,175935,34.0,3,laki-laki,Cerai mati,24
+24,sms or WA,1,6900000,8600000,18650,80.0,1,laki-laki,Cerai hidup,25
+25,sms or WA,7,16800000,17000000,42806,99.0,2,perempuan,Cerai mati,57
+26,sms or WA,4,28800000,31400000,36812,92.0,4,laki-laki,Belum menikah,38
+27,sms or WA,12,15700000,52400000,84858,30.0,2,perempuan,Belum menikah,62
+28,sms or WA,13,71700000,122500000,109455,59.0,3,laki-laki,Belum menikah,38
+29,sms or WA,3,1800000,2300000,39860,78.0,0,perempuan,Cerai hidup,34
+30,sms or WA,15,12000000,14500000,116840,83.0,2,perempuan,Cerai hidup,36
+31,sms or WA,1,900000,1200000,9053,75.0,4,perempuan,Belum menikah,33
+32,sms or WA,10,39500000,64100000,57276,62.0,0,perempuan,Menikah,59
+33,sms or WA,14,40300000,131100000,110254,31.0,3,perempuan,Cerai mati,37
+34,sms or WA,9,9600000,31400000,51886,31.0,0,laki-laki,Cerai hidup,26
+35,sms or WA,19,30500000,44600000,153376,68.0,3,perempuan,Menikah,44
+36,sms or WA,2,6100000,7900000,24874,77.0,4,perempuan,Menikah,54
+37,sms or WA,13,81600000,108000000,92063,76.0,1,laki-laki,Belum menikah,27
+38,sms or WA,19,41900000,95400000,199415,44.0,2,perempuan,Cerai hidup,23
+39,sms or WA,7,30000000,47000000,64833,64.0,4,perempuan,Cerai hidup,42
+40,sms or WA,13,8900000,25600000,110229,35.0,0,perempuan,Belum menikah,23
+41,sms or WA,10,4700000,22300000,55227,21.0,1,laki-laki,Cerai hidup,50
+42,sms or WA,6,5600000,9200000,33971,61.0,4,perempuan,Cerai hidup,24
+43,sms or WA,11,15500000,77400000,104382,20.0,4,laki-laki,Menikah,24
+44,sms or WA,8,19400000,46200000,70253,42.0,1,laki-laki,Cerai hidup,33
+45,sms or WA,15,76500000,78700000,148085,97.0,3,perempuan,Cerai hidup,41
+46,sms or WA,18,122200000,176600000,147573,69.0,1,perempuan,Menikah,55
+47,sms or WA,10,8000000,21300000,89384,38.0,1,perempuan,Cerai hidup,33
+48,sms or WA,9,76400000,81700000,79350,94.0,2,laki-laki,Cerai hidup,33
+49,sms or WA,12,23800000,78600000,78503,30.0,2,perempuan,Menikah,49
+50,sms or WA,13,6100000,7600000,139708,80.0,1,laki-laki,Menikah,56
+51,sms or WA,12,32100000,32600000,122566,98.0,4,laki-laki,Cerai mati,47
+52,sms or WA,16,78600000,120200000,81004,65.0,1,perempuan,Cerai mati,54
+53,sms or WA,9,13100000,14300000,47153,92.0,1,laki-laki,Cerai mati,45
+54,sms or WA,10,33200000,53400000,107516,62.0,1,perempuan,Cerai hidup,29
+55,sms or WA,2,5600000,7000000,16480,80.0,3,perempuan,Belum menikah,37
+56,sms or WA,4,10300000,29200000,49061,35.0,0,laki-laki,Cerai mati,37
+57,sms or WA,9,4000000,11400000,96687,35.0,4,laki-laki,Belum menikah,53
+58,sms or WA,4,9900000,10900000,33923,91.0,0,laki-laki,Belum menikah,63
+59,sms or WA,13,64400000,75100000,127680,86.0,4,laki-laki,Belum menikah,57
+60,sms or WA,5,25200000,37000000,36310,68.0,4,laki-laki,Cerai mati,41
+61,sms or WA,1,700000,5100000,13746,14.000000000000002,0,perempuan,Cerai hidup,51
+62,sms or WA,19,74000000,173700000,105136,43.0,2,laki-laki,Menikah,51
+63,sms or WA,1,2000000,7600000,15242,26.0,3,laki-laki,Belum menikah,47
+64,sms or WA,4,29300000,35700000,32772,82.0,3,perempuan,Cerai hidup,33
+65,sms or WA,9,29500000,70300000,60258,42.0,4,perempuan,Menikah,59
+66,sms or WA,11,12200000,15600000,62020,78.0,4,laki-laki,Belum menikah,35
+67,sms or WA,18,26900000,102500000,141940,26.0,0,laki-laki,Belum menikah,29
+68,sms or WA,4,13400000,20500000,34950,65.0,2,laki-laki,Menikah,46
+69,sms or WA,1,3900000,3900000,13383,100.0,0,perempuan,Cerai mati,38
+70,sms or WA,9,18700000,73700000,91362,25.0,1,laki-laki,Belum menikah,36
+71,sms or WA,15,20100000,45400000,125413,44.0,2,perempuan,Cerai hidup,55
+72,sms or WA,11,87600000,107800000,88236,81.0,2,perempuan,Belum menikah,37
+73,sms or WA,7,29800000,63600000,42723,47.0,0,laki-laki,Cerai mati,49
+74,sms or WA,7,21200000,41200000,50086,51.0,3,perempuan,Cerai hidup,35
+75,sms or WA,5,4700000,16600000,34524,28.000000000000004,4,perempuan,Menikah,46
+76,sms or WA,14,12000000,36100000,95667,33.0,0,laki-laki,Cerai mati,40
+77,sms or WA,13,77400000,126500000,138110,61.0,2,perempuan,Belum menikah,40
+78,sms or WA,12,58100000,83100000,79555,70.0,2,laki-laki,Cerai hidup,35
+79,sms or WA,8,9100000,13300000,87519,68.0,2,laki-laki,Menikah,49
+80,sms or WA,11,8800000,29800000,112202,30.0,3,perempuan,Belum menikah,30
+81,sms or WA,7,10000000,22200000,77887,45.0,1,perempuan,Menikah,56
+82,sms or WA,9,35900000,74000000,57576,49.0,2,perempuan,Belum menikah,25
+83,sms or WA,16,13100000,149400000,91408,9.0,3,perempuan,Cerai mati,35
+84,sms or WA,19,29500000,113500000,135961,26.0,3,laki-laki,Cerai hidup,50
+85,sms or WA,18,25300000,30800000,141505,82.0,3,perempuan,Menikah,23
+86,sms or WA,9,22900000,27900000,71758,82.0,1,perempuan,Cerai mati,57
+87,sms or WA,11,25300000,68900000,76431,37.0,4,laki-laki,Menikah,49
+88,sms or WA,6,47400000,53800000,63013,88.0,2,perempuan,Cerai mati,38
+89,sms or WA,2,4300000,10000000,14140,43.0,1,perempuan,Belum menikah,23
+90,sms or WA,8,5900000,31900000,66727,18.0,4,laki-laki,Cerai hidup,53
+91,sms or WA,4,4500000,32500000,38312,14.000000000000002,4,laki-laki,Menikah,54
+92,sms or WA,13,38100000,110700000,137716,34.0,0,laki-laki,Cerai mati,38
+93,sms or WA,6,9400000,48500000,40404,19.0,4,perempuan,Menikah,40
+94,sms or WA,6,5700000,23400000,37941,24.0,0,laki-laki,Cerai mati,41
+95,sms or WA,4,30900000,34800000,43068,89.0,1,perempuan,Belum menikah,55
+96,sms or WA,10,9900000,42200000,80525,23.0,2,laki-laki,Cerai hidup,63
+97,sms or WA,13,30800000,33800000,108861,91.0,2,perempuan,Cerai hidup,44
+98,sms or WA,12,29200000,70400000,60195,41.0,3,laki-laki,Menikah,60
+99,sms or WA,19,45100000,78100000,165038,57.99999999999999,1,laki-laki,Menikah,24
+100,sms or WA,16,11100000,87900000,126243,13.0,2,laki-laki,Cerai mati,26
+101,sms or WA,10,20500000,70200000,64450,28.999999999999996,2,perempuan,Belum menikah,56
+102,sms or WA,18,54700000,137200000,150251,40.0,4,laki-laki,Menikah,48
+103,sms or WA,11,6700000,10200000,108165,66.0,3,perempuan,Belum menikah,39
+104,sms or WA,10,32000000,59300000,57606,54.0,1,laki-laki,Cerai hidup,40
+105,sms or WA,2,3900000,6300000,19748,62.0,1,laki-laki,Cerai mati,55
+106,sms or WA,11,8500000,12900000,92193,66.0,3,perempuan,Menikah,56
+107,sms or WA,5,13100000,30900000,43762,42.0,3,perempuan,Cerai hidup,62
+108,sms or WA,5,14700000,36200000,53904,41.0,0,laki-laki,Cerai hidup,38
+109,sms or WA,19,20300000,71300000,106358,28.000000000000004,4,perempuan,Belum menikah,40
+110,sms or WA,3,2400000,3700000,15765,65.0,4,perempuan,Menikah,29
+111,sms or WA,14,106400000,124600000,116152,85.0,4,laki-laki,Menikah,48
+112,sms or WA,6,46900000,58700000,37007,80.0,2,laki-laki,Cerai hidup,29
+113,sms or WA,1,500000,500000,13138,100.0,2,laki-laki,Cerai hidup,48
+114,sms or WA,2,7600000,17700000,10307,43.0,4,laki-laki,Menikah,28
+115,sms or WA,8,38000000,48000000,49759,79.0,0,perempuan,Menikah,43
+116,sms or WA,9,8800000,14600000,45848,60.0,2,laki-laki,Cerai mati,54
+117,sms or WA,16,13200000,47800000,112062,28.000000000000004,0,laki-laki,Menikah,50
+118,sms or WA,15,37300000,110500000,140431,34.0,1,perempuan,Menikah,42
+119,sms or WA,15,70800000,103700000,148095,68.0,2,laki-laki,Menikah,27
+120,sms or WA,3,12800000,19300000,29610,66.0,2,perempuan,Belum menikah,42
+121,sms or WA,6,44300000,58400000,57481,76.0,4,perempuan,Cerai mati,49
+122,sms or WA,5,2500000,3000000,36458,83.0,3,perempuan,Cerai hidup,54
+123,sms or WA,10,15200000,35600000,103409,43.0,3,perempuan,Belum menikah,61
+124,sms or WA,6,5700000,42800000,68865,13.0,1,perempuan,Cerai mati,41
+125,sms or WA,1,4700000,9600000,6223,49.0,3,perempuan,Cerai mati,41
+126,sms or WA,6,8300000,19100000,48834,43.0,3,laki-laki,Cerai mati,63
+127,sms or WA,6,19800000,29700000,68926,67.0,0,perempuan,Cerai hidup,53
+128,sms or WA,9,4100000,56700000,57529,7.000000000000001,4,perempuan,Belum menikah,59
+129,sms or WA,9,8400000,12700000,94221,66.0,2,perempuan,Belum menikah,31
+130,sms or WA,4,13200000,14100000,45528,94.0,4,perempuan,Cerai hidup,23
+131,sms or WA,4,19200000,37900000,42149,51.0,3,perempuan,Cerai mati,34
+132,sms or WA,11,21000000,99400000,119414,21.0,3,laki-laki,Cerai hidup,62
+133,sms or WA,6,35900000,40000000,52010,90.0,3,laki-laki,Menikah,55
+134,sms or WA,18,16900000,41700000,94783,41.0,3,perempuan,Belum menikah,48
+135,sms or WA,3,17400000,17800000,27398,98.0,4,laki-laki,Menikah,30
+136,sms or WA,16,7400000,11900000,94436,62.0,2,laki-laki,Belum menikah,25
+137,sms or WA,13,12200000,73400000,111449,17.0,2,perempuan,Belum menikah,39
+138,sms or WA,1,1200000,1700000,13564,71.0,2,laki-laki,Cerai mati,32
+139,sms or WA,12,19300000,39400000,118825,49.0,0,perempuan,Cerai mati,61
+140,sms or WA,1,1600000,2200000,7704,73.0,1,perempuan,Cerai mati,60
+141,sms or WA,17,27500000,48500000,131869,56.99999999999999,0,perempuan,Cerai hidup,44
+142,sms or WA,6,46800000,58800000,59746,80.0,1,laki-laki,Cerai mati,23
+143,sms or WA,1,1600000,2700000,19403,59.0,3,laki-laki,Cerai hidup,34
+144,sms or WA,5,3100000,46100000,34887,7.000000000000001,2,perempuan,Menikah,38
+145,sms or WA,15,46100000,59500000,83904,77.0,0,laki-laki,Cerai hidup,26
+146,sms or WA,15,60000000,129500000,97819,46.0,3,laki-laki,Cerai hidup,46
+147,sms or WA,4,15300000,35900000,42868,43.0,3,perempuan,Menikah,54
+148,sms or WA,14,46600000,53400000,136309,87.0,3,laki-laki,Cerai mati,60
+149,sms or WA,16,92400000,115300000,144025,80.0,1,laki-laki,Menikah,46
+150,sms or WA,8,27400000,45000000,59288,61.0,0,laki-laki,Belum menikah,42
+151,sms or WA,2,7400000,18400000,10457,40.0,3,laki-laki,Cerai hidup,24
+152,sms or WA,1,1100000,1900000,9392,57.99999999999999,0,laki-laki,Menikah,29
+153,sms or WA,3,27200000,28100000,20405,97.0,4,laki-laki,Cerai hidup,35
+154,sms or WA,14,5800000,12000000,138478,48.0,1,perempuan,Belum menikah,37
+155,sms or WA,11,16900000,23400000,103917,72.0,4,laki-laki,Cerai mati,26
+156,sms or WA,17,26500000,162200000,95902,16.0,4,laki-laki,Cerai hidup,25
+157,sms or WA,15,12800000,26200000,155927,49.0,3,perempuan,Cerai hidup,52
+158,sms or WA,4,11600000,35100000,20680,33.0,0,laki-laki,Belum menikah,41
+159,sms or WA,18,48900000,88300000,152790,55.00000000000001,1,perempuan,Belum menikah,55
+160,sms or WA,13,10800000,121700000,117184,9.0,3,perempuan,Belum menikah,52
+161,sms or WA,10,7600000,14100000,73727,54.0,4,laki-laki,Cerai mati,39
+162,sms or WA,16,24700000,75900000,113981,33.0,2,laki-laki,Menikah,61
+163,sms or WA,9,68400000,73300000,97948,93.0,3,laki-laki,Menikah,60
+164,sms or WA,18,79500000,157100000,96770,51.0,0,laki-laki,Cerai mati,32
+165,sms or WA,11,4600000,5500000,86540,84.0,2,perempuan,Cerai hidup,62
+166,sms or WA,18,13800000,44100000,94796,31.0,4,perempuan,Menikah,59
+167,sms or WA,10,9000000,30400000,101431,30.0,4,laki-laki,Menikah,25
+168,sms or WA,9,56000000,86500000,54846,65.0,3,perempuan,Belum menikah,31
+169,sms or WA,9,7100000,13300000,59543,53.0,4,laki-laki,Belum menikah,41
+170,sms or WA,10,12600000,33800000,83687,37.0,3,laki-laki,Cerai hidup,40
+171,sms or WA,7,21400000,31000000,54582,69.0,2,laki-laki,Cerai mati,52
+172,sms or WA,11,88700000,106800000,82684,83.0,1,perempuan,Cerai mati,36
+173,sms or WA,8,19700000,34100000,43280,57.99999999999999,4,laki-laki,Menikah,60
+174,sms or WA,9,31300000,61000000,80046,51.0,2,laki-laki,Menikah,63
+175,sms or WA,11,29400000,43800000,81997,67.0,4,laki-laki,Menikah,25
+176,sms or WA,12,19200000,79100000,90460,24.0,4,perempuan,Belum menikah,30
+177,sms or WA,12,10600000,95000000,73491,11.0,0,laki-laki,Menikah,62
+178,sms or WA,19,11400000,55300000,151720,21.0,1,laki-laki,Belum menikah,53
+179,sms or WA,15,11800000,27300000,116284,43.0,0,laki-laki,Menikah,48
+180,sms or WA,19,132800000,143300000,191835,93.0,3,perempuan,Menikah,52
+181,sms or WA,16,54500000,57600000,103361,95.0,1,laki-laki,Cerai hidup,45
+182,sms or WA,10,34600000,46400000,74519,75.0,4,perempuan,Belum menikah,51
+183,sms or WA,19,56200000,177900000,127334,32.0,2,laki-laki,Cerai mati,30
+184,sms or WA,4,5500000,12300000,36015,45.0,3,perempuan,Menikah,50
+185,sms or WA,19,50500000,130200000,179773,39.0,2,laki-laki,Cerai hidup,59
+186,sms or WA,12,28400000,30900000,66176,92.0,0,laki-laki,Cerai hidup,38
+187,sms or WA,19,101300000,166100000,112558,61.0,3,laki-laki,Belum menikah,25
+188,sms or WA,4,15100000,19900000,20913,76.0,2,perempuan,Menikah,38
+189,sms or WA,16,25000000,25300000,95997,99.0,1,laki-laki,Menikah,44
+190,sms or WA,1,1400000,3500000,9187,40.0,0,perempuan,Menikah,32
+191,sms or WA,7,10000000,33100000,64132,30.0,2,perempuan,Cerai mati,57
+192,sms or WA,7,6200000,6400000,59639,97.0,1,laki-laki,Cerai mati,40
+193,sms or WA,11,56600000,59600000,91550,95.0,1,perempuan,Cerai hidup,55
+194,sms or WA,3,5900000,11900000,30599,50.0,1,laki-laki,Menikah,35
+195,sms or WA,15,9900000,58700000,159977,17.0,1,laki-laki,Menikah,44
+196,sms or WA,13,14800000,59200000,99031,25.0,0,perempuan,Belum menikah,63
+197,sms or WA,6,5600000,9300000,64786,60.0,0,perempuan,Belum menikah,61
+198,sms or WA,2,9500000,10000000,14617,95.0,2,perempuan,Belum menikah,63
+199,sms or WA,6,4400000,24200000,57542,18.0,1,perempuan,Cerai hidup,55
+200,sms or WA,12,21100000,108600000,112989,19.0,4,laki-laki,Menikah,26
+201,sms or WA,17,8600000,24200000,111292,36.0,4,perempuan,Menikah,33
+202,sms or WA,10,25300000,49600000,101404,51.0,2,perempuan,Cerai mati,60
+203,sms or WA,9,7600000,8000000,90932,95.0,3,perempuan,Cerai hidup,53
+204,sms or WA,4,9900000,22700000,32007,44.0,0,laki-laki,Cerai hidup,25
+205,sms or WA,15,143000000,149700000,139294,96.0,1,laki-laki,Cerai hidup,35
+206,sms or WA,2,4300000,5000000,15591,86.0,4,laki-laki,Cerai mati,56
+207,sms or WA,4,7100000,13200000,21128,54.0,4,perempuan,Menikah,24
+208,sms or WA,19,66000000,141400000,104405,47.0,4,laki-laki,Menikah,42
+209,sms or WA,12,39300000,106500000,95289,37.0,4,laki-laki,Cerai mati,25
+210,sms or WA,1,4000000,5300000,8705,75.0,4,laki-laki,Menikah,41
+211,sms or WA,9,21900000,89200000,51142,25.0,2,perempuan,Cerai hidup,54
+212,sms or WA,6,10800000,42700000,43867,25.0,2,perempuan,Cerai mati,32
+213,sms or WA,12,67300000,72100000,70848,93.0,1,laki-laki,Belum menikah,51
+214,sms or WA,9,70100000,87600000,63056,80.0,0,laki-laki,Cerai mati,23
+215,sms or WA,2,1300000,1300000,11294,100.0,2,laki-laki,Belum menikah,37
+216,sms or WA,3,11000000,20100000,19185,55.00000000000001,3,laki-laki,Belum menikah,59
+217,sms or WA,1,3700000,9100000,6266,41.0,3,perempuan,Cerai hidup,26
+218,sms or WA,8,35300000,57100000,72748,62.0,1,laki-laki,Belum menikah,38
+219,sms or WA,12,14300000,25700000,117308,56.00000000000001,4,perempuan,Cerai mati,37
+220,sms or WA,5,33300000,33800000,25186,99.0,0,perempuan,Menikah,25
+221,sms or WA,11,12400000,23000000,101283,54.0,1,laki-laki,Cerai hidup,46
+222,sms or WA,17,15800000,42500000,126469,37.0,3,perempuan,Cerai mati,42
+223,sms or WA,12,17300000,70400000,84979,25.0,3,laki-laki,Cerai mati,39
+224,sms or WA,13,53200000,97600000,113604,55.00000000000001,4,laki-laki,Menikah,50
+225,sms or WA,17,13200000,105000000,89776,13.0,1,laki-laki,Cerai hidup,59
+226,sms or WA,11,10400000,12000000,99308,87.0,1,perempuan,Menikah,37
+227,sms or WA,8,22300000,56600000,74611,39.0,3,laki-laki,Cerai mati,62
+228,sms or WA,2,6000000,17400000,21836,34.0,4,perempuan,Belum menikah,29
+229,sms or WA,2,1900000,11700000,16737,16.0,1,perempuan,Menikah,63
+230,sms or WA,17,58000000,91400000,154419,63.0,1,perempuan,Belum menikah,56
+231,sms or WA,9,47300000,52800000,76452,90.0,3,laki-laki,Menikah,29
+232,sms or WA,1,1600000,1700000,5624,94.0,0,perempuan,Cerai mati,28
+233,sms or WA,7,59300000,68400000,76624,87.0,1,laki-laki,Cerai mati,32
+234,sms or WA,3,1500000,6300000,36135,24.0,1,perempuan,Cerai mati,28
+235,sms or WA,4,8800000,16300000,47864,54.0,1,laki-laki,Menikah,29
+236,sms or WA,6,30800000,51300000,54671,60.0,0,laki-laki,Cerai mati,43
+237,sms or WA,9,18300000,48500000,50893,38.0,2,laki-laki,Menikah,57
+238,sms or WA,1,2200000,3800000,6443,57.99999999999999,1,laki-laki,Cerai hidup,49
+239,sms or WA,17,97600000,143500000,175739,68.0,0,perempuan,Belum menikah,52
+240,sms or WA,11,4600000,47600000,86247,10.0,1,laki-laki,Cerai hidup,42
+241,sms or WA,18,108200000,177500000,166049,61.0,4,perempuan,Belum menikah,50
+242,sms or WA,18,20100000,88500000,181418,23.0,1,perempuan,Menikah,35
+243,sms or WA,7,12900000,15100000,50145,85.0,4,perempuan,Cerai mati,60
+244,sms or WA,17,136600000,150800000,99625,91.0,4,laki-laki,Belum menikah,62
+245,sms or WA,1,1500000,1700000,8538,88.0,3,laki-laki,Belum menikah,60
+246,sms or WA,18,112100000,139800000,188527,80.0,2,perempuan,Menikah,58
+247,sms or WA,10,72800000,75400000,56659,97.0,3,laki-laki,Belum menikah,58
+248,sms or WA,14,28800000,64600000,113399,45.0,2,perempuan,Cerai mati,25
+249,sms or WA,13,8600000,19600000,65965,44.0,0,perempuan,Menikah,35
+250,sms or WA,18,15900000,61100000,164715,26.0,2,perempuan,Belum menikah,26
+251,sms or WA,1,2200000,9000000,8363,24.0,3,perempuan,Menikah,37
+252,sms or WA,9,57400000,64600000,45315,89.0,2,laki-laki,Cerai mati,52
+253,sms or WA,9,14200000,15600000,85865,91.0,0,perempuan,Cerai mati,57
+254,sms or WA,19,31900000,37000000,182849,86.0,3,perempuan,Cerai mati,47
+255,sms or WA,5,3800000,25400000,59547,15.0,1,laki-laki,Cerai mati,29
+256,sms or WA,10,60000000,66700000,100627,90.0,0,laki-laki,Cerai mati,53
+257,sms or WA,14,13000000,23000000,96994,56.99999999999999,4,perempuan,Cerai hidup,55
+258,sms or WA,17,18000000,151100000,99086,12.0,2,perempuan,Cerai hidup,30
+259,sms or WA,7,34600000,63900000,41762,54.0,2,perempuan,Cerai hidup,41
+260,sms or WA,11,8500000,14400000,87697,59.0,1,laki-laki,Menikah,63
+261,sms or WA,19,75100000,183000000,175789,41.0,2,laki-laki,Cerai mati,26
+262,sms or WA,10,11500000,32700000,87424,35.0,3,perempuan,Menikah,39
+263,sms or WA,6,5700000,6100000,45645,93.0,4,perempuan,Cerai mati,63
+264,sms or WA,11,39800000,42000000,67388,95.0,4,perempuan,Cerai mati,50
+265,sms or WA,3,3800000,20400000,23649,19.0,3,laki-laki,Belum menikah,35
+266,sms or WA,4,27600000,38100000,31923,72.0,2,perempuan,Cerai hidup,30
+267,sms or WA,11,11400000,12500000,118039,91.0,1,laki-laki,Menikah,62
+268,sms or WA,13,5500000,49600000,132654,11.0,0,perempuan,Cerai hidup,55
+269,sms or WA,17,12900000,112600000,177952,11.0,4,laki-laki,Cerai mati,50
+270,sms or WA,15,13000000,27700000,84618,47.0,2,laki-laki,Belum menikah,35
+271,sms or WA,5,25300000,46100000,38369,55.00000000000001,2,perempuan,Menikah,36
+272,sms or WA,8,8000000,13300000,68869,60.0,4,perempuan,Menikah,33
+273,sms or WA,14,83900000,93100000,131731,90.0,4,laki-laki,Menikah,48
+274,sms or WA,1,1200000,4900000,18470,24.0,4,laki-laki,Belum menikah,52
+275,sms or WA,3,27200000,28000000,17821,97.0,4,laki-laki,Menikah,25
+276,sms or WA,11,53100000,94000000,105269,56.00000000000001,2,perempuan,Menikah,25
+277,sms or WA,17,33100000,37200000,86959,89.0,1,laki-laki,Belum menikah,54
+278,sms or WA,1,2300000,6700000,7664,34.0,0,perempuan,Menikah,60
+279,sms or WA,9,26600000,65800000,79720,40.0,3,perempuan,Cerai hidup,52
+280,sms or WA,18,109900000,155300000,97013,71.0,4,perempuan,Menikah,60
+281,sms or WA,12,33800000,116300000,66905,28.999999999999996,1,perempuan,Menikah,35
+282,sms or WA,4,19300000,22300000,40304,87.0,3,laki-laki,Belum menikah,57
+283,sms or WA,8,21100000,32500000,88749,65.0,0,perempuan,Belum menikah,41
+284,sms or WA,17,9200000,12200000,112039,75.0,2,laki-laki,Cerai mati,62
+285,sms or WA,4,17800000,38700000,35236,46.0,4,perempuan,Menikah,44
+286,sms or WA,3,1900000,9700000,16282,20.0,4,perempuan,Belum menikah,39
+287,sms or WA,11,10700000,12500000,104337,86.0,3,laki-laki,Cerai hidup,58
+288,sms or WA,17,85600000,89500000,85981,96.0,2,perempuan,Cerai mati,23
+289,sms or WA,19,33600000,128700000,122523,26.0,2,laki-laki,Cerai mati,34
+290,sms or WA,9,7000000,8100000,88553,86.0,2,laki-laki,Cerai mati,30
+291,sms or WA,8,3800000,7500000,66250,51.0,1,laki-laki,Belum menikah,29
+292,sms or WA,4,22800000,28200000,20103,81.0,1,laki-laki,Cerai mati,36
+293,sms or WA,12,9600000,10700000,94654,90.0,3,laki-laki,Menikah,31
+294,sms or WA,7,8200000,59800000,50976,14.000000000000002,4,laki-laki,Menikah,25
+295,sms or WA,19,15100000,132800000,181701,11.0,0,perempuan,Cerai mati,27
+296,sms or WA,5,7400000,13400000,56249,55.00000000000001,3,perempuan,Belum menikah,41
+297,sms or WA,19,13900000,17100000,171022,81.0,3,perempuan,Cerai mati,61
+298,sms or WA,6,32800000,50300000,50623,65.0,4,perempuan,Cerai mati,35
+299,sms or WA,18,148800000,156100000,177580,95.0,3,perempuan,Cerai hidup,52
+300,surat panggilan,26,19500000,28000000,305940,70.0,7,laki-laki,Cerai hidup,57
+301,surat panggilan,20,11500000,53500000,212787,21.0,7,perempuan,Belum menikah,42
+302,surat panggilan,20,36000000,193000000,223241,19.0,7,perempuan,Belum menikah,26
+303,surat panggilan,37,92000000,101500000,715612,91.0,8,perempuan,Cerai mati,61
+304,surat panggilan,22,43500000,173000000,372781,25.0,8,perempuan,Cerai hidup,62
+305,surat panggilan,31,118000000,443500000,476239,27.0,8,laki-laki,Menikah,57
+306,surat panggilan,20,21500000,63000000,291409,34.0,7,perempuan,Menikah,49
+307,surat panggilan,26,233500000,344000000,400796,68.0,7,perempuan,Menikah,42
+308,surat panggilan,36,112500000,278500000,424520,40.0,8,laki-laki,Belum menikah,60
+309,surat panggilan,39,130500000,502500000,589316,26.0,7,perempuan,Belum menikah,52
+310,surat panggilan,39,66000000,146500000,506989,45.0,6,laki-laki,Menikah,39
+311,surat panggilan,26,114500000,238500000,479849,48.0,6,laki-laki,Cerai mati,30
+312,surat panggilan,29,212500000,361000000,454687,59.0,7,perempuan,Cerai mati,49
+313,surat panggilan,27,37000000,73500000,505332,50.0,8,laki-laki,Menikah,39
+314,surat panggilan,32,80500000,125000000,620829,64.0,6,perempuan,Belum menikah,41
+315,surat panggilan,31,32500000,407500000,454016,8.0,9,perempuan,Cerai mati,45
+316,surat panggilan,23,66000000,333000000,463397,20.0,8,perempuan,Menikah,27
+317,surat panggilan,39,140500000,203500000,789437,69.0,9,laki-laki,Cerai hidup,33
+318,surat panggilan,38,24500000,230000000,630008,11.0,7,laki-laki,Menikah,55
+319,surat panggilan,34,213000000,349500000,392007,61.0,8,laki-laki,Cerai hidup,44
+320,surat panggilan,26,94500000,297000000,424380,32.0,9,laki-laki,Belum menikah,40
+321,surat panggilan,39,143000000,236500000,680318,60.0,9,laki-laki,Menikah,47
+322,surat panggilan,28,61500000,81000000,522060,76.0,9,perempuan,Cerai hidup,46
+323,surat panggilan,27,147000000,332500000,374481,44.0,6,perempuan,Belum menikah,53
+324,surat panggilan,31,119000000,334500000,382790,36.0,9,perempuan,Belum menikah,30
+325,surat panggilan,30,58500000,448000000,352756,13.0,8,laki-laki,Cerai mati,26
+326,surat panggilan,23,162500000,309500000,343271,53.0,6,perempuan,Cerai hidup,27
+327,surat panggilan,23,12000000,135500000,247240,9.0,6,perempuan,Cerai mati,55
+328,surat panggilan,33,231500000,275500000,537095,84.0,8,perempuan,Menikah,42
+329,surat panggilan,38,217500000,241500000,479417,90.0,6,perempuan,Menikah,36
+330,surat panggilan,35,95500000,522000000,363815,18.0,9,laki-laki,Cerai hidup,39
+331,surat panggilan,29,34000000,35000000,533067,97.0,6,perempuan,Cerai hidup,43
+332,surat panggilan,37,27000000,175500000,485590,15.0,6,perempuan,Belum menikah,55
+333,surat panggilan,20,167000000,167000000,352469,100.0,8,laki-laki,Cerai hidup,36
+334,surat panggilan,24,56500000,213000000,435023,27.0,6,perempuan,Menikah,48
+335,surat panggilan,25,76500000,329500000,451436,23.0,6,perempuan,Cerai mati,42
+336,surat panggilan,27,29000000,98500000,510398,28.999999999999996,8,laki-laki,Belum menikah,59
+337,surat panggilan,35,158500000,448000000,362423,35.0,6,laki-laki,Belum menikah,36
+338,surat panggilan,23,18500000,60500000,363675,31.0,7,perempuan,Belum menikah,42
+339,surat panggilan,25,105000000,132000000,446068,80.0,9,laki-laki,Belum menikah,50
+340,surat panggilan,23,20500000,47000000,466217,44.0,6,perempuan,Belum menikah,45
+341,surat panggilan,32,89000000,96500000,398140,92.0,6,perempuan,Cerai hidup,25
+342,surat panggilan,20,17500000,100500000,271033,17.0,7,perempuan,Menikah,49
+343,surat panggilan,28,129500000,220000000,375997,59.0,6,laki-laki,Belum menikah,63
+344,surat panggilan,27,53000000,62000000,508498,85.0,9,laki-laki,Belum menikah,49
+345,surat panggilan,26,31500000,56000000,523065,56.00000000000001,9,perempuan,Belum menikah,46
+346,surat panggilan,30,317000000,446000000,345567,71.0,9,laki-laki,Cerai hidup,53
+347,surat panggilan,22,54500000,86000000,446887,63.0,7,perempuan,Cerai mati,33
+348,surat panggilan,23,19500000,108500000,375757,18.0,6,laki-laki,Belum menikah,23
+349,surat panggilan,31,151000000,202500000,340734,75.0,7,perempuan,Cerai hidup,38
+350,surat panggilan,27,15500000,30000000,306189,52.0,7,perempuan,Cerai mati,45
+351,surat panggilan,25,299000000,325000000,339020,92.0,8,laki-laki,Menikah,62
+352,surat panggilan,39,53000000,215500000,778031,25.0,7,perempuan,Cerai hidup,38
+353,surat panggilan,21,40500000,50500000,429390,80.0,8,perempuan,Belum menikah,41
+354,surat panggilan,31,164500000,392000000,526511,42.0,6,perempuan,Belum menikah,27
+355,surat panggilan,21,91500000,181000000,282712,51.0,8,perempuan,Belum menikah,26
+356,surat panggilan,23,204500000,236000000,287079,87.0,8,perempuan,Cerai mati,49
+357,surat panggilan,22,167000000,223500000,348306,75.0,7,perempuan,Cerai mati,30
+358,surat panggilan,38,100000000,117500000,456306,85.0,8,perempuan,Menikah,25
+359,surat panggilan,22,210500000,266000000,432960,79.0,6,laki-laki,Belum menikah,34
+360,surat panggilan,24,58000000,59000000,459922,98.0,9,laki-laki,Belum menikah,43
+361,surat panggilan,31,149000000,245000000,403167,61.0,7,laki-laki,Menikah,59
+362,surat panggilan,28,65000000,97500000,283353,67.0,9,perempuan,Cerai mati,45
+363,surat panggilan,31,66500000,170500000,430261,39.0,9,perempuan,Belum menikah,25
+364,surat panggilan,22,52000000,301000000,332822,17.0,9,perempuan,Cerai hidup,29
+365,surat panggilan,26,46500000,55500000,339148,84.0,6,laki-laki,Belum menikah,43
+366,surat panggilan,35,161500000,390000000,697682,41.0,7,laki-laki,Menikah,37
+367,surat panggilan,23,120500000,186500000,344464,65.0,6,perempuan,Belum menikah,27
+368,surat panggilan,36,228000000,384500000,636095,59.0,9,laki-laki,Belum menikah,44
+369,surat panggilan,25,114500000,180000000,395189,64.0,9,laki-laki,Cerai mati,27
+370,surat panggilan,24,64000000,312000000,303555,21.0,6,perempuan,Belum menikah,32
+371,surat panggilan,33,79000000,231000000,404232,34.0,8,perempuan,Belum menikah,41
+372,surat panggilan,34,329500000,366000000,595246,90.0,6,laki-laki,Cerai hidup,61
+373,surat panggilan,30,211000000,264500000,519234,80.0,7,laki-laki,Cerai hidup,28
+374,surat panggilan,39,82500000,261500000,745017,32.0,7,perempuan,Cerai mati,25
+375,surat panggilan,26,186500000,385000000,309329,48.0,7,perempuan,Belum menikah,30
+376,surat panggilan,38,380000000,535000000,772515,71.0,7,laki-laki,Cerai mati,59
+377,surat panggilan,34,53500000,310000000,406344,17.0,8,laki-laki,Cerai mati,54
+378,surat panggilan,39,113000000,485500000,648474,23.0,9,perempuan,Menikah,33
+379,surat panggilan,39,175500000,501000000,479094,35.0,8,laki-laki,Belum menikah,45
+380,surat panggilan,27,28500000,353500000,329527,8.0,8,laki-laki,Cerai mati,47
+381,surat panggilan,34,110500000,131500000,354709,84.0,8,perempuan,Belum menikah,59
+382,surat panggilan,20,158000000,264000000,409605,60.0,8,laki-laki,Cerai hidup,47
+383,surat panggilan,39,332000000,501500000,601894,66.0,6,laki-laki,Menikah,60
+384,surat panggilan,26,283500000,354500000,455948,80.0,7,laki-laki,Cerai mati,53
+385,surat panggilan,38,279500000,356000000,730130,79.0,7,laki-laki,Cerai mati,29
+386,surat panggilan,32,75000000,286500000,632614,26.0,7,laki-laki,Menikah,34
+387,surat panggilan,25,118500000,158500000,306088,75.0,9,perempuan,Belum menikah,23
+388,surat panggilan,27,165000000,308500000,433271,53.0,7,laki-laki,Cerai hidup,27
+389,surat panggilan,36,229500000,480500000,541001,48.0,6,laki-laki,Menikah,24
+390,surat panggilan,38,322000000,502000000,553404,64.0,6,perempuan,Cerai hidup,40
+391,surat panggilan,30,137000000,161500000,542030,85.0,6,perempuan,Cerai hidup,63
+392,surat panggilan,23,46500000,271000000,287654,17.0,6,perempuan,Belum menikah,25
+393,surat panggilan,38,106500000,183500000,612331,57.99999999999999,9,laki-laki,Menikah,32
+394,surat panggilan,26,110500000,157000000,280767,70.0,6,perempuan,Belum menikah,61
+395,surat panggilan,21,144500000,218500000,276640,66.0,6,laki-laki,Cerai hidup,46
+396,surat panggilan,20,52500000,79500000,228560,66.0,7,perempuan,Cerai hidup,61
+397,surat panggilan,28,134500000,175000000,561163,77.0,7,perempuan,Belum menikah,30
+398,surat panggilan,30,64000000,84500000,377073,76.0,8,laki-laki,Cerai mati,31
+399,surat panggilan,37,181000000,214000000,613501,85.0,9,laki-laki,Belum menikah,55
+400,surat panggilan,28,131500000,291500000,408289,45.0,9,laki-laki,Cerai mati,45
+401,surat panggilan,39,316000000,443500000,521232,71.0,9,perempuan,Belum menikah,23
+402,surat panggilan,27,43000000,188500000,473843,23.0,9,laki-laki,Belum menikah,46
+403,surat panggilan,27,102500000,212000000,410626,48.0,7,perempuan,Cerai hidup,37
+404,surat panggilan,39,111000000,313000000,642450,35.0,7,perempuan,Menikah,30
+405,surat panggilan,25,48500000,124500000,478257,39.0,7,perempuan,Belum menikah,31
+406,surat panggilan,35,31000000,62000000,658272,50.0,8,laki-laki,Cerai hidup,31
+407,surat panggilan,39,134000000,143000000,395229,94.0,9,perempuan,Belum menikah,59
+408,surat panggilan,35,207500000,232500000,416016,89.0,9,laki-laki,Cerai mati,37
+409,surat panggilan,28,179500000,321000000,492616,56.00000000000001,9,perempuan,Cerai mati,46
+410,surat panggilan,20,84500000,166500000,363856,51.0,7,perempuan,Cerai hidup,33
+411,surat panggilan,26,252500000,328500000,467077,77.0,8,perempuan,Menikah,30
+412,surat panggilan,33,136500000,278000000,632038,49.0,7,laki-laki,Cerai mati,62
+413,surat panggilan,22,25500000,109000000,376807,23.0,6,perempuan,Menikah,50
+414,surat panggilan,30,124500000,349500000,549310,36.0,7,perempuan,Menikah,61
+415,surat panggilan,28,170000000,371500000,308606,46.0,8,perempuan,Cerai hidup,39
+416,surat panggilan,32,152000000,277000000,554894,55.00000000000001,6,perempuan,Cerai mati,48
+417,surat panggilan,33,115000000,136500000,332365,84.0,6,perempuan,Menikah,27
+418,surat panggilan,38,87500000,112500000,545647,78.0,6,laki-laki,Menikah,53
+419,surat panggilan,29,21000000,114000000,416870,18.0,8,perempuan,Menikah,43
+420,surat panggilan,33,155000000,168000000,558554,92.0,6,perempuan,Cerai hidup,37
+421,surat panggilan,32,272500000,332500000,536362,82.0,8,laki-laki,Belum menikah,42
+422,surat panggilan,37,35500000,43000000,568832,83.0,9,perempuan,Belum menikah,61
+423,surat panggilan,38,114000000,166000000,680773,69.0,7,laki-laki,Menikah,34
+424,surat panggilan,27,34000000,157000000,415014,22.0,7,laki-laki,Cerai hidup,48
+425,surat panggilan,36,74500000,118500000,664869,63.0,8,laki-laki,Menikah,33
+426,surat panggilan,33,32500000,119500000,527507,27.0,8,laki-laki,Cerai mati,45
+427,surat panggilan,35,282000000,304500000,357136,93.0,9,laki-laki,Cerai mati,30
+428,surat panggilan,22,97500000,250000000,282364,39.0,9,laki-laki,Cerai mati,33
+429,surat panggilan,34,35500000,53500000,584657,66.0,7,laki-laki,Belum menikah,52
+430,surat panggilan,22,98000000,237500000,409228,41.0,7,perempuan,Cerai hidup,46
+431,surat panggilan,37,79500000,107500000,466829,74.0,9,perempuan,Menikah,25
+432,surat panggilan,21,92500000,115500000,275622,80.0,8,perempuan,Menikah,43
+433,surat panggilan,22,272500000,315000000,412006,87.0,7,perempuan,Menikah,26
+434,surat panggilan,37,228000000,459500000,643108,50.0,9,perempuan,Belum menikah,53
+435,surat panggilan,20,94000000,228500000,404417,41.0,7,laki-laki,Cerai hidup,51
+436,surat panggilan,21,77500000,180500000,279747,43.0,9,perempuan,Cerai hidup,25
+437,surat panggilan,37,80500000,120000000,506918,67.0,9,laki-laki,Menikah,56
+438,surat panggilan,33,51500000,70500000,519013,73.0,7,laki-laki,Cerai hidup,41
+439,surat panggilan,24,81000000,293500000,455988,28.000000000000004,7,perempuan,Cerai mati,49
+440,surat panggilan,35,172500000,239500000,679808,72.0,6,perempuan,Cerai mati,28
+441,surat panggilan,33,69000000,106000000,502433,65.0,9,laki-laki,Menikah,57
+442,surat panggilan,31,58500000,200000000,524547,28.999999999999996,9,laki-laki,Menikah,56
+443,surat panggilan,29,49000000,88000000,372409,56.00000000000001,8,laki-laki,Cerai mati,24
+444,surat panggilan,32,38500000,97000000,386123,40.0,9,laki-laki,Belum menikah,49
+445,surat panggilan,36,26500000,496500000,676776,5.0,6,laki-laki,Cerai hidup,47
+446,surat panggilan,21,40000000,117500000,257673,34.0,9,laki-laki,Cerai hidup,38
+447,surat panggilan,33,193000000,480000000,678313,40.0,9,laki-laki,Cerai mati,63
+448,surat panggilan,26,153500000,185000000,273917,83.0,9,perempuan,Cerai hidup,55
+449,surat panggilan,23,31000000,168000000,348726,18.0,7,laki-laki,Menikah,52
+450,surat panggilan,34,80500000,210000000,613588,38.0,6,laki-laki,Cerai hidup,25
+451,surat panggilan,22,254500000,321500000,261612,79.0,7,laki-laki,Cerai hidup,57
+452,surat panggilan,25,12500000,258500000,392032,5.0,8,perempuan,Belum menikah,47
+453,surat panggilan,31,340000000,357500000,364408,95.0,8,perempuan,Menikah,28
+454,surat panggilan,33,173500000,254500000,591840,68.0,9,laki-laki,Cerai mati,40
+455,surat panggilan,20,43000000,46000000,358953,93.0,8,perempuan,Belum menikah,51
+456,surat panggilan,31,18500000,251500000,410719,7.000000000000001,7,laki-laki,Belum menikah,44
+457,surat panggilan,27,60000000,89000000,442328,67.0,8,perempuan,Menikah,25
+458,surat panggilan,27,142000000,245500000,516790,57.99999999999999,9,laki-laki,Belum menikah,48
+459,surat panggilan,30,81000000,82500000,379948,98.0,8,laki-laki,Belum menikah,48
+460,surat panggilan,23,163500000,229500000,311553,71.0,9,laki-laki,Menikah,23
+461,surat panggilan,32,22500000,167500000,370722,13.0,7,perempuan,Cerai hidup,29
+462,surat panggilan,24,24500000,150500000,319888,16.0,6,perempuan,Belum menikah,62
+463,surat panggilan,33,51500000,62500000,674153,82.0,8,perempuan,Menikah,25
+464,surat panggilan,30,84500000,95000000,428811,89.0,6,perempuan,Belum menikah,50
+465,surat panggilan,22,11000000,40000000,363348,28.000000000000004,8,perempuan,Cerai hidup,31
+466,surat panggilan,20,113000000,212000000,387483,53.0,6,perempuan,Cerai mati,59
+467,surat panggilan,30,29500000,359500000,585960,8.0,7,perempuan,Cerai hidup,37
+468,surat panggilan,31,117500000,123500000,390516,95.0,8,perempuan,Cerai hidup,53
+469,surat panggilan,30,219500000,338500000,346263,65.0,7,perempuan,Cerai hidup,43
+470,surat panggilan,28,114000000,317500000,457263,36.0,8,perempuan,Menikah,44
+471,surat panggilan,33,52500000,57000000,679093,92.0,9,perempuan,Belum menikah,42
+472,surat panggilan,37,85500000,379500000,682411,23.0,7,perempuan,Cerai hidup,60
+473,surat panggilan,28,190000000,272500000,514094,70.0,8,perempuan,Cerai mati,62
+474,surat panggilan,35,57500000,228500000,481319,25.0,6,laki-laki,Menikah,35
+475,surat panggilan,32,192500000,455000000,596391,42.0,8,laki-laki,Menikah,32
+476,surat panggilan,30,88500000,329500000,456726,27.0,9,laki-laki,Belum menikah,32
+477,surat panggilan,24,101000000,103000000,279541,98.0,8,perempuan,Cerai hidup,57
+478,surat panggilan,26,289000000,319500000,425421,90.0,8,laki-laki,Belum menikah,39
+479,surat panggilan,20,52500000,153500000,418853,34.0,7,laki-laki,Belum menikah,51
+480,surat panggilan,38,189500000,231500000,692645,82.0,8,laki-laki,Belum menikah,24
+481,surat panggilan,22,247500000,306500000,228037,81.0,9,perempuan,Cerai hidup,53
+482,surat panggilan,27,87000000,102500000,430933,85.0,6,laki-laki,Cerai hidup,23
+483,surat panggilan,35,62500000,87000000,366518,72.0,6,laki-laki,Cerai mati,48
+484,surat panggilan,24,37000000,227500000,409666,16.0,9,laki-laki,Cerai mati,40
+485,surat panggilan,38,311000000,318500000,645331,98.0,8,laki-laki,Cerai hidup,24
+486,surat panggilan,38,414000000,441500000,738671,94.0,6,laki-laki,Cerai hidup,44
+487,surat panggilan,24,141500000,177000000,429205,80.0,8,perempuan,Cerai mati,53
+488,surat panggilan,31,61000000,206500000,479397,30.0,9,perempuan,Belum menikah,58
+489,surat panggilan,21,67000000,155500000,221697,43.0,9,perempuan,Cerai mati,30
+490,surat panggilan,22,82500000,86000000,451071,96.0,9,laki-laki,Belum menikah,40
+491,surat panggilan,35,31500000,96500000,351036,33.0,7,perempuan,Cerai mati,33
+492,surat panggilan,22,110000000,112000000,369429,98.0,6,laki-laki,Menikah,31
+493,surat panggilan,31,187000000,292500000,471364,64.0,7,perempuan,Belum menikah,49
+494,surat panggilan,21,79000000,220000000,229104,36.0,9,laki-laki,Cerai hidup,26
+495,surat panggilan,36,274000000,385500000,568398,71.0,9,laki-laki,Cerai mati,54
+496,surat panggilan,20,41500000,98500000,321129,42.0,6,perempuan,Cerai hidup,63
+497,surat panggilan,21,21500000,153000000,319802,14.000000000000002,7,laki-laki,Menikah,45
+498,surat panggilan,26,61000000,324500000,322776,19.0,9,perempuan,Belum menikah,56
+499,surat panggilan,27,160500000,397000000,518999,40.0,6,laki-laki,Menikah,37
+500,surat panggilan,20,45000000,185500000,374954,24.0,8,laki-laki,Belum menikah,53
+501,surat panggilan,28,49500000,73000000,360910,68.0,9,perempuan,Menikah,56
+502,surat panggilan,23,19000000,43500000,471439,44.0,7,perempuan,Cerai mati,27
+503,surat panggilan,27,200000000,387500000,518412,52.0,6,laki-laki,Belum menikah,26
+504,surat panggilan,39,243500000,494000000,404713,49.0,9,laki-laki,Cerai hidup,52
+505,surat panggilan,26,69500000,150500000,306044,46.0,6,perempuan,Cerai hidup,39
+506,surat panggilan,35,63500000,343500000,697727,18.0,7,laki-laki,Cerai hidup,53
+507,surat panggilan,36,101000000,410000000,412149,25.0,7,perempuan,Belum menikah,54
+508,surat panggilan,22,32000000,60000000,423926,53.0,9,laki-laki,Cerai hidup,49
+509,surat panggilan,26,49500000,230500000,398296,21.0,8,perempuan,Cerai hidup,41
+510,surat panggilan,29,69500000,419500000,597845,17.0,6,perempuan,Cerai hidup,62
+511,surat panggilan,29,177000000,260500000,508951,68.0,8,perempuan,Belum menikah,43
+512,surat panggilan,35,75000000,143000000,538456,52.0,8,perempuan,Cerai mati,59
+513,surat panggilan,29,287000000,386000000,347356,74.0,7,perempuan,Belum menikah,39
+514,surat panggilan,28,57500000,344000000,382282,17.0,7,laki-laki,Cerai mati,59
+515,surat panggilan,21,105500000,110000000,318639,96.0,9,laki-laki,Belum menikah,49
+516,surat panggilan,39,193500000,282500000,607756,68.0,7,perempuan,Belum menikah,53
+517,surat panggilan,21,66000000,71000000,321345,93.0,9,perempuan,Cerai hidup,31
+518,surat panggilan,28,212000000,395000000,534738,54.0,9,perempuan,Cerai hidup,37
+519,surat panggilan,20,15500000,34000000,250627,46.0,8,laki-laki,Belum menikah,41
+520,surat panggilan,21,90500000,148000000,388222,61.0,7,perempuan,Cerai mati,52
+521,surat panggilan,24,18500000,175500000,374773,11.0,9,perempuan,Cerai hidup,36
+522,surat panggilan,39,38000000,135000000,776965,28.000000000000004,6,laki-laki,Cerai mati,27
+523,surat panggilan,38,160500000,192500000,499836,83.0,7,perempuan,Menikah,24
+524,surat panggilan,29,27000000,97000000,444665,28.000000000000004,6,laki-laki,Belum menikah,31
+525,surat panggilan,23,28500000,106000000,344363,27.0,7,laki-laki,Menikah,34
+526,surat panggilan,27,69000000,135500000,296908,51.0,8,perempuan,Cerai hidup,45
+527,surat panggilan,30,412000000,439000000,553886,94.0,7,perempuan,Belum menikah,40
+528,surat panggilan,29,49500000,74500000,522937,66.0,8,laki-laki,Cerai hidup,59
+529,surat panggilan,26,93000000,107500000,304973,87.0,9,perempuan,Menikah,32
+530,surat panggilan,35,119000000,150000000,539199,79.0,9,laki-laki,Belum menikah,31
+531,surat panggilan,38,97500000,211500000,491297,46.0,7,laki-laki,Cerai mati,58
+532,surat panggilan,31,31000000,86500000,322205,36.0,8,laki-laki,Menikah,29
+533,surat panggilan,29,301500000,306500000,593664,98.0,6,perempuan,Cerai hidup,23
+534,surat panggilan,38,52500000,104000000,637202,50.0,6,perempuan,Menikah,33
+535,surat panggilan,28,47500000,279000000,577092,17.0,9,perempuan,Cerai hidup,59
+536,surat panggilan,39,311000000,439000000,399823,71.0,7,perempuan,Belum menikah,50
+537,surat panggilan,32,265000000,478000000,640666,55.00000000000001,9,laki-laki,Cerai mati,35
+538,surat panggilan,32,186000000,434500000,388802,43.0,8,perempuan,Menikah,36
+539,surat panggilan,23,166000000,218500000,251758,76.0,6,perempuan,Cerai mati,26
+540,surat panggilan,36,44500000,100500000,714525,44.0,8,perempuan,Cerai mati,59
+541,surat panggilan,38,141000000,394000000,586565,36.0,8,perempuan,Belum menikah,48
+542,surat panggilan,30,50500000,162000000,351175,31.0,8,laki-laki,Menikah,23
+543,surat panggilan,28,127000000,385500000,491355,33.0,8,laki-laki,Cerai mati,54
+544,surat panggilan,30,45500000,110000000,328588,41.0,9,perempuan,Cerai hidup,49
+545,surat panggilan,20,52500000,57000000,209432,92.0,6,laki-laki,Cerai mati,40
+546,surat panggilan,26,30500000,33500000,430089,91.0,6,laki-laki,Menikah,55
+547,surat panggilan,36,385500000,425000000,619920,91.0,7,laki-laki,Cerai hidup,25
+548,surat panggilan,28,55000000,75500000,307383,73.0,6,laki-laki,Cerai mati,34
+549,surat panggilan,33,16500000,432500000,379379,4.0,9,laki-laki,Cerai mati,50
+550,panggilan,42,244000000,337000000,982391,72.0,14,perempuan,Cerai mati,51
+551,panggilan,41,347000000,546500000,1074286,63.0,12,laki-laki,Belum menikah,42
+552,panggilan,45,404000000,688500000,1554057,59.0,14,laki-laki,Menikah,32
+553,panggilan,45,373000000,718500000,1787752,52.0,13,laki-laki,Menikah,43
+554,panggilan,30,125000000,171000000,804690,73.0,11,perempuan,Belum menikah,62
+555,panggilan,44,148000000,673000000,1589458,22.0,13,laki-laki,Belum menikah,31
+556,panggilan,39,373000000,680500000,1171146,55.00000000000001,12,perempuan,Cerai hidup,61
+557,panggilan,46,118000000,140000000,1615002,84.0,11,perempuan,Cerai hidup,47
+558,panggilan,46,162000000,899000000,1397757,18.0,14,laki-laki,Cerai hidup,53
+559,panggilan,31,32000000,350500000,634605,9.0,13,laki-laki,Menikah,32
+560,panggilan,30,299000000,496000000,1024958,60.0,14,laki-laki,Cerai mati,59
+561,panggilan,36,273000000,710000000,1075995,38.0,11,perempuan,Cerai hidup,56
+562,panggilan,37,433000000,631500000,1099231,69.0,13,perempuan,Belum menikah,44
+563,panggilan,36,288000000,658000000,721334,44.0,13,laki-laki,Cerai hidup,29
+564,panggilan,44,370000000,516000000,1030712,72.0,13,perempuan,Menikah,40
+565,panggilan,46,214000000,414000000,1662889,52.0,14,laki-laki,Cerai mati,53
+566,panggilan,48,450000000,814000000,992997,55.00000000000001,11,perempuan,Cerai hidup,58
+567,panggilan,47,404000000,682500000,1083621,59.0,13,laki-laki,Belum menikah,57
+568,panggilan,30,279000000,540000000,631098,52.0,14,perempuan,Belum menikah,54
+569,panggilan,33,570000000,605500000,988802,94.0,14,laki-laki,Menikah,28
+570,panggilan,44,122000000,252000000,1738508,48.0,11,laki-laki,Belum menikah,46
+571,panggilan,48,99000000,256000000,1373514,39.0,14,perempuan,Belum menikah,60
+572,panggilan,31,474000000,560500000,652453,85.0,12,laki-laki,Menikah,53
+573,panggilan,42,395000000,641000000,883248,62.0,14,laki-laki,Belum menikah,41
+574,panggilan,32,331000000,377000000,649309,88.0,11,laki-laki,Cerai mati,25
+575,panggilan,47,467000000,673500000,943919,69.0,13,laki-laki,Cerai mati,26
+576,panggilan,33,137000000,261500000,845355,52.0,14,perempuan,Belum menikah,60
+577,panggilan,49,209000000,335500000,1933137,62.0,14,perempuan,Cerai mati,43
+578,panggilan,46,47000000,193000000,1421979,24.0,11,perempuan,Belum menikah,61
+579,panggilan,41,259000000,735500000,917013,35.0,13,laki-laki,Belum menikah,45
+580,panggilan,32,88000000,155000000,661073,56.99999999999999,14,laki-laki,Cerai hidup,40
+581,panggilan,48,61000000,99000000,1210386,62.0,11,perempuan,Menikah,55
+582,panggilan,40,79000000,140000000,894778,56.00000000000001,14,perempuan,Belum menikah,24
+583,panggilan,40,125000000,442000000,1311793,28.000000000000004,11,perempuan,Menikah,30
+584,panggilan,46,93000000,117000000,1008090,79.0,14,perempuan,Cerai mati,29
+585,panggilan,34,202000000,250000000,990586,81.0,11,laki-laki,Menikah,52
+586,panggilan,41,48000000,311500000,1258994,15.0,14,laki-laki,Cerai mati,26
+587,panggilan,45,317000000,527500000,1361007,60.0,13,laki-laki,Menikah,23
+588,panggilan,48,112000000,124000000,1783448,90.0,12,laki-laki,Cerai hidup,58
+589,panggilan,38,358000000,501000000,1261693,71.0,13,perempuan,Cerai mati,36
+590,panggilan,44,153000000,864000000,1550435,18.0,14,laki-laki,Belum menikah,39
+591,panggilan,49,185000000,648500000,1182193,28.999999999999996,11,laki-laki,Belum menikah,48
+592,panggilan,35,50000000,52500000,1326159,95.0,13,perempuan,Cerai mati,62
+593,panggilan,45,80000000,211500000,1298930,38.0,14,perempuan,Menikah,59
+594,panggilan,32,149000000,251000000,897809,59.0,14,perempuan,Cerai mati,41
+595,panggilan,39,216000000,330500000,794578,65.0,12,perempuan,Cerai mati,63
+596,panggilan,49,159000000,184500000,1934347,86.0,13,perempuan,Menikah,26
+597,panggilan,35,185000000,316500000,1289053,57.99999999999999,11,perempuan,Cerai mati,36
+598,panggilan,44,100000000,856000000,920808,12.0,13,perempuan,Cerai mati,24
+599,panggilan,47,525000000,914500000,1751428,56.99999999999999,12,laki-laki,Cerai mati,61
+600,panggilan,33,566000000,565500000,1019367,100.0,14,perempuan,Cerai hidup,55
+601,panggilan,38,329000000,516000000,1434137,64.0,14,perempuan,Cerai hidup,50
+602,panggilan,36,82000000,141000000,1236144,57.99999999999999,12,perempuan,Cerai mati,24
+603,panggilan,32,229000000,422000000,1141351,54.0,11,perempuan,Cerai mati,33
+604,panggilan,48,124000000,352000000,1373732,35.0,11,perempuan,Belum menikah,33
+605,panggilan,34,37000000,548000000,835787,7.000000000000001,13,perempuan,Cerai hidup,29
+606,panggilan,42,151000000,577000000,1083575,26.0,11,perempuan,Cerai mati,23
+607,panggilan,44,371000000,600000000,1024177,62.0,11,perempuan,Cerai mati,30
+608,panggilan,38,195000000,250000000,1054901,78.0,13,perempuan,Belum menikah,34
+609,panggilan,35,51000000,449500000,878246,11.0,13,perempuan,Cerai mati,34
+610,panggilan,40,292000000,483000000,1368795,60.0,13,perempuan,Cerai hidup,57
+611,panggilan,41,101000000,450500000,1508568,22.0,11,perempuan,Belum menikah,36
+612,panggilan,46,403000000,539000000,1694210,75.0,12,perempuan,Menikah,50
+613,panggilan,33,44000000,54500000,1063546,81.0,14,laki-laki,Belum menikah,31
+614,panggilan,34,36000000,241000000,1387161,15.0,11,perempuan,Belum menikah,24
+615,panggilan,38,79000000,740000000,814680,11.0,13,perempuan,Menikah,44
+616,panggilan,46,571000000,629000000,1778762,91.0,12,perempuan,Cerai hidup,57
+617,panggilan,49,151000000,973500000,1591075,16.0,13,perempuan,Menikah,32
+618,panggilan,33,373000000,419500000,876615,89.0,13,laki-laki,Belum menikah,46
+619,panggilan,45,142000000,242500000,1245892,59.0,12,perempuan,Cerai hidup,63
+620,panggilan,43,75000000,91500000,1051268,82.0,11,perempuan,Cerai hidup,48
+621,panggilan,32,112000000,542000000,850741,21.0,12,laki-laki,Cerai mati,52
+622,panggilan,32,195000000,620000000,814745,31.0,13,laki-laki,Menikah,37
+623,panggilan,37,116000000,732500000,1089016,16.0,14,perempuan,Menikah,40
+624,panggilan,40,163000000,221000000,1126115,74.0,14,perempuan,Menikah,28
+625,panggilan,43,422000000,705500000,1139254,60.0,11,laki-laki,Cerai mati,50
+626,panggilan,32,228000000,275000000,1156180,83.0,13,laki-laki,Cerai mati,54
+627,panggilan,40,133000000,354000000,844077,38.0,11,laki-laki,Cerai mati,48
+628,panggilan,37,333000000,461500000,1508111,72.0,11,laki-laki,Cerai hidup,40
+629,panggilan,40,120000000,469000000,1218793,26.0,12,perempuan,Cerai hidup,38
+630,panggilan,32,114000000,531000000,732119,21.0,14,laki-laki,Menikah,28
+631,panggilan,36,345000000,637000000,1055692,54.0,14,laki-laki,Cerai mati,61
+632,panggilan,43,734000000,849500000,1260842,86.0,12,laki-laki,Belum menikah,29
+633,panggilan,36,452000000,586000000,775365,77.0,14,perempuan,Belum menikah,23
+634,panggilan,42,100000000,349000000,1634221,28.999999999999996,11,laki-laki,Cerai hidup,46
+635,panggilan,32,142000000,602000000,868446,24.0,13,perempuan,Cerai mati,45
+636,panggilan,33,117000000,126500000,1059480,92.0,11,laki-laki,Belum menikah,54
+637,panggilan,47,146000000,712500000,1402063,20.0,12,perempuan,Belum menikah,59
+638,panggilan,45,283000000,876500000,970350,32.0,11,laki-laki,Cerai hidup,57
+639,panggilan,35,229000000,384500000,1252235,60.0,12,perempuan,Belum menikah,63
+640,panggilan,49,157000000,822500000,1960036,19.0,11,perempuan,Belum menikah,36
+641,panggilan,31,129000000,148500000,673939,87.0,13,perempuan,Menikah,36
+642,panggilan,38,132000000,322000000,1054419,41.0,14,perempuan,Menikah,58
+643,panggilan,39,185000000,362500000,1188576,51.0,14,laki-laki,Menikah,32
+644,panggilan,37,96000000,105500000,1482944,91.0,11,perempuan,Cerai mati,47
+645,panggilan,40,306000000,705000000,1624369,43.0,12,perempuan,Belum menikah,25
+646,panggilan,39,164000000,496500000,1288091,33.0,12,perempuan,Cerai mati,54
+647,panggilan,43,312000000,349500000,1600718,89.0,12,perempuan,Menikah,53
+648,panggilan,40,126000000,548000000,1353700,23.0,12,perempuan,Belum menikah,46
+649,panggilan,48,159000000,187000000,1568172,85.0,13,laki-laki,Menikah,47
+650,panggilan,36,161000000,443000000,1452322,36.0,12,laki-laki,Belum menikah,24
+651,panggilan,42,167000000,271000000,1340451,62.0,14,laki-laki,Cerai hidup,26
+652,panggilan,48,252000000,382000000,1376259,66.0,14,laki-laki,Cerai hidup,34
+653,panggilan,45,81000000,287500000,1344980,28.000000000000004,14,laki-laki,Menikah,37
+654,panggilan,34,167000000,586000000,814946,28.000000000000004,14,perempuan,Cerai mati,55
+655,panggilan,48,180000000,190000000,1947746,95.0,14,laki-laki,Cerai hidup,32
+656,panggilan,49,276000000,560500000,1527157,49.0,13,perempuan,Menikah,49
+657,panggilan,42,369000000,548000000,1438676,67.0,11,laki-laki,Cerai hidup,46
+658,panggilan,46,173000000,620000000,1059303,28.000000000000004,12,laki-laki,Cerai mati,40
+659,panggilan,30,258000000,373000000,959775,69.0,12,laki-laki,Cerai mati,27
+660,panggilan,38,67000000,291000000,945496,23.0,13,perempuan,Cerai mati,47
+661,panggilan,42,321000000,668000000,938762,48.0,13,laki-laki,Menikah,40
+662,panggilan,32,94000000,478000000,1044573,20.0,11,laki-laki,Cerai mati,43
+663,panggilan,36,425000000,453000000,1342531,94.0,13,perempuan,Menikah,62
+664,panggilan,37,63000000,79500000,1316515,79.0,14,perempuan,Cerai hidup,37
+665,panggilan,36,492000000,661000000,890579,74.0,11,perempuan,Menikah,38
+666,panggilan,31,440000000,603500000,1241113,73.0,12,laki-laki,Cerai hidup,34
+667,panggilan,49,95000000,245500000,1475018,39.0,14,laki-laki,Menikah,56
+668,panggilan,35,578000000,663500000,1084108,87.0,13,perempuan,Menikah,41
+669,panggilan,41,359000000,556500000,870180,65.0,12,laki-laki,Belum menikah,25
+670,panggilan,33,94000000,126500000,887267,74.0,12,laki-laki,Cerai hidup,42
+671,panggilan,42,381000000,473000000,1028855,81.0,12,laki-laki,Cerai hidup,43
+672,panggilan,34,199000000,462000000,876550,43.0,11,perempuan,Cerai hidup,33
+673,panggilan,31,204000000,449500000,835801,45.0,12,perempuan,Cerai hidup,29
+674,panggilan,41,49000000,144500000,1370958,34.0,11,laki-laki,Belum menikah,29
+675,panggilan,38,546000000,634000000,1116458,86.0,12,perempuan,Cerai mati,38
+676,panggilan,47,360000000,379500000,1877725,95.0,13,perempuan,Cerai hidup,32
+677,panggilan,31,52000000,63500000,632139,82.0,13,laki-laki,Cerai mati,40
+678,panggilan,48,508000000,829000000,1607574,61.0,13,perempuan,Cerai hidup,45
+679,panggilan,43,602000000,650500000,1444432,93.0,13,laki-laki,Cerai hidup,57
+680,panggilan,49,196000000,259500000,1411029,76.0,12,perempuan,Belum menikah,24
+681,panggilan,39,362000000,545500000,1051575,66.0,12,perempuan,Cerai mati,52
+682,panggilan,30,127000000,180000000,1189439,71.0,13,laki-laki,Cerai hidup,52
+683,panggilan,44,320000000,410000000,1651704,78.0,14,perempuan,Cerai mati,59
+684,panggilan,44,47000000,269000000,1660494,17.0,13,laki-laki,Belum menikah,27
+685,panggilan,32,212000000,330000000,1189408,64.0,12,perempuan,Menikah,58
+686,panggilan,36,214000000,525000000,1065804,41.0,14,perempuan,Belum menikah,62
+687,panggilan,33,183000000,202500000,1270632,90.0,14,perempuan,Belum menikah,50
+688,panggilan,40,340000000,483000000,1610434,70.0,14,perempuan,Belum menikah,38
+689,panggilan,40,44000000,280000000,1167365,16.0,12,perempuan,Belum menikah,28
+690,panggilan,44,122000000,155000000,1012071,79.0,11,laki-laki,Cerai mati,41
+691,panggilan,49,494000000,590500000,1198132,84.0,14,laki-laki,Cerai mati,60
+692,panggilan,36,466000000,518000000,1403816,90.0,11,laki-laki,Cerai mati,29
+693,panggilan,42,242000000,368000000,1609173,66.0,14,laki-laki,Menikah,37
+694,panggilan,43,102000000,393500000,1150382,26.0,11,perempuan,Cerai mati,46
+695,panggilan,34,141000000,259000000,1184672,54.0,14,perempuan,Cerai hidup,31
+696,panggilan,49,145000000,862500000,1157946,17.0,13,perempuan,Cerai mati,43
+697,panggilan,35,90000000,305500000,1415990,28.999999999999996,11,laki-laki,Cerai hidup,52
+698,panggilan,40,206000000,345000000,1588525,60.0,11,laki-laki,Menikah,54
+699,panggilan,49,372000000,950500000,1819495,39.0,14,perempuan,Belum menikah,53
+700,panggilan,44,251000000,268000000,1374421,94.0,12,perempuan,Menikah,30
+701,panggilan,32,40000000,59000000,800961,68.0,12,perempuan,Menikah,62
+702,panggilan,36,416000000,646000000,1029415,64.0,11,perempuan,Menikah,23
+703,panggilan,41,55000000,62500000,936120,88.0,12,laki-laki,Menikah,61
+704,panggilan,32,174000000,359000000,1048463,48.0,11,perempuan,Belum menikah,28
+705,panggilan,45,642000000,825500000,993569,78.0,12,laki-laki,Cerai hidup,39
+706,panggilan,30,327000000,350000000,957920,93.0,14,perempuan,Cerai mati,55
+707,panggilan,47,276000000,451500000,1498026,61.0,12,perempuan,Cerai hidup,30
+708,panggilan,48,177000000,262000000,1214352,68.0,14,laki-laki,Menikah,61
+709,panggilan,48,446000000,577000000,1948372,77.0,12,perempuan,Menikah,61
+710,panggilan,47,463000000,760500000,1682460,61.0,13,perempuan,Cerai hidup,54
+711,panggilan,39,39000000,152500000,1166855,26.0,13,laki-laki,Menikah,59
+712,panggilan,40,386000000,550000000,1341506,70.0,14,laki-laki,Menikah,52
+713,panggilan,34,74000000,221000000,825931,33.0,11,perempuan,Menikah,26
+714,panggilan,35,40000000,61500000,1409100,65.0,12,perempuan,Menikah,62
+715,panggilan,32,89000000,110000000,653702,81.0,11,laki-laki,Belum menikah,39
+716,panggilan,31,39000000,151500000,946396,26.0,11,perempuan,Cerai hidup,30
+717,panggilan,44,76000000,614000000,933521,12.0,13,perempuan,Menikah,33
+718,panggilan,44,412000000,678000000,1567556,61.0,11,laki-laki,Cerai hidup,59
+719,panggilan,32,119000000,120000000,659428,99.0,13,laki-laki,Cerai hidup,48
+720,panggilan,47,429000000,880500000,1123170,49.0,11,laki-laki,Cerai mati,34
+721,panggilan,34,226000000,624000000,702902,36.0,11,perempuan,Cerai hidup,51
+722,panggilan,48,103000000,144000000,1940969,72.0,13,laki-laki,Cerai mati,34
+723,panggilan,46,223000000,733000000,1734012,30.0,12,perempuan,Menikah,38
+724,panggilan,34,285000000,494000000,1010351,57.99999999999999,14,perempuan,Cerai mati,42
+725,panggilan,37,246000000,681500000,902204,36.0,14,perempuan,Cerai mati,27
+726,panggilan,42,734000000,758000000,1509862,97.0,11,perempuan,Cerai hidup,32
+727,panggilan,40,117000000,309000000,911984,38.0,14,laki-laki,Belum menikah,32
+728,panggilan,48,91000000,182000000,1176464,50.0,11,laki-laki,Cerai mati,40
+729,panggilan,45,250000000,826500000,1832011,30.0,14,perempuan,Menikah,30
+730,panggilan,43,177000000,691500000,1245591,26.0,11,laki-laki,Cerai mati,47
+731,panggilan,37,304000000,337500000,1248181,90.0,11,perempuan,Menikah,44
+732,panggilan,36,70000000,184000000,1413687,38.0,14,perempuan,Cerai mati,59
+733,panggilan,40,371000000,399000000,1047106,93.0,11,laki-laki,Cerai mati,34
+734,panggilan,38,285000000,347000000,926045,82.0,11,laki-laki,Cerai hidup,58
+735,panggilan,42,200000000,245000000,946905,82.0,11,perempuan,Cerai hidup,26
+736,panggilan,36,273000000,390000000,1147275,70.0,12,perempuan,Cerai mati,59
+737,panggilan,37,140000000,365500000,1272678,38.0,14,laki-laki,Menikah,47
+738,panggilan,49,69000000,257500000,1375209,27.0,12,perempuan,Cerai hidup,26
+739,panggilan,42,213000000,711000000,1494277,30.0,13,perempuan,Menikah,25
+740,panggilan,40,316000000,447000000,1288889,71.0,11,perempuan,Cerai hidup,59
+741,panggilan,39,328000000,329500000,1458718,100.0,12,perempuan,Cerai mati,40
+742,panggilan,42,62000000,121000000,1481181,51.0,12,perempuan,Menikah,57
+743,panggilan,30,233000000,252000000,1195364,92.0,11,laki-laki,Cerai mati,36
+744,panggilan,33,420000000,614500000,971917,68.0,12,perempuan,Cerai mati,29
+745,panggilan,46,81000000,149000000,1501789,54.0,11,perempuan,Menikah,43
+746,panggilan,45,757000000,855500000,1505371,88.0,14,laki-laki,Belum menikah,42
+747,panggilan,47,183000000,251500000,1201197,73.0,12,laki-laki,Belum menikah,53
+748,panggilan,36,98000000,108000000,1374407,91.0,12,laki-laki,Cerai hidup,35
+749,panggilan,48,245000000,499000000,1488191,49.0,11,perempuan,Menikah,58
+750,panggilan,44,99000000,142000000,1757091,70.0,12,perempuan,Belum menikah,31
+751,panggilan,33,118000000,174500000,870018,68.0,12,perempuan,Cerai hidup,32
+752,panggilan,43,164000000,208500000,993638,79.0,12,perempuan,Cerai mati,41
+753,panggilan,43,534000000,581500000,1566862,92.0,14,perempuan,Cerai mati,47
+754,panggilan,30,115000000,552000000,1045480,21.0,12,perempuan,Cerai hidup,55
+755,panggilan,37,84000000,229500000,1116997,37.0,11,laki-laki,Cerai mati,48
+756,panggilan,43,168000000,550500000,1460944,31.0,14,perempuan,Cerai hidup,40
+757,panggilan,34,238000000,365000000,1277211,65.0,13,laki-laki,Belum menikah,53
+758,panggilan,42,101000000,145000000,1472608,70.0,14,laki-laki,Cerai mati,40
+759,panggilan,45,468000000,687500000,1532371,68.0,11,laki-laki,Cerai hidup,63
+760,panggilan,46,408000000,628000000,1551379,65.0,12,perempuan,Belum menikah,62
+761,panggilan,40,234000000,719000000,1394392,33.0,13,perempuan,Menikah,60
+762,panggilan,40,691000000,730000000,1033248,95.0,13,perempuan,Menikah,54
+763,panggilan,46,50000000,102000000,1689240,49.0,13,laki-laki,Cerai hidup,44
+764,panggilan,48,206000000,246000000,1023110,84.0,13,perempuan,Cerai hidup,37
+765,panggilan,38,78000000,84000000,1321116,93.0,12,laki-laki,Menikah,51
+766,panggilan,47,227000000,550500000,1019430,41.0,14,laki-laki,Menikah,57
+767,panggilan,40,57000000,66000000,1504526,86.0,13,perempuan,Belum menikah,37
+768,panggilan,33,147000000,536500000,966535,27.0,13,laki-laki,Belum menikah,43
+769,panggilan,47,200000000,458500000,1871824,44.0,12,laki-laki,Cerai mati,24
+770,panggilan,43,557000000,570500000,900485,98.0,11,perempuan,Belum menikah,45
+771,panggilan,39,148000000,235500000,1180481,63.0,12,laki-laki,Menikah,52
+772,panggilan,43,473000000,759500000,1045248,62.0,13,laki-laki,Cerai hidup,63
+773,panggilan,43,647000000,859500000,1006555,75.0,13,perempuan,Belum menikah,47
+774,panggilan,44,48000000,173000000,1317047,28.000000000000004,14,perempuan,Menikah,50
+775,panggilan,45,82000000,896500000,1108140,9.0,13,perempuan,Menikah,36
+776,panggilan,30,300000000,343000000,771323,87.0,13,perempuan,Cerai hidup,41
+777,panggilan,32,70000000,172000000,805585,41.0,14,laki-laki,Cerai hidup,23
+778,panggilan,36,128000000,314000000,1346400,41.0,14,laki-laki,Menikah,51
+779,panggilan,36,57000000,323000000,887894,18.0,12,perempuan,Cerai hidup,36
+780,panggilan,48,135000000,415000000,1558746,33.0,12,perempuan,Belum menikah,33
+781,panggilan,49,354000000,740500000,1157727,48.0,13,perempuan,Belum menikah,51
+782,panggilan,49,81000000,153500000,1031164,53.0,11,laki-laki,Cerai hidup,28
+783,panggilan,44,203000000,474000000,1080503,43.0,13,laki-laki,Cerai hidup,44
+784,panggilan,43,96000000,439500000,947571,22.0,14,laki-laki,Belum menikah,56
+785,panggilan,36,102000000,487000000,898139,21.0,11,laki-laki,Belum menikah,42
+786,panggilan,30,240000000,458000000,859103,52.0,13,laki-laki,Cerai mati,42
+787,panggilan,38,209000000,248000000,1479449,84.0,13,laki-laki,Cerai hidup,31
+788,panggilan,32,50000000,70000000,1035029,71.0,13,perempuan,Menikah,62
+789,panggilan,32,37000000,506000000,1269394,7.000000000000001,13,perempuan,Cerai hidup,61
+790,panggilan,40,167000000,277000000,1572376,60.0,13,laki-laki,Cerai hidup,39
+791,panggilan,39,640000000,749500000,1460673,85.0,11,laki-laki,Menikah,34
+792,panggilan,45,134000000,661500000,1745609,20.0,13,laki-laki,Cerai mati,46
+793,panggilan,34,206000000,556000000,931658,37.0,13,laki-laki,Cerai hidup,34
+794,panggilan,37,243000000,379500000,770454,64.0,14,laki-laki,Belum menikah,62
+795,panggilan,45,54000000,379500000,1246278,14.000000000000002,13,laki-laki,Cerai hidup,44
+796,panggilan,34,236000000,240000000,938886,98.0,12,perempuan,Cerai hidup,63
+797,panggilan,38,217000000,450000000,1277841,48.0,11,laki-laki,Cerai mati,36
+798,panggilan,39,135000000,482500000,1506535,28.000000000000004,11,laki-laki,Menikah,50
+799,panggilan,48,86000000,565000000,1202555,15.0,14,laki-laki,Cerai mati,27
+800,datang ke tempat,50,518000000,893500000,3040477,57.99999999999999,23,perempuan,Cerai hidup,60
+801,datang ke tempat,50,158000000,1136500000,2495804,14.000000000000002,28,perempuan,Cerai hidup,30
+802,datang ke tempat,57,266000000,564000000,3177240,47.0,20,perempuan,Belum menikah,43
+803,datang ke tempat,40,134000000,191000000,1926995,70.0,20,laki-laki,Cerai mati,39
+804,datang ke tempat,52,556000000,1082000000,3119238,51.0,18,laki-laki,Belum menikah,23
+805,datang ke tempat,43,464000000,495500000,2264030,94.0,27,laki-laki,Belum menikah,51
+806,datang ke tempat,56,692000000,1205500000,2445634,56.99999999999999,22,perempuan,Belum menikah,35
+807,datang ke tempat,52,708000000,1151000000,2498246,62.0,18,perempuan,Belum menikah,29
+808,datang ke tempat,44,182000000,557500000,1902552,33.0,30,laki-laki,Menikah,62
+809,datang ke tempat,46,524000000,1034000000,1978990,51.0,30,perempuan,Menikah,40
+810,datang ke tempat,55,730000000,864500000,2957591,84.0,29,laki-laki,Menikah,43
+811,datang ke tempat,54,332000000,1567500000,2250702,21.0,26,laki-laki,Menikah,54
+812,datang ke tempat,53,126000000,146500000,2143346,86.0,18,laki-laki,Cerai mati,34
+813,datang ke tempat,42,526000000,580500000,2260665,91.0,23,laki-laki,Menikah,52
+814,datang ke tempat,40,110000000,147500000,2106439,75.0,30,laki-laki,Menikah,29
+815,datang ke tempat,47,576000000,1124500000,2511405,51.0,16,perempuan,Menikah,25
+816,datang ke tempat,44,128000000,374500000,2149012,34.0,16,perempuan,Cerai mati,53
+817,datang ke tempat,40,94000000,135500000,2456428,69.0,17,laki-laki,Cerai mati,41
+818,datang ke tempat,54,816000000,930000000,2512880,88.0,17,laki-laki,Cerai hidup,60
+819,datang ke tempat,51,238000000,598500000,2560374,40.0,22,laki-laki,Cerai hidup,55
+820,datang ke tempat,57,1712000000,1956000000,2920155,88.0,17,laki-laki,Cerai mati,39
+821,datang ke tempat,46,824000000,960500000,2815924,86.0,30,laki-laki,Cerai hidup,25
+822,datang ke tempat,45,1526000000,1567500000,2391925,97.0,25,laki-laki,Cerai hidup,49
+823,datang ke tempat,41,398000000,976000000,2145838,41.0,26,laki-laki,Cerai hidup,34
+824,datang ke tempat,43,540000000,573500000,2529286,94.0,23,perempuan,Menikah,60
+825,datang ke tempat,43,532000000,542000000,2084648,98.0,26,laki-laki,Cerai hidup,40
+826,datang ke tempat,41,596000000,910000000,2288236,65.0,22,perempuan,Cerai mati,34
+827,datang ke tempat,41,266000000,623500000,2408432,43.0,29,laki-laki,Cerai hidup,55
+828,datang ke tempat,56,322000000,338500000,2462834,95.0,29,perempuan,Belum menikah,44
+829,datang ke tempat,41,424000000,1280500000,2354630,33.0,24,laki-laki,Cerai mati,62
+830,datang ke tempat,44,262000000,286000000,1891161,92.0,23,perempuan,Cerai mati,49
+831,datang ke tempat,54,1324000000,1767000000,2403792,75.0,27,laki-laki,Belum menikah,30
+832,datang ke tempat,57,1538000000,1644000000,2489441,94.0,26,perempuan,Cerai hidup,56
+833,datang ke tempat,55,344000000,912500000,2428688,38.0,22,perempuan,Belum menikah,41
+834,datang ke tempat,52,456000000,747500000,2658149,61.0,30,perempuan,Cerai mati,48
+835,datang ke tempat,44,106000000,256000000,2076322,41.0,16,laki-laki,Cerai mati,62
+836,datang ke tempat,57,1196000000,1200000000,2637901,100.0,26,laki-laki,Menikah,50
+837,datang ke tempat,56,462000000,1658500000,2939479,28.000000000000004,22,laki-laki,Menikah,32
+838,datang ke tempat,47,202000000,1223500000,2316616,17.0,16,laki-laki,Belum menikah,49
+839,datang ke tempat,43,814000000,990500000,1857566,82.0,28,perempuan,Cerai hidup,48
+840,datang ke tempat,50,112000000,238000000,2427903,47.0,25,perempuan,Cerai mati,55
+841,datang ke tempat,42,140000000,447000000,1869610,31.0,19,perempuan,Cerai mati,54
+842,datang ke tempat,42,218000000,585000000,2383306,37.0,21,laki-laki,Cerai mati,59
+843,datang ke tempat,59,708000000,1778500000,2737615,40.0,28,perempuan,Menikah,47
+844,datang ke tempat,41,430000000,1102000000,2022716,39.0,29,laki-laki,Menikah,55
+845,datang ke tempat,50,444000000,470500000,2446344,94.0,29,laki-laki,Menikah,62
+846,datang ke tempat,51,202000000,1083000000,2823140,19.0,26,perempuan,Belum menikah,56
+847,datang ke tempat,52,1778000000,1802000000,2446168,99.0,19,laki-laki,Cerai hidup,43
+848,datang ke tempat,52,768000000,831500000,3169776,92.0,21,laki-laki,Menikah,48
+849,datang ke tempat,46,772000000,1037000000,2769236,74.0,26,perempuan,Belum menikah,38
+850,datang ke tempat,54,540000000,1261500000,2218397,43.0,23,perempuan,Cerai mati,39
+851,datang ke tempat,55,496000000,563000000,3003820,88.0,18,perempuan,Cerai hidup,54
+852,datang ke tempat,40,716000000,977000000,2275400,73.0,20,perempuan,Belum menikah,49
+853,datang ke tempat,48,144000000,279000000,2349893,52.0,28,perempuan,Cerai hidup,56
+854,datang ke tempat,57,912000000,1252500000,3142329,73.0,27,perempuan,Menikah,31
+855,datang ke tempat,59,128000000,221500000,3326603,57.99999999999999,19,perempuan,Cerai mati,37
+856,datang ke tempat,42,806000000,882000000,2137572,91.0,28,perempuan,Belum menikah,54
+857,datang ke tempat,43,116000000,116000000,2392017,100.0,19,perempuan,Cerai mati,62
+858,datang ke tempat,51,420000000,1429500000,2854112,28.999999999999996,28,laki-laki,Belum menikah,60
+859,datang ke tempat,40,208000000,1034000000,1654938,20.0,28,perempuan,Cerai mati,56
+860,datang ke tempat,41,424000000,928000000,1731146,46.0,17,laki-laki,Cerai hidup,30
+861,datang ke tempat,41,276000000,400000000,2268138,69.0,21,laki-laki,Cerai mati,55
+862,datang ke tempat,45,108000000,199500000,2211383,54.0,16,laki-laki,Cerai mati,43
+863,datang ke tempat,48,562000000,637500000,1932231,88.0,17,laki-laki,Belum menikah,55
+864,datang ke tempat,58,828000000,1613000000,2745395,51.0,22,laki-laki,Belum menikah,62
+865,datang ke tempat,56,1236000000,1600000000,2625752,77.0,16,perempuan,Belum menikah,43
+866,datang ke tempat,46,768000000,1076000000,2033967,71.0,28,perempuan,Cerai hidup,39
+867,datang ke tempat,54,1386000000,1707000000,3175863,81.0,22,laki-laki,Belum menikah,52
+868,datang ke tempat,57,312000000,556500000,3024508,56.00000000000001,23,perempuan,Menikah,40
+869,datang ke tempat,56,138000000,181000000,2899928,76.0,24,laki-laki,Cerai mati,48
+870,datang ke tempat,51,1446000000,1581000000,3036228,91.0,27,laki-laki,Menikah,36
+871,datang ke tempat,51,232000000,1428000000,2709543,16.0,27,laki-laki,Cerai hidup,44
+872,datang ke tempat,45,90000000,108000000,2608572,83.0,24,perempuan,Menikah,39
+873,datang ke tempat,45,610000000,702000000,2339521,87.0,29,laki-laki,Cerai mati,44
+874,datang ke tempat,40,830000000,840500000,2094916,99.0,23,laki-laki,Belum menikah,39
+875,datang ke tempat,43,1064000000,1101500000,2545504,97.0,16,laki-laki,Cerai mati,52
+876,datang ke tempat,52,1090000000,1143500000,2264850,95.0,18,perempuan,Cerai mati,49
+877,datang ke tempat,54,688000000,838500000,2667923,82.0,16,laki-laki,Menikah,59
+878,datang ke tempat,59,440000000,467500000,2925541,94.0,23,perempuan,Menikah,32
+879,datang ke tempat,58,162000000,642500000,3480533,25.0,20,laki-laki,Menikah,61
+880,datang ke tempat,59,658000000,986500000,2936389,67.0,30,laki-laki,Menikah,30
+881,datang ke tempat,47,184000000,485500000,2802913,38.0,17,laki-laki,Belum menikah,28
+882,datang ke tempat,45,232000000,574500000,2696113,40.0,19,perempuan,Cerai mati,54
+883,datang ke tempat,45,736000000,1566000000,2012861,47.0,28,laki-laki,Cerai mati,62
+884,datang ke tempat,45,96000000,105000000,2265468,91.0,20,perempuan,Cerai mati,36
+885,datang ke tempat,59,1164000000,1241500000,2476587,94.0,19,laki-laki,Menikah,24
+886,datang ke tempat,40,326000000,1077500000,1750237,30.0,19,laki-laki,Cerai hidup,23
+887,datang ke tempat,41,496000000,620500000,2107816,80.0,29,laki-laki,Cerai mati,55
+888,datang ke tempat,47,124000000,1457500000,2043017,9.0,25,laki-laki,Cerai mati,42
+889,datang ke tempat,51,834000000,1164000000,2672594,72.0,18,perempuan,Cerai mati,51
+890,datang ke tempat,57,1312000000,1971000000,2797100,67.0,28,perempuan,Belum menikah,53
+891,datang ke tempat,51,524000000,1282500000,2428039,41.0,24,perempuan,Cerai hidup,63
+892,datang ke tempat,47,994000000,1622500000,1943895,61.0,16,laki-laki,Cerai mati,59
+893,datang ke tempat,55,602000000,1734500000,3095943,35.0,22,perempuan,Cerai mati,42
+894,datang ke tempat,56,190000000,349000000,3093896,54.0,28,perempuan,Belum menikah,62
+895,datang ke tempat,49,512000000,510500000,2299016,100.0,20,laki-laki,Cerai mati,53
+896,datang ke tempat,46,472000000,807500000,2090774,57.99999999999999,20,perempuan,Belum menikah,30
+897,datang ke tempat,48,806000000,1252500000,2821935,64.0,20,perempuan,Belum menikah,61
+898,datang ke tempat,51,938000000,1411500000,2569113,66.0,18,perempuan,Cerai hidup,50
+899,datang ke tempat,51,282000000,517500000,2858289,54.0,27,perempuan,Cerai mati,51
+900,datang ke tempat,56,208000000,1889500000,2392534,11.0,17,laki-laki,Belum menikah,24
+901,datang ke tempat,57,1428000000,1600500000,3170994,89.0,27,laki-laki,Menikah,27
+902,datang ke tempat,45,488000000,517500000,1899361,94.0,19,laki-laki,Belum menikah,35
+903,datang ke tempat,56,1568000000,1916500000,2827117,82.0,21,perempuan,Cerai hidup,59
+904,datang ke tempat,45,1242000000,1453500000,2057659,85.0,22,perempuan,Cerai hidup,39
+905,datang ke tempat,44,662000000,784000000,2686613,84.0,17,perempuan,Cerai mati,45
+906,datang ke tempat,40,336000000,795500000,2119590,42.0,25,laki-laki,Cerai hidup,38
+907,datang ke tempat,45,366000000,607500000,1866326,60.0,25,perempuan,Belum menikah,59
+908,datang ke tempat,43,340000000,539000000,2109070,63.0,20,laki-laki,Cerai mati,30
+909,datang ke tempat,47,204000000,1145500000,2152172,18.0,22,laki-laki,Cerai hidup,60
+910,datang ke tempat,54,460000000,1416000000,3042999,32.0,30,laki-laki,Cerai mati,48
+911,datang ke tempat,58,634000000,1767500000,3231292,36.0,25,perempuan,Cerai hidup,31
+912,datang ke tempat,46,232000000,789500000,2399267,28.999999999999996,27,laki-laki,Belum menikah,36
+913,datang ke tempat,43,168000000,236000000,2406574,71.0,23,laki-laki,Cerai hidup,59
+914,datang ke tempat,42,382000000,1359000000,1727002,28.000000000000004,20,perempuan,Menikah,50
+915,datang ke tempat,43,780000000,980000000,1845045,80.0,19,perempuan,Cerai hidup,46
+916,datang ke tempat,43,228000000,498500000,2110660,46.0,23,laki-laki,Menikah,55
+917,datang ke tempat,55,998000000,1899500000,2806134,53.0,21,laki-laki,Cerai mati,61
+918,datang ke tempat,58,330000000,369500000,3252224,89.0,19,laki-laki,Cerai mati,36
+919,datang ke tempat,57,1170000000,1914000000,3145242,61.0,18,perempuan,Belum menikah,56
+920,datang ke tempat,40,860000000,1238000000,1724596,69.0,28,laki-laki,Belum menikah,47
+921,datang ke tempat,58,440000000,590000000,2851233,75.0,25,laki-laki,Cerai mati,57
+922,datang ke tempat,51,154000000,511500000,2450269,30.0,18,laki-laki,Belum menikah,45
+923,datang ke tempat,56,134000000,1592500000,2569921,8.0,22,laki-laki,Menikah,50
+924,datang ke tempat,41,96000000,113500000,2054312,85.0,21,laki-laki,Menikah,60
+925,datang ke tempat,41,350000000,874000000,2101276,40.0,16,perempuan,Cerai mati,57
+926,datang ke tempat,55,536000000,1013000000,3011095,53.0,23,laki-laki,Cerai mati,45
+927,datang ke tempat,52,906000000,1284500000,2684539,71.0,21,perempuan,Belum menikah,56
+928,datang ke tempat,44,554000000,559000000,2419013,99.0,23,perempuan,Menikah,49
+929,datang ke tempat,55,326000000,1190000000,2266741,27.0,18,perempuan,Belum menikah,29
+930,datang ke tempat,41,86000000,119500000,2374249,72.0,18,perempuan,Cerai mati,44
+931,datang ke tempat,48,972000000,1084500000,2177591,90.0,27,laki-laki,Menikah,48
+932,datang ke tempat,55,224000000,729500000,3098397,31.0,17,perempuan,Belum menikah,46
+933,datang ke tempat,48,292000000,936000000,2056320,31.0,23,laki-laki,Belum menikah,48
+934,datang ke tempat,45,1092000000,1186500000,2682036,92.0,29,laki-laki,Cerai hidup,54
+935,datang ke tempat,51,560000000,655500000,2600630,85.0,21,laki-laki,Cerai mati,53
+936,datang ke tempat,55,636000000,1647500000,2391537,39.0,27,perempuan,Belum menikah,32
+937,datang ke tempat,56,428000000,1442500000,2681115,30.0,16,perempuan,Belum menikah,51
+938,datang ke tempat,52,740000000,750500000,2261762,99.0,29,laki-laki,Cerai hidup,27
+939,datang ke tempat,43,106000000,1302500000,2231046,8.0,27,laki-laki,Belum menikah,38
+940,datang ke tempat,55,794000000,801500000,2521632,99.0,28,perempuan,Cerai mati,31
+941,datang ke tempat,44,94000000,125500000,2678482,75.0,28,laki-laki,Cerai hidup,28
+942,datang ke tempat,42,1082000000,1164000000,2284024,93.0,20,perempuan,Belum menikah,29
+943,datang ke tempat,50,192000000,1039000000,2170766,18.0,16,laki-laki,Cerai mati,53
+944,datang ke tempat,40,554000000,947000000,2174211,59.0,16,perempuan,Menikah,54
+945,datang ke tempat,49,190000000,725000000,2965898,26.0,29,perempuan,Cerai hidup,44
+946,datang ke tempat,45,114000000,1018500000,2303713,11.0,20,perempuan,Cerai mati,60
+947,datang ke tempat,55,1026000000,1847000000,2755512,56.00000000000001,22,laki-laki,Belum menikah,59
+948,datang ke tempat,46,212000000,1350500000,2169925,16.0,17,perempuan,Menikah,36
+949,datang ke tempat,50,156000000,164500000,2596322,95.0,18,laki-laki,Belum menikah,28
+950,datang ke tempat,59,194000000,1576000000,2591111,12.0,19,perempuan,Menikah,52
+951,datang ke tempat,50,252000000,1355500000,2980260,19.0,16,perempuan,Cerai mati,23
+952,datang ke tempat,58,1002000000,1011500000,2574485,99.0,20,perempuan,Cerai hidup,28
+953,datang ke tempat,53,920000000,1228000000,2892999,75.0,28,perempuan,Menikah,37
+954,datang ke tempat,40,114000000,399500000,2104483,28.999999999999996,18,laki-laki,Cerai mati,62
+955,datang ke tempat,40,118000000,119000000,1758571,99.0,20,perempuan,Cerai mati,46
+956,datang ke tempat,54,112000000,513000000,2271813,22.0,29,laki-laki,Belum menikah,51
+957,datang ke tempat,41,452000000,611500000,1820164,74.0,20,perempuan,Menikah,50
+958,datang ke tempat,51,172000000,228000000,2217394,75.0,27,perempuan,Cerai hidup,39
+959,datang ke tempat,46,484000000,861500000,1898846,56.00000000000001,28,laki-laki,Menikah,51
+960,datang ke tempat,50,570000000,773500000,2020980,74.0,17,laki-laki,Menikah,49
+961,datang ke tempat,52,238000000,243500000,2650360,98.0,21,perempuan,Menikah,52
+962,datang ke tempat,49,128000000,497000000,2319542,26.0,20,laki-laki,Menikah,26
+963,datang ke tempat,48,270000000,378000000,2504973,71.0,26,perempuan,Belum menikah,38
+964,datang ke tempat,51,678000000,1147500000,2861793,59.0,29,perempuan,Belum menikah,57
+965,datang ke tempat,50,396000000,763000000,2245831,52.0,25,laki-laki,Menikah,50
+966,datang ke tempat,57,352000000,510000000,2765636,69.0,18,perempuan,Menikah,48
+967,datang ke tempat,41,572000000,1021000000,2325561,56.00000000000001,26,laki-laki,Cerai hidup,43
+968,datang ke tempat,57,584000000,1500000000,2566487,39.0,17,perempuan,Cerai hidup,40
+969,datang ke tempat,47,380000000,571000000,2356798,67.0,28,laki-laki,Menikah,46
+970,datang ke tempat,50,226000000,337000000,2425323,67.0,20,laki-laki,Cerai hidup,49
+971,datang ke tempat,56,190000000,401500000,3344090,47.0,26,laki-laki,Cerai mati,53
+972,datang ke tempat,42,168000000,219000000,2330098,77.0,23,perempuan,Belum menikah,23
+973,datang ke tempat,45,226000000,796500000,2368034,28.000000000000004,21,perempuan,Belum menikah,60
+974,datang ke tempat,41,328000000,346000000,2269628,95.0,24,perempuan,Menikah,62
+975,datang ke tempat,56,304000000,899500000,2928435,34.0,28,perempuan,Menikah,36
+976,datang ke tempat,47,128000000,157000000,2343851,82.0,19,laki-laki,Cerai hidup,49
+977,datang ke tempat,50,922000000,977500000,2115962,94.0,22,perempuan,Menikah,46
+978,datang ke tempat,46,176000000,236000000,2395047,75.0,27,perempuan,Cerai hidup,44
+979,datang ke tempat,40,884000000,1374500000,2249303,64.0,29,perempuan,Belum menikah,40
+980,datang ke tempat,59,722000000,775000000,3582769,93.0,27,perempuan,Cerai hidup,25
+981,datang ke tempat,47,578000000,1106500000,1899169,52.0,18,laki-laki,Belum menikah,39
+982,datang ke tempat,47,340000000,1556500000,2436269,22.0,19,perempuan,Cerai hidup,33
+983,datang ke tempat,55,160000000,920000000,2770251,17.0,30,perempuan,Belum menikah,25
+984,datang ke tempat,49,700000000,957500000,2166146,73.0,29,perempuan,Belum menikah,62
+985,datang ke tempat,47,294000000,319000000,2687665,92.0,23,laki-laki,Cerai mati,24
+986,datang ke tempat,42,132000000,960000000,2122238,14.000000000000002,26,perempuan,Cerai mati,30
+987,datang ke tempat,48,146000000,460500000,2663433,32.0,24,laki-laki,Cerai hidup,41
+988,datang ke tempat,52,118000000,149000000,3061289,79.0,18,perempuan,Cerai hidup,36
+989,datang ke tempat,50,114000000,455500000,2854240,25.0,28,perempuan,Belum menikah,33
+990,datang ke tempat,59,552000000,1538500000,3080151,36.0,21,laki-laki,Belum menikah,34
+991,datang ke tempat,47,218000000,1225000000,2765313,18.0,28,laki-laki,Menikah,39
+992,datang ke tempat,51,1488000000,1645500000,2677951,90.0,19,perempuan,Belum menikah,52
+993,datang ke tempat,47,236000000,791500000,2852705,30.0,25,perempuan,Belum menikah,32
+994,datang ke tempat,46,102000000,761000000,2009203,13.0,24,laki-laki,Cerai hidup,52
+995,datang ke tempat,47,470000000,1582000000,1909527,30.0,27,perempuan,Menikah,43
+996,datang ke tempat,40,340000000,542000000,1944959,63.0,18,laki-laki,Cerai mati,60
+997,datang ke tempat,41,194000000,293500000,2007534,66.0,21,perempuan,Cerai hidup,37
+998,datang ke tempat,42,96000000,94500000,1934095,102.0,17,laki-laki,Cerai mati,59
+999,datang ke tempat,41,96000000,797500000,2072971,12.0,25,laki-laki,Menikah,39
